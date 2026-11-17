@@ -1,0 +1,62 @@
+{
+ "wwf_divide": {
+  "id": "wwf_divide",
+  "file": "media/src/wwf_divide.mp4",
+  "title": "Why We Fight: Divide and Conquer (1943)",
+  "license": "Dominio público (US War Department; Public Domain Mark 1.0 en Archive.org)",
+  "credit": "U.S. War Department / National Archives · Archive.org item divide-and-conquer-1943_202504",
+  "page": "https://archive.org/details/divide-and-conquer-1943_202504",
+  "duration": 3384.950998
+ },
+ "wwf_britain": {
+  "id": "wwf_britain",
+  "file": "media/src/wwf_britain.mp4",
+  "title": "Why We Fight: The Battle of Britain (1943)",
+  "license": "Dominio público (US War Department; licenseurl publicdomain en Archive.org)",
+  "credit": "U.S. War Department / National Archives · Archive.org item BattleOfBritain",
+  "page": "https://archive.org/details/BattleOfBritain",
+  "duration": 3135.835836
+ },
+ "wwf_divide_b": {
+  "id": "wwf_divide_b",
+  "file": "media/src/wwf_divide.mp4",
+  "title": "Why We Fight: Divide and Conquer (1943)",
+  "license": "Dominio público (US War Department; Public Domain Mark 1.0 en Archive.org)",
+  "credit": "U.S. War Department / National Archives · Archive.org item divide-and-conquer-1943_202504",
+  "page": "https://archive.org/details/divide-and-conquer-1943_202504",
+  "duration": 3384.950998
+ },
+ "wwf_britain_b": {
+  "id": "wwf_britain_b",
+  "file": "media/src/wwf_britain.mp4",
+  "title": "Why We Fight: The Battle of Britain (1943)",
+  "license": "Dominio público (US War Department; licenseurl publicdomain en Archive.org)",
+  "credit": "U.S. War Department / National Archives · Archive.org item BattleOfBritain",
+  "page": "https://archive.org/details/BattleOfBritain",
+  "duration": 3135.835836
+ },
+ "spain_in_revolt": {
+  "id": "spain_in_revolt",
+  "file": "media/src/spain_in_revolt.mp4",
+  "title": "Spain in Revolt (Part II) — Prelinger Archives",
+  "license": "Prelinger Archives (sin restricciones conocidas; Archive.org)",
+  "credit": "Prelinger Archives · Archive.org item spain_in_revolt",
+  "page": "https://archive.org/details/spain_in_revolt"
+ },
+ "spain_revolt_r3": {
+  "id": "spain_revolt_r3",
+  "file": "media/src/spain_revolt_r3.ogv",
+  "title": "Spain in Revolt (R3) — Prelinger Archives",
+  "license": "Prelinger Archives (sin restricciones conocidas; Archive.org)",
+  "credit": "Prelinger Archives · Archive.org item 0540_Spain_in_Revolt_R3",
+  "page": "https://archive.org/details/0540_Spain_in_Revolt_R3"
+ },
+ "npc16555": {
+  "id": "npc16555",
+  "file": "media/src/npc16555.mp4",
+  "title": "Naval Photographic Center film 16555 (British carrier, 1940)",
+  "license": "Dominio público (U.S. Navy / National Archives; Public Domain Mark 1.0)",
+  "credit": "U.S. Naval Photographic Center / National Archives · Archive.org item NPC-16555",
+  "page": "https://archive.org/details/NPC-16555"
+ }
+}

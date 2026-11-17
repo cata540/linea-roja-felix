@@ -1,0 +1,14 @@
+node_modules/
+video/out/
+video/media/
+video/public/img/
+video/public/ai/
+video/data/voice*/
+video/data/sh*/
+video/data/tmp/
+video/data/chk_*.png
+*.log
+!video/public/audio/
+video/data/audio/
+video/data/make_clips2.log
+video/data/timeline_prev.json

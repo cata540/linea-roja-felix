@@ -1,0 +1,2414 @@
+[
+ {
+  "id": 0,
+  "chapter": 0,
+  "par": 0,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Octubre de 1940.",
+  "tts": "Octubre de 1940."
+ },
+ {
+  "id": 1,
+  "chapter": 0,
+  "par": 0,
+  "first": false,
+  "lastOfPar": false,
+  "text": "En una estación de tren de la frontera franco-española, el hombre más poderoso de Europa espera a un general español.",
+  "tts": "En una estación de tren de la frontera franco-española, el hombre más poderoso de Europa espera a un general español."
+ },
+ {
+  "id": 2,
+  "chapter": 0,
+  "par": 0,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Adolf Hitler acaba de derrotar a Francia en seis semanas.",
+  "tts": "Adolf Jítler acaba de derrotar a Francia en seis semanas."
+ },
+ {
+  "id": 3,
+  "chapter": 0,
+  "par": 0,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Francisco Franco llegó al poder en una guerra civil con ayuda militar alemana.",
+  "tts": "Francisco Franco llegó al poder en una guerra civil con ayuda militar alemana."
+ },
+ {
+  "id": 4,
+  "chapter": 0,
+  "par": 0,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Todo apunta a que España está a punto de entrar en la guerra.",
+  "tts": "Todo apunta a que España está a punto de entrar en la guerra."
+ },
+ {
+  "id": 5,
+  "chapter": 0,
+  "par": 1,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Siete horas después, Hitler sale de la entrevista sin el acuerdo que buscaba.",
+  "tts": "Siete horas después, Jítler sale de la entrevista sin el acuerdo que buscaba."
+ },
+ {
+  "id": 6,
+  "chapter": 0,
+  "par": 1,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Y veinte días más tarde firma una orden secreta con un nombre de pila: Operación Félix.",
+  "tts": "Y veinte días más tarde firma una orden secreta con un nombre de pila: Operación Félix."
+ },
+ {
+  "id": 7,
+  "chapter": 0,
+  "par": 1,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Su objetivo: tomar Gibraltar, cerrar el Estrecho y echar a los británicos del Mediterráneo occidental.",
+  "tts": "Su objetivo: tomar Gibraltar, cerrar el Estrecho y echar a los británicos del Mediterráneo occidental."
+ },
+ {
+  "id": 8,
+  "chapter": 0,
+  "par": 1,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Fecha prevista para cruzar los Pirineos: el diez de enero de 1941.",
+  "tts": "Fecha prevista para cruzar los Pirineos: el diez de enero de 1941."
+ },
+ {
+  "id": 9,
+  "chapter": 0,
+  "par": 2,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Esa fecha pasó.",
+  "tts": "Esa fecha pasó."
+ },
+ {
+  "id": 10,
+  "chapter": 0,
+  "par": 2,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Ni un solo soldado alemán cruzó la frontera.",
+  "tts": "Ni un solo soldado alemán cruzó la frontera."
+ },
+ {
+  "id": 11,
+  "chapter": 0,
+  "par": 2,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y Hitler terminó escribiendo, con rabia, que Franco cometía el mayor error de su vida.",
+  "tts": "Y Jítler terminó escribiendo, con rabia, que Franco cometía el mayor error de su vida."
+ },
+ {
+  "id": 12,
+  "chapter": 0,
+  "par": 3,
+  "first": true,
+  "lastOfPar": false,
+  "text": "La explicación que se ha repetido durante décadas es muy cómoda: Franco, astuto gallego, engañó a Hitler y salvó a España de la guerra.",
+  "tts": "La explicación que se ha repetido durante décadas es muy cómoda: Franco, astuto gallego, engañó a Jítler y salvó a España de la guerra."
+ },
+ {
+  "id": 13,
+  "chapter": 0,
+  "par": 3,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Es una historia que el propio régimen se encargó de fabricar.",
+  "tts": "Es una historia que el propio régimen se encargó de fabricar."
+ },
+ {
+  "id": 14,
+  "chapter": 0,
+  "par": 3,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Pero los documentos cuentan otra cosa.",
+  "tts": "Pero los documentos cuentan otra cosa."
+ },
+ {
+  "id": 15,
+  "chapter": 0,
+  "par": 3,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Mucho menos heroica.",
+  "tts": "Mucho menos heroica."
+ },
+ {
+  "id": 16,
+  "chapter": 0,
+  "par": 3,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y mucho más inquietante.",
+  "tts": "Y mucho más inquietante."
+ },
+ {
+  "id": 17,
+  "chapter": 0,
+  "par": 4,
+  "first": true,
+  "lastOfPar": true,
+  "text": "Para entenderla hay que volver a una España que, en 1940, se estaba muriendo de hambre.",
+  "tts": "Para entenderla hay que volver a una España que, en 1940, se estaba muriendo de hambre."
+ },
+ {
+  "id": 18,
+  "chapter": 1,
+  "par": 0,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Primero de abril de 1939.",
+  "tts": "Primero de abril de 1939."
+ },
+ {
+  "id": 19,
+  "chapter": 1,
+  "par": 0,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Termina la guerra civil española.",
+  "tts": "Termina la guerra civil española."
+ },
+ {
+  "id": 20,
+  "chapter": 1,
+  "par": 0,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Franco ha ganado, pero ha heredado un país devastado: ciudades en ruinas, ferrocarriles destrozados, campos sin cultivar y una población agotada.",
+  "tts": "Franco ha ganado, pero ha heredado un país devastado: ciudades en ruinas, ferrocarriles destrozados, campos sin cultivar y una población agotada."
+ },
+ {
+  "id": 21,
+  "chapter": 1,
+  "par": 1,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Esa devastación no tardó en convertirse en hambre.",
+  "tts": "Esa devastación no tardó en convertirse en hambre."
+ },
+ {
+  "id": 22,
+  "chapter": 1,
+  "par": 1,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Un estudio publicado en la revista académica Contemporary European History, de Cambridge, describe cómo, ya en los primeros meses de 1940, en muchas provincias la ración oficial dejaba de incluir pan.",
+  "tts": "Un estudio publicado en la revista académica Contemporary European History, de Cambridge, describe cómo, ya en los primeros meses de 1940, en muchas provincias la ración oficial dejaba de incluir pan."
+ },
+ {
+  "id": 23,
+  "chapter": 1,
+  "par": 1,
+  "first": false,
+  "lastOfPar": true,
+  "text": "En Jaén, una de las provincias trigueras de España, pueblos grandes como Andújar, Linares o Úbeda pasaban más de veinte días al mes sin recibirlo.",
+  "tts": "En Jaén, una de las provincias trigueras de España, pueblos grandes como Andújar, Linares o Úbeda pasaban más de veinte días al mes sin recibirlo."
+ },
+ {
+  "id": 24,
+  "chapter": 1,
+  "par": 2,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Los informes de la época recogen ya las primeras muertes por inanición.",
+  "tts": "Los informes de la época recogen ya las primeras muertes por inanición."
+ },
+ {
+  "id": 25,
+  "chapter": 1,
+  "par": 2,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Un niño en Altorricón, en Huesca.",
+  "tts": "Un niño en Altorricón, en Huesca."
+ },
+ {
+  "id": 26,
+  "chapter": 1,
+  "par": 2,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Cinco personas en Níjar, en Almería, en septiembre de 1939.",
+  "tts": "Cinco personas en Níjar, en Almería, en septiembre de 1939."
+ },
+ {
+  "id": 27,
+  "chapter": 1,
+  "par": 3,
+  "first": true,
+  "lastOfPar": false,
+  "text": "A todo eso se sumaba una política económica que el régimen llamó autarquía: producir todo dentro de casa, sin depender de nadie.",
+  "tts": "A todo eso se sumaba una política económica que el régimen llamó autarquía: producir todo dentro de casa, sin depender de nadie."
+ },
+ {
+  "id": 28,
+  "chapter": 1,
+  "par": 3,
+  "first": false,
+  "lastOfPar": true,
+  "text": "En la práctica, empobrecía todavía más a las zonas más aisladas.",
+  "tts": "En la práctica, empobrecía todavía más a las zonas más aisladas."
+ },
+ {
+  "id": 29,
+  "chapter": 1,
+  "par": 4,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Y la comida que no se producía en España había que traerla por mar.",
+  "tts": "Y la comida que no se producía en España había que traerla por mar."
+ },
+ {
+  "id": 30,
+  "chapter": 1,
+  "par": 4,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Eso tenía una consecuencia directa: quien controlara el mar, controlaría el estómago del país.",
+  "tts": "Eso tenía una consecuencia directa: quien controlara el mar, controlaría el estómago del país."
+ },
+ {
+  "id": 31,
+  "chapter": 1,
+  "par": 5,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Ese alguien era la Marina Real británica.",
+  "tts": "Ese alguien era la Marina Real británica."
+ },
+ {
+  "id": 32,
+  "chapter": 1,
+  "par": 5,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Desde el uno de diciembre de 1939, Londres exigía a los barcos neutrales un certificado, el navicert, para dejar pasar sus cargamentos.",
+  "tts": "Desde el uno de diciembre de 1939, Londres exigía a los barcos neutrales un certificado, el navicert, para dejar pasar sus cargamentos."
+ },
+ {
+  "id": 33,
+  "chapter": 1,
+  "par": 5,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Quien no lo tenía, esperaba en puerto.",
+  "tts": "Quien no lo tenía, esperaba en puerto."
+ },
+ {
+  "id": 34,
+  "chapter": 1,
+  "par": 5,
+  "first": false,
+  "lastOfPar": true,
+  "text": "El embajador de España en Londres, el duque de Alba, escribió a Madrid en octubre de 1939 que Gran Bretaña ya retenía más de setecientos buques.",
+  "tts": "El embajador de España en Londres, el duque de Alba, escribió a Madrid en octubre de 1939 que Gran Bretaña ya retenía más de setecientos buques."
+ },
+ {
+  "id": 35,
+  "chapter": 1,
+  "par": 6,
+  "first": true,
+  "lastOfPar": true,
+  "text": "Quedaba así dibujado el cuadro que explica casi todo lo que viene: una dictadura con ambiciones de gran potencia, pero con el pan racionado, y un enemigo potencial que podía cortarle el grano cuando quisiera.",
+  "tts": "Quedaba así dibujado el cuadro que explica casi todo lo que viene: una dictadura con ambiciones de gran potencia, pero con el pan racionado, y un enemigo potencial que podía cortarle el grano cuando quisiera."
+ },
+ {
+  "id": 36,
+  "chapter": 2,
+  "par": 0,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Mayo y junio de 1940 lo cambiaron todo.",
+  "tts": "Mayo y junio de 1940 lo cambiaron todo."
+ },
+ {
+  "id": 37,
+  "chapter": 2,
+  "par": 0,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Alemania derrotó a Francia en pocas semanas.",
+  "tts": "Alemania derrotó a Francia en pocas semanas."
+ },
+ {
+  "id": 38,
+  "chapter": 2,
+  "par": 0,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y los dirigentes franquistas, que hasta entonces habían proclamado la neutralidad, vieron una oportunidad histórica.",
+  "tts": "Y los dirigentes franquistas, que hasta entonces habían proclamado la neutralidad, vieron una oportunidad histórica."
+ },
+ {
+  "id": 39,
+  "chapter": 2,
+  "par": 1,
+  "first": true,
+  "lastOfPar": false,
+  "text": "España abandonó la neutralidad y se declaró no beligerante, una fórmula que significaba, en la práctica, una aliada a la espera.",
+  "tts": "España abandonó la neutralidad y se declaró no beligerante, una fórmula que significaba, en la práctica, una aliada a la espera."
+ },
+ {
+  "id": 40,
+  "chapter": 2,
+  "par": 1,
+  "first": false,
+  "lastOfPar": false,
+  "text": "El catorce de junio de 1940, el mismo día en que los alemanes entraban en París, las tropas españolas ocuparon Tánger.",
+  "tts": "El catorce de junio de 1940, el mismo día en que los alemanes entraban en París, las tropas españolas ocuparon Tánger."
+ },
+ {
+  "id": 41,
+  "chapter": 2,
+  "par": 1,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Cinco días después, Franco escribió a Hitler ofreciéndole entrar en la guerra a cambio de ayuda para construir un imperio colonial.",
+  "tts": "Cinco días después, Franco escribió a Jítler ofreciéndole entrar en la guerra a cambio de ayuda para construir un imperio colonial."
+ },
+ {
+  "id": 42,
+  "chapter": 2,
+  "par": 2,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Hitler, curiosamente, no lo tomó en serio.",
+  "tts": "Jítler, curiosamente, no lo tomó en serio."
+ },
+ {
+  "id": 43,
+  "chapter": 2,
+  "par": 2,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Estaba convencido de que Gran Bretaña pediría la paz.",
+  "tts": "Estaba convencido de que Gran Bretaña pediría la paz."
+ },
+ {
+  "id": 44,
+  "chapter": 2,
+  "par": 2,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y le molestó que Franco reclamara, entre otras cosas, el Camerún francés, una colonia que había sido alemana antes de 1914 y que él quería recuperar.",
+  "tts": "Y le molestó que Franco reclamara, entre otras cosas, el Camerún francés, una colonia que había sido alemana antes de 1914 y que él quería recuperar."
+ },
+ {
+  "id": 45,
+  "chapter": 2,
+  "par": 3,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Pero Gran Bretaña no pidió la paz.",
+  "tts": "Pero Gran Bretaña no pidió la paz."
+ },
+ {
+  "id": 46,
+  "chapter": 2,
+  "par": 3,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Y a medida que avanzaba el verano, en Berlín empezó a ganar fuerza una idea alternativa: si no se podía invadir el Reino Unido, quizá se podía estrangularlo.",
+  "tts": "Y a medida que avanzaba el verano, en Berlín empezó a ganar fuerza una idea alternativa: si no se podía invadir el Reino Unido, quizá se podía estrangularlo."
+ },
+ {
+  "id": 47,
+  "chapter": 2,
+  "par": 3,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y el punto de estrangulamiento tenía un nombre: Gibraltar.",
+  "tts": "Y el punto de estrangulamiento tenía un nombre: Gibraltar."
+ },
+ {
+  "id": 48,
+  "chapter": 2,
+  "par": 4,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Gibraltar controla la puerta del Mediterráneo.",
+  "tts": "Gibraltar controla la puerta del Mediterráneo."
+ },
+ {
+  "id": 49,
+  "chapter": 2,
+  "par": 4,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Quien la cierra, obliga a los barcos británicos a rodear África para llegar a Suez y a la India.",
+  "tts": "Quien la cierra, obliga a los barcos británicos a rodear África para llegar a Suez y a la India."
+ },
+ {
+  "id": 50,
+  "chapter": 2,
+  "par": 4,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Según los relatos habituales, hasta Hermann Göring y el general Guderian defendieron, tras la caída de Francia, un golpe por España.",
+  "tts": "Según los relatos habituales, hasta Hermann Göring y el general Guderian defendieron, tras la caída de Francia, un golpe por España."
+ },
+ {
+  "id": 51,
+  "chapter": 2,
+  "par": 5,
+  "first": true,
+  "lastOfPar": false,
+  "text": "El doce de julio, el alto mando alemán creó un grupo especial para planificarlo.",
+  "tts": "El doce de julio, el alto mando alemán creó un grupo especial para planificarlo."
+ },
+ {
+  "id": 52,
+  "chapter": 2,
+  "par": 5,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Diez días después, el jefe del espionaje militar, el almirante Wilhelm Canaris, viajó a Madrid y después a Algeciras, para estudiar los accesos al Peñón.",
+  "tts": "Diez días después, el jefe del espionaje militar, el almirante Wilhelm Canaris, viajó a Madrid y después a Algeciras, para estudiar los accesos al Peñón."
+ },
+ {
+  "id": 53,
+  "chapter": 3,
+  "par": 0,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Canaris volvió de Algeciras con una conclusión que no le gustó a nadie.",
+  "tts": "Canaris volvió de Algeciras con una conclusión que no le gustó a nadie."
+ },
+ {
+  "id": 54,
+  "chapter": 3,
+  "par": 0,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Según el relato recogido por los historiadores, la toma del Peñón exigía una potente fuerza de asalto y, sobre todo, artillería pesada de enorme calibre que el ejército alemán no tenía a mano.",
+  "tts": "Según el relato recogido por los historiadores, la toma del Peñón exigía una potente fuerza de asalto y, sobre todo, artillería pesada de enorme calibre que el ejército alemán no tenía a mano."
+ },
+ {
+  "id": 55,
+  "chapter": 3,
+  "par": 0,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y aunque lograran tomarlo, los británicos podrían desembarcar en Marruecos o en el África occidental francesa.",
+  "tts": "Y aunque lograran tomarlo, los británicos podrían desembarcar en Marruecos o en el África occidental francesa."
+ },
+ {
+  "id": 56,
+  "chapter": 3,
+  "par": 1,
+  "first": true,
+  "lastOfPar": true,
+  "text": "También comprobó otra cosa: el régimen de Franco no tenía ninguna prisa por entrar en la guerra.",
+  "tts": "También comprobó otra cosa: el régimen de Franco no tenía ninguna prisa por entrar en la guerra."
+ },
+ {
+  "id": 57,
+  "chapter": 3,
+  "par": 2,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Canaris no era un observador neutral.",
+  "tts": "Canaris no era un observador neutral."
+ },
+ {
+  "id": 58,
+  "chapter": 3,
+  "par": 2,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Era un hombre de inteligencia que conocía bien España, y en agosto se reunió con Ramón Serrano Súñer, el cuñado de Franco, a punto de convertirse en su ministro de Exteriores.",
+  "tts": "Era un hombre de inteligencia que conocía bien España, y en agosto se reunió con Ramón Serrano Súñer, el cuñado de Franco, a punto de convertirse en su ministro de Exteriores."
+ },
+ {
+  "id": 59,
+  "chapter": 3,
+  "par": 2,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Los historiadores recogen que le aconsejó que hiciera lo posible para mantener a su país fuera del conflicto.",
+  "tts": "Los historiadores recogen que le aconsejó que hiciera lo posible para mantener a su país fuera del conflicto."
+ },
+ {
+  "id": 60,
+  "chapter": 3,
+  "par": 3,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Pero el plan siguió adelante.",
+  "tts": "Pero el plan siguió adelante."
+ },
+ {
+  "id": 61,
+  "chapter": 3,
+  "par": 3,
+  "first": false,
+  "lastOfPar": false,
+  "text": "El veinticuatro de agosto, Hitler aprobó un plan general para tomar Gibraltar.",
+  "tts": "El veinticuatro de agosto, Jítler aprobó un plan general para tomar Gibraltar."
+ },
+ {
+  "id": 62,
+  "chapter": 3,
+  "par": 3,
+  "first": false,
+  "lastOfPar": false,
+  "text": "El dieciséis de septiembre, Serrano Súñer fue a Berlín y se entrevistó con el Führer.",
+  "tts": "El dieciséis de septiembre, Serrano Súñer fue a Berlín y se entrevistó con el Führer."
+ },
+ {
+  "id": 63,
+  "chapter": 3,
+  "par": 3,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Hitler no insistió demasiado.",
+  "tts": "Jítler no insistió demasiado."
+ },
+ {
+  "id": 64,
+  "chapter": 3,
+  "par": 3,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Estaba a punto de ver a Franco en persona.",
+  "tts": "Estaba a punto de ver a Franco en persona."
+ },
+ {
+  "id": 65,
+  "chapter": 3,
+  "par": 4,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Mientras tanto, en el propio Peñón se preparaban para lo peor.",
+  "tts": "Mientras tanto, en el propio Peñón se preparaban para lo peor."
+ },
+ {
+  "id": 66,
+  "chapter": 3,
+  "par": 4,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Al estallar la guerra con Italia, la mayoría de la población civil fue evacuada.",
+  "tts": "Al estallar la guerra con Italia, la mayoría de la población civil fue evacuada."
+ },
+ {
+  "id": 67,
+  "chapter": 3,
+  "par": 4,
+  "first": false,
+  "lastOfPar": false,
+  "text": "A principios de junio de 1940, unos trece mil quinientos gibraltareños fueron enviados a Casablanca.",
+  "tts": "A principios de junio de 1940, unos trece mil quinientos gibraltareños fueron enviados a Casablanca."
+ },
+ {
+  "id": 68,
+  "chapter": 3,
+  "par": 4,
+  "first": false,
+  "lastOfPar": false,
+  "text": "La guarnición británica se más que duplicó.",
+  "tts": "La guarnición británica se más que duplicó."
+ },
+ {
+  "id": 69,
+  "chapter": 3,
+  "par": 4,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Se excavaron kilómetros de túneles dentro de la roca y se levantó una red de defensas junto a la frontera.",
+  "tts": "Se excavaron kilómetros de túneles dentro de la roca y se levantó una red de defensas junto a la frontera."
+ },
+ {
+  "id": 70,
+  "chapter": 3,
+  "par": 5,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Gibraltar no se iba a dejar tomar sin pelear.",
+  "tts": "Gibraltar no se iba a dejar tomar sin pelear."
+ },
+ {
+  "id": 71,
+  "chapter": 3,
+  "par": 5,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y esa era solo la mitad del problema.",
+  "tts": "Y esa era solo la mitad del problema."
+ },
+ {
+  "id": 72,
+  "chapter": 4,
+  "par": 0,
+  "first": true,
+  "lastOfPar": false,
+  "text": "En junio de 1940, justo cuando España coqueteaba con las potencias del Eje, llegó a Madrid un nuevo embajador británico.",
+  "tts": "En junio de 1940, justo cuando España coqueteaba con las potencias del Eje, llegó a Madrid un nuevo embajador británico."
+ },
+ {
+  "id": 73,
+  "chapter": 4,
+  "par": 0,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Sir Samuel Hoare había sido ministro y diputado conservador.",
+  "tts": "Sir Samuel Hoare había sido ministro y diputado conservador."
+ },
+ {
+  "id": 74,
+  "chapter": 4,
+  "par": 0,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Su misión, tal como la describen los historiadores, era mejorar las relaciones con Franco, contrarrestar la influencia italiana y alemana sobre él, y evitar que España entrara en la guerra.",
+  "tts": "Su misión, tal como la describen los historiadores, era mejorar las relaciones con Franco, contrarrestar la influencia italiana y alemana sobre él, y evitar que España entrara en la guerra."
+ },
+ {
+  "id": 75,
+  "chapter": 4,
+  "par": 1,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Y su arma principal no eran los discursos.",
+  "tts": "Y su arma principal no eran los discursos."
+ },
+ {
+  "id": 76,
+  "chapter": 4,
+  "par": 1,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Era el pan.",
+  "tts": "Era el pan."
+ },
+ {
+  "id": 77,
+  "chapter": 4,
+  "par": 2,
+  "first": true,
+  "lastOfPar": true,
+  "text": "Un consejero económico de la embajada, David Eccles, lo resumió en una frase que se ha hecho célebre: Franco pronto aprendería que Alemania no podía ofrecerle trigo, petróleo ni algodón, mientras que la Commonwealth británica sí.",
+  "tts": "Un consejero económico de la embajada, David Eccles, lo resumió en una frase que se ha hecho célebre: Franco pronto aprendería que Alemania no podía ofrecerle trigo, petróleo ni algodón, mientras que la Commonwealth británica sí."
+ },
+ {
+  "id": 78,
+  "chapter": 4,
+  "par": 3,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Porque ese era el problema de fondo.",
+  "tts": "Porque ese era el problema de fondo."
+ },
+ {
+  "id": 79,
+  "chapter": 4,
+  "par": 3,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Alemania era un aliado ideológico, pero no un proveedor.",
+  "tts": "Alemania era un aliado ideológico, pero no un proveedor."
+ },
+ {
+  "id": 80,
+  "chapter": 4,
+  "par": 3,
+  "first": false,
+  "lastOfPar": false,
+  "text": "El trigo se compraba en Argentina y Canadá.",
+  "tts": "El trigo se compraba en Argentina y Canadá."
+ },
+ {
+  "id": 81,
+  "chapter": 4,
+  "par": 3,
+  "first": false,
+  "lastOfPar": false,
+  "text": "El combustible también dependía de importaciones.",
+  "tts": "El combustible también dependía de importaciones."
+ },
+ {
+  "id": 82,
+  "chapter": 4,
+  "par": 3,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y todo eso pasaba por mares que controlaba la flota británica.",
+  "tts": "Y todo eso pasaba por mares que controlaba la flota británica."
+ },
+ {
+  "id": 83,
+  "chapter": 4,
+  "par": 4,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Londres jugó con una táctica que los historiadores llaman del palo y la zanahoria.",
+  "tts": "Londres jugó con una táctica que los historiadores llaman del palo y la zanahoria."
+ },
+ {
+  "id": 84,
+  "chapter": 4,
+  "par": 4,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Cuando España se acercaba al Eje, los barcos quedaban retenidos.",
+  "tts": "Cuando España se acercaba al Eje, los barcos quedaban retenidos."
+ },
+ {
+  "id": 85,
+  "chapter": 4,
+  "par": 4,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Cuando se mostraba prudente, llegaban los créditos y los cargamentos.",
+  "tts": "Cuando se mostraba prudente, llegaban los créditos y los cargamentos."
+ },
+ {
+  "id": 86,
+  "chapter": 4,
+  "par": 5,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Hay, además, un capítulo mucho más oscuro.",
+  "tts": "Hay, además, un capítulo mucho más oscuro."
+ },
+ {
+  "id": 87,
+  "chapter": 4,
+  "par": 5,
+  "first": false,
+  "lastOfPar": false,
+  "text": "El historiador Ángel Viñas, trabajando con documentos hoy abiertos en los Archivos Nacionales británicos, ha descrito una operación secreta autorizada por Winston Churchill en 1940 para pagar a generales franquistas y mantener a España fuera de la guerra.",
+  "tts": "El historiador Ángel Viñas, trabajando con documentos hoy abiertos en los Archivos Nacionales británicos, ha descrito una operación secreta autorizada por Winston Chérchil en 1940 para pagar a generales franquistas y mantener a España fuera de la guerra."
+ },
+ {
+  "id": 88,
+  "chapter": 4,
+  "par": 5,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Las cifras que se citan varían según las fuentes, entre diez y catorce millones de dólares, y no está claro cuánto pesó realmente aquel dinero en las decisiones de los generales.",
+  "tts": "Las cifras que se citan varían según las fuentes, entre diez y catorce millones de dólares, y no está claro cuánto pesó realmente aquel dinero en las decisiones de los generales."
+ },
+ {
+  "id": 89,
+  "chapter": 4,
+  "par": 5,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Pero la operación está documentada.",
+  "tts": "Pero la operación está documentada."
+ },
+ {
+  "id": 90,
+  "chapter": 4,
+  "par": 6,
+  "first": true,
+  "lastOfPar": true,
+  "text": "Con esa presión de fondo, el veintitrés de octubre de 1940, Hitler y Franco se encontraron por fin cara a cara.",
+  "tts": "Con esa presión de fondo, el veintitrés de octubre de 1940, Jítler y Franco se encontraron por fin cara a cara."
+ },
+ {
+  "id": 91,
+  "chapter": 5,
+  "par": 0,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Hendaya es una pequeña localidad francesa pegada a la frontera con España.",
+  "tts": "Hendaya es una pequeña localidad francesa pegada a la frontera con España."
+ },
+ {
+  "id": 92,
+  "chapter": 5,
+  "par": 0,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Allí, en la estación, esperaba el tren del Führer.",
+  "tts": "Allí, en la estación, esperaba el tren del Führer."
+ },
+ {
+  "id": 93,
+  "chapter": 5,
+  "par": 0,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Con él venía su ministro de Exteriores, Joachim von Ribbentrop.",
+  "tts": "Con él venía su ministro de Exteriores, Joachim von Ribbentrop."
+ },
+ {
+  "id": 94,
+  "chapter": 5,
+  "par": 0,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Del lado español, Franco llegó acompañado de Serrano Súñer, que acababa de ser nombrado ministro de Exteriores cinco días antes.",
+  "tts": "Del lado español, Franco llegó acompañado de Serrano Súñer, que acababa de ser nombrado ministro de Exteriores cinco días antes."
+ },
+ {
+  "id": 95,
+  "chapter": 5,
+  "par": 1,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Fue la única vez que Hitler y Franco se vieron en persona.",
+  "tts": "Fue la única vez que Jítler y Franco se vieron en persona."
+ },
+ {
+  "id": 96,
+  "chapter": 5,
+  "par": 1,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Duró alrededor de siete horas.",
+  "tts": "Duró alrededor de siete horas."
+ },
+ {
+  "id": 97,
+  "chapter": 5,
+  "par": 2,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Hitler quería una cosa: que España entrara en la guerra cuanto antes, para tomar Gibraltar con tropas alemanas y cerrar el Mediterráneo.",
+  "tts": "Jítler quería una cosa: que España entrara en la guerra cuanto antes, para tomar Gibraltar con tropas alemanas y cerrar el Mediterráneo."
+ },
+ {
+  "id": 98,
+  "chapter": 5,
+  "par": 2,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Franco también quería entrar.",
+  "tts": "Franco también quería entrar."
+ },
+ {
+  "id": 99,
+  "chapter": 5,
+  "par": 2,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Pero a cambio de un precio.",
+  "tts": "Pero a cambio de un precio."
+ },
+ {
+  "id": 100,
+  "chapter": 5,
+  "par": 3,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Y ese precio era descomunal.",
+  "tts": "Y ese precio era descomunal."
+ },
+ {
+  "id": 101,
+  "chapter": 5,
+  "par": 3,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Según los historiadores, Franco pidió Gibraltar, por supuesto.",
+  "tts": "Según los historiadores, Franco pidió Gibraltar, por supuesto."
+ },
+ {
+  "id": 102,
+  "chapter": 5,
+  "par": 3,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Pero también todo el Marruecos francés, parte de Argelia, incluida la región de Orán, y que el Camerún francés se uniera a la colonia española de Guinea.",
+  "tts": "Pero también todo el Marruecos francés, parte de Argelia, incluida la región de Orán, y que el Camerún francés se uniera a la colonia española de Guinea."
+ },
+ {
+  "id": 103,
+  "chapter": 5,
+  "par": 3,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y, además, grandes cantidades de comida, combustible y armas.",
+  "tts": "Y, además, grandes cantidades de comida, combustible y armas."
+ },
+ {
+  "id": 104,
+  "chapter": 5,
+  "par": 4,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Cada una de esas peticiones chocaba con un problema para Hitler.",
+  "tts": "Cada una de esas peticiones chocaba con un problema para Jítler."
+ },
+ {
+  "id": 105,
+  "chapter": 5,
+  "par": 4,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Marruecos y Argelia pertenecían a la Francia de Vichy, el régimen colaboracionista del mariscal Pétain.",
+  "tts": "Marruecos y Argelia pertenecían a la Francia de Vichy, el régimen colaboracionista del mariscal Pétain."
+ },
+ {
+  "id": 106,
+  "chapter": 5,
+  "par": 4,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Hitler necesitaba que Vichy siguiera de su lado, sobre todo después del fracaso aliado en Dakar, donde las fuerzas de Vichy habían resistido.",
+  "tts": "Jítler necesitaba que Vichy siguiera de su lado, sobre todo después del fracaso aliado en Dakar, donde las fuerzas de Vichy habían resistido."
+ },
+ {
+  "id": 107,
+  "chapter": 5,
+  "par": 4,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y ese mismo octubre se entrevistó con Pétain, en Montoire.",
+  "tts": "Y ese mismo octubre se entrevistó con Pétain, en Montoire."
+ },
+ {
+  "id": 108,
+  "chapter": 5,
+  "par": 5,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Era una disyuntiva imposible.",
+  "tts": "Era una disyuntiva imposible."
+ },
+ {
+  "id": 109,
+  "chapter": 5,
+  "par": 5,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Para contentar a Franco, Hitler tenía que traicionar a Vichy.",
+  "tts": "Para contentar a Franco, Jítler tenía que traicionar a Vichy."
+ },
+ {
+  "id": 110,
+  "chapter": 5,
+  "par": 5,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y si contentaba a Vichy, perdía a Franco.",
+  "tts": "Y si contentaba a Vichy, perdía a Franco."
+ },
+ {
+  "id": 111,
+  "chapter": 5,
+  "par": 6,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Hitler quiso evitar el dilema con promesas vagas: España recibiría territorios en África, sí, pero sin concretar cuáles ni cuándo.",
+  "tts": "Jítler quiso evitar el dilema con promesas vagas: España recibiría territorios en África, sí, pero sin concretar cuáles ni cuándo."
+ },
+ {
+  "id": 112,
+  "chapter": 5,
+  "par": 6,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y la ayuda económica llegaría solo después de entrar en la guerra, no antes.",
+  "tts": "Y la ayuda económica llegaría solo después de entrar en la guerra, no antes."
+ },
+ {
+  "id": 113,
+  "chapter": 5,
+  "par": 7,
+  "first": true,
+  "lastOfPar": true,
+  "text": "Para un país que se estaba muriendo de hambre, esa fórmula era casi absurda: pedir que se arriesgara a la guerra para recibir después la comida que necesitaba para sobrevivir.",
+  "tts": "Para un país que se estaba muriendo de hambre, esa fórmula era casi absurda: pedir que se arriesgara a la guerra para recibir después la comida que necesitaba para sobrevivir."
+ },
+ {
+  "id": 114,
+  "chapter": 5,
+  "par": 8,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Al final, se firmó un acuerdo secreto.",
+  "tts": "Al final, se firmó un acuerdo secreto."
+ },
+ {
+  "id": 115,
+  "chapter": 5,
+  "par": 8,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Franco se comprometía a entrar en la guerra, pero en la fecha que él eligiera.",
+  "tts": "Franco se comprometía a entrar en la guerra, pero en la fecha que él eligiera."
+ },
+ {
+  "id": 116,
+  "chapter": 5,
+  "par": 8,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y Hitler daba solo vagas garantías de que España recibiría territorios en África.",
+  "tts": "Y Jítler daba solo vagas garantías de que España recibiría territorios en África."
+ },
+ {
+  "id": 117,
+  "chapter": 5,
+  "par": 9,
+  "first": true,
+  "lastOfPar": true,
+  "text": "Poco después, según cuenta la tradición, Hitler le habría dicho a Mussolini que prefería que le arrancaran tres o cuatro dientes antes que volver a pasar por otra reunión con aquel hombre.",
+  "tts": "Poco después, según cuenta la tradición, Jítler le habría dicho a Mussolini que prefería que le arrancaran tres o cuatro dientes antes que volver a pasar por otra reunión con aquel hombre."
+ },
+ {
+  "id": 118,
+  "chapter": 5,
+  "par": 10,
+  "first": true,
+  "lastOfPar": true,
+  "text": "Un historiador español, Enrique Moradiellos, resumió lo ocurrido con una frase demoledora: aquello era un apetito imperial excesivo para alguien con tan pocos dientes.",
+  "tts": "Un historiador español, Enrique Moradiellos, resumió lo ocurrido con una frase demoledora: aquello era un apetito imperial excesivo para alguien con tan pocos dientes."
+ },
+ {
+  "id": 119,
+  "chapter": 6,
+  "par": 0,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Con los años, el régimen de Franco construyó un relato muy distinto de aquella tarde.",
+  "tts": "Con los años, el régimen de Franco construyó un relato muy distinto de aquella tarde."
+ },
+ {
+  "id": 120,
+  "chapter": 6,
+  "par": 0,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Según él, el Caudillo había sido más astuto que Hitler.",
+  "tts": "Según él, el Caudillo había sido más astuto que Jítler."
+ },
+ {
+  "id": 121,
+  "chapter": 6,
+  "par": 0,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Había presentado exigencias imposibles a propósito, para no entrar nunca en la guerra y salvar así a España.",
+  "tts": "Había presentado exigencias imposibles a propósito, para no entrar nunca en la guerra y salvar así a España."
+ },
+ {
+  "id": 122,
+  "chapter": 6,
+  "par": 1,
+  "first": true,
+  "lastOfPar": false,
+  "text": "El historiador Paul Preston lo bautizó como el mito de Hendaya, en un artículo publicado en 1992.",
+  "tts": "El historiador Paul Preston lo bautizó como el mito de Hendaya, en un artículo publicado en 1992."
+ },
+ {
+  "id": 123,
+  "chapter": 6,
+  "par": 1,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Y lo desmontó con una idea sencilla: Franco no jugó a quedarse fuera.",
+  "tts": "Y lo desmontó con una idea sencilla: Franco no jugó a quedarse fuera."
+ },
+ {
+  "id": 124,
+  "chapter": 6,
+  "par": 1,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Quería entrar.",
+  "tts": "Quería entrar."
+ },
+ {
+  "id": 125,
+  "chapter": 6,
+  "par": 1,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Lo que ocurrió es que el precio que pedía no lo podía pagar Hitler.",
+  "tts": "Lo que ocurrió es que el precio que pedía no lo podía pagar Jítler."
+ },
+ {
+  "id": 126,
+  "chapter": 6,
+  "par": 1,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y los alemanes se dieron cuenta de que, si cedían, perdían a Vichy.",
+  "tts": "Y los alemanes se dieron cuenta de que, si cedían, perdían a Vichy."
+ },
+ {
+  "id": 127,
+  "chapter": 6,
+  "par": 2,
+  "first": true,
+  "lastOfPar": false,
+  "text": "El estudio de Cambridge que ya hemos citado va todavía más lejos.",
+  "tts": "El estudio de Cambridge que ya hemos citado va todavía más lejos."
+ },
+ {
+  "id": 128,
+  "chapter": 6,
+  "par": 2,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Sostiene que lo que bloqueó a España no fue solo su situación económica, ni la voluntad de Franco, sino las ambiciones imperiales de la Alemania nazi, incompatibles con las españolas en África.",
+  "tts": "Sostiene que lo que bloqueó a España no fue solo su situación económica, ni la voluntad de Franco, sino las ambiciones imperiales de la Alemania nazi, incompatibles con las españolas en África."
+ },
+ {
+  "id": 129,
+  "chapter": 6,
+  "par": 3,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Es una interpretación importante, y conviene presentarla como tal: otras lecturas dan más peso a la debilidad española.",
+  "tts": "Es una interpretación importante, y conviene presentarla como tal: otras lecturas dan más peso a la debilidad española."
+ },
+ {
+  "id": 130,
+  "chapter": 6,
+  "par": 3,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Lo que nadie discute es que Hendaya no fue una victoria brillante de Franco.",
+  "tts": "Lo que nadie discute es que Hendaya no fue una victoria brillante de Franco."
+ },
+ {
+  "id": 131,
+  "chapter": 6,
+  "par": 3,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Fue un regateo que se estancó.",
+  "tts": "Fue un regateo que se estancó."
+ },
+ {
+  "id": 132,
+  "chapter": 6,
+  "par": 4,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Y lo más curioso es lo que ocurrió después.",
+  "tts": "Y lo más curioso es lo que ocurrió después."
+ },
+ {
+  "id": 133,
+  "chapter": 6,
+  "par": 4,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Porque pese al fracaso de la reunión, Hitler no renunció.",
+  "tts": "Porque pese al fracaso de la reunión, Jítler no renunció."
+ },
+ {
+  "id": 134,
+  "chapter": 6,
+  "par": 4,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y empezó a preparar la invasión.",
+  "tts": "Y empezó a preparar la invasión."
+ },
+ {
+  "id": 135,
+  "chapter": 7,
+  "par": 0,
+  "first": true,
+  "lastOfPar": false,
+  "text": "El doce de noviembre de 1940, Hitler firmó una orden secreta que hoy se conserva como prueba en los juicios de Núremberg.",
+  "tts": "El doce de noviembre de 1940, Jítler firmó una orden secreta que hoy se conserva como prueba en los juicios de Núremberg."
+ },
+ {
+  "id": 136,
+  "chapter": 7,
+  "par": 0,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Es la Directiva número 18, y dedica un apartado entero a España y Portugal.",
+  "tts": "Es la Directiva número 18, y dedica un apartado entero a España y Portugal."
+ },
+ {
+  "id": 137,
+  "chapter": 7,
+  "par": 1,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Dice, textualmente, que se han dado pasos políticos para conseguir una pronta entrada de España en la guerra.",
+  "tts": "Dice, textualmente, que se han dado pasos políticos para conseguir una pronta entrada de España en la guerra."
+ },
+ {
+  "id": 138,
+  "chapter": 7,
+  "par": 1,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Y que el objetivo de la intervención alemana en la península ibérica, nombre en clave Félix, será expulsar a los ingleses del Mediterráneo occidental.",
+  "tts": "Y que el objetivo de la intervención alemana en la península ibérica, nombre en clave Félix, será expulsar a los ingleses del Mediterráneo occidental."
+ },
+ {
+  "id": 139,
+  "chapter": 7,
+  "par": 1,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Para ello, Gibraltar será tomado y el Estrecho, cerrado.",
+  "tts": "Para ello, Gibraltar será tomado y el Estrecho, cerrado."
+ },
+ {
+  "id": 140,
+  "chapter": 7,
+  "par": 2,
+  "first": true,
+  "lastOfPar": false,
+  "text": "El plan era meticuloso.",
+  "tts": "El plan era meticuloso."
+ },
+ {
+  "id": 141,
+  "chapter": 7,
+  "par": 2,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Oficiales alemanes con ropa de civil harían el reconocimiento del Peñón y de los aeródromos.",
+  "tts": "Oficiales alemanes con ropa de civil harían el reconocimiento del Peñón y de los aeródromos."
+ },
+ {
+  "id": 142,
+  "chapter": 7,
+  "par": 2,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Unidades de los servicios secretos protegerían la zona en colaboración secreta con los españoles.",
+  "tts": "Unidades de los servicios secretos protegerían la zona en colaboración secreta con los españoles."
+ },
+ {
+  "id": 143,
+  "chapter": 7,
+  "par": 2,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y las tropas se mantendrían lejos de la frontera, sin informar a los soldados, hasta tres semanas antes del cruce.",
+  "tts": "Y las tropas se mantendrían lejos de la frontera, sin informar a los soldados, hasta tres semanas antes del cruce."
+ },
+ {
+  "id": 144,
+  "chapter": 7,
+  "par": 3,
+  "first": true,
+  "lastOfPar": false,
+  "text": "La orden preveía incluso detalles curiosos.",
+  "tts": "La orden preveía incluso detalles curiosos."
+ },
+ {
+  "id": 145,
+  "chapter": 7,
+  "par": 3,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Dada la baja capacidad de los ferrocarriles españoles, el ejército debía enviar sobre todo unidades motorizadas, para dejar los trenes libres para los refuerzos.",
+  "tts": "Dada la baja capacidad de los ferrocarriles españoles, el ejército debía enviar sobre todo unidades motorizadas, para dejar los trenes libres para los refuerzos."
+ },
+ {
+  "id": 146,
+  "chapter": 7,
+  "par": 4,
+  "first": true,
+  "lastOfPar": false,
+  "text": "El ataque empezaría por el aire.",
+  "tts": "El ataque empezaría por el aire."
+ },
+ {
+  "id": 147,
+  "chapter": 7,
+  "par": 4,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Aviones alemanes, despegando desde suelo francés, bombardearían la flota británica en el puerto de Gibraltar y aterrizarían después en aeródromos españoles.",
+  "tts": "Aviones alemanes, despegando desde suelo francés, bombardearían la flota británica en el puerto de Gibraltar y aterrizarían después en aeródromos españoles."
+ },
+ {
+  "id": 148,
+  "chapter": 7,
+  "par": 4,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Después cruzarían los Pirineos las tropas terrestres, con bombarderos en picado y artillería antiaérea.",
+  "tts": "Después cruzarían los Pirineos las tropas terrestres, con bombarderos en picado y artillería antiaérea."
+ },
+ {
+  "id": 149,
+  "chapter": 7,
+  "par": 4,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Los submarinos esperarían a los barcos que huyeran.",
+  "tts": "Los submarinos esperarían a los barcos que huyeran."
+ },
+ {
+  "id": 150,
+  "chapter": 7,
+  "par": 4,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Italia, dice textualmente la orden, no participaría.",
+  "tts": "Italia, dice textualmente la orden, no participaría."
+ },
+ {
+  "id": 151,
+  "chapter": 7,
+  "par": 5,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Y la directiva iba mucho más allá de Gibraltar.",
+  "tts": "Y la directiva iba mucho más allá de Gibraltar."
+ },
+ {
+  "id": 152,
+  "chapter": 7,
+  "par": 5,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Ordenaba estudiar cómo apoyar a los españoles en la defensa de las islas Canarias, cómo ocupar las islas de Cabo Verde, y si convenía ocupar Madeira y las Azores.",
+  "tts": "Ordenaba estudiar cómo apoyar a los españoles en la defensa de las islas Canarias, cómo ocupar las islas de Cabo Verde, y si convenía ocupar Madeira y las Azores."
+ },
+ {
+  "id": 153,
+  "chapter": 7,
+  "par": 5,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Incluso contemplaba entrar en Portugal si los británicos desembarcaban allí.",
+  "tts": "Incluso contemplaba entrar en Portugal si los británicos desembarcaban allí."
+ },
+ {
+  "id": 154,
+  "chapter": 7,
+  "par": 6,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Según los planes conocidos, la operación contaba con dos cuerpos de ejército que cruzarían los Pirineos.",
+  "tts": "Según los planes conocidos, la operación contaba con dos cuerpos de ejército que cruzarían los Pirineos."
+ },
+ {
+  "id": 155,
+  "chapter": 7,
+  "par": 6,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Uno, a las órdenes del general Ludwig Kübler, asaltaría el Peñón.",
+  "tts": "Uno, a las órdenes del general Ludwig Kübler, asaltaría el Peñón."
+ },
+ {
+  "id": 156,
+  "chapter": 7,
+  "par": 6,
+  "first": false,
+  "lastOfPar": false,
+  "text": "El otro, mandado por el general Rudolf Schmidt, protegería los flancos.",
+  "tts": "El otro, mandado por el general Rudolf Schmidt, protegería los flancos."
+ },
+ {
+  "id": 157,
+  "chapter": 7,
+  "par": 6,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Al frente de todo estaría el mariscal Walther von Reichenau.",
+  "tts": "Al frente de todo estaría el mariscal Walther von Reichenau."
+ },
+ {
+  "id": 158,
+  "chapter": 7,
+  "par": 7,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Pero hay un detalle en esa misma directiva que casi nadie recuerda.",
+  "tts": "Pero hay un detalle en esa misma directiva que casi nadie recuerda."
+ },
+ {
+  "id": 159,
+  "chapter": 7,
+  "par": 7,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Su apartado sobre Rusia dice, textualmente, que se han iniciado conversaciones políticas con la Unión Soviética, pero que, con independencia de sus resultados, todos los preparativos para el Este continuarán.",
+  "tts": "Su apartado sobre Rusia dice, textualmente, que se han iniciado conversaciones políticas con la Unión Soviética, pero que, con independencia de sus resultados, todos los preparativos para el Este continuarán."
+ },
+ {
+  "id": 160,
+  "chapter": 7,
+  "par": 8,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Es decir: el mismo papel que ordenaba cerrar el Mediterráneo dejaba claro dónde estaba el verdadero interés de Hitler.",
+  "tts": "Es decir: el mismo papel que ordenaba cerrar el Mediterráneo dejaba claro dónde estaba el verdadero interés de Jítler."
+ },
+ {
+  "id": 161,
+  "chapter": 7,
+  "par": 8,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y esa tensión entre el sur y el este explica buena parte de lo que vino después.",
+  "tts": "Y esa tensión entre el sur y el este explica buena parte de lo que vino después."
+ },
+ {
+  "id": 162,
+  "chapter": 8,
+  "par": 0,
+  "first": true,
+  "lastOfPar": false,
+  "text": "El cinco de diciembre, Hitler reunió a su alto mando y decidió pedir permiso a Franco para que las tropas alemanas cruzaran la frontera el diez de enero de 1941.",
+  "tts": "El cinco de diciembre, Jítler reunió a su alto mando y decidió pedir permiso a Franco para que las tropas alemanas cruzaran la frontera el diez de enero de 1941."
+ },
+ {
+  "id": 163,
+  "chapter": 8,
+  "par": 0,
+  "first": false,
+  "lastOfPar": true,
+  "text": "El encargado de transmitir el mensaje era el almirante Canaris.",
+  "tts": "El encargado de transmitir el mensaje era el almirante Canaris."
+ },
+ {
+  "id": 164,
+  "chapter": 8,
+  "par": 1,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Dos días después, el siete de diciembre, a las siete y media de la tarde, Canaris fue recibido por Franco en Madrid.",
+  "tts": "Dos días después, el siete de diciembre, a las siete y media de la tarde, Canaris fue recibido por Franco en Madrid."
+ },
+ {
+  "id": 165,
+  "chapter": 8,
+  "par": 1,
+  "first": false,
+  "lastOfPar": false,
+  "text": "El acta de aquella reunión la levantó el general Juan Vigón, y el embajador alemán la envió a Berlín.",
+  "tts": "El acta de aquella reunión la levantó el general Juan Vigón, y el embajador alemán la envió a Berlín."
+ },
+ {
+  "id": 166,
+  "chapter": 8,
+  "par": 1,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Hoy se conserva, y es una de las pruebas más reveladoras de todo el asunto.",
+  "tts": "Hoy se conserva, y es una de las pruebas más reveladoras de todo el asunto."
+ },
+ {
+  "id": 167,
+  "chapter": 8,
+  "par": 2,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Canaris le comunicó el deseo alemán de atacar Gibraltar en breve, con tropas entrando en España el diez de enero.",
+  "tts": "Canaris le comunicó el deseo alemán de atacar Gibraltar en breve, con tropas entrando en España el diez de enero."
+ },
+ {
+  "id": 168,
+  "chapter": 8,
+  "par": 2,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y le dijo que, apenas empezara la marcha, comenzaría también la cooperación económica de Alemania.",
+  "tts": "Y le dijo que, apenas empezara la marcha, comenzaría también la cooperación económica de Alemania."
+ },
+ {
+  "id": 169,
+  "chapter": 8,
+  "par": 3,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Franco respondió que a España le era imposible entrar en la guerra en esa fecha.",
+  "tts": "Franco respondió que a España le era imposible entrar en la guerra en esa fecha."
+ },
+ {
+  "id": 170,
+  "chapter": 8,
+  "par": 3,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y enumeró sus razones, una a una.",
+  "tts": "Y enumeró sus razones, una a una."
+ },
+ {
+  "id": 171,
+  "chapter": 8,
+  "par": 4,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Primera: la flota británica seguía teniendo libertad de acción.",
+  "tts": "Primera: la flota británica seguía teniendo libertad de acción."
+ },
+ {
+  "id": 172,
+  "chapter": 8,
+  "par": 4,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Aunque la toma de Gibraltar fuera segura y rápida, los ingleses se vengarían ocupando Guinea y después, probablemente, una de las islas Canarias.",
+  "tts": "Aunque la toma de Gibraltar fuera segura y rápida, los ingleses se vengarían ocupando Guinea y después, probablemente, una de las islas Canarias."
+ },
+ {
+  "id": 173,
+  "chapter": 8,
+  "par": 4,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y ofrecería a Gran Bretaña y a Estados Unidos el pretexto para ocupar las Azores, Madeira y Cabo Verde.",
+  "tts": "Y ofrecería a Gran Bretaña y a Estados Unidos el pretexto para ocupar las Azores, Madeira y Cabo Verde."
+ },
+ {
+  "id": 174,
+  "chapter": 8,
+  "par": 5,
+  "first": true,
+  "lastOfPar": true,
+  "text": "Segunda: reconoció que la preparación militar estaba incompleta, aunque aclaró que esa no era la razón de fondo.",
+  "tts": "Segunda: reconoció que la preparación militar estaba incompleta, aunque aclaró que esa no era la razón de fondo."
+ },
+ {
+  "id": 175,
+  "chapter": 8,
+  "par": 6,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Y tercera, la más contundente.",
+  "tts": "Y tercera, la más contundente."
+ },
+ {
+  "id": 176,
+  "chapter": 8,
+  "par": 6,
+  "first": false,
+  "lastOfPar": false,
+  "text": "El abastecimiento de España, dijo, era absolutamente inadecuado.",
+  "tts": "El abastecimiento de España, dijo, era absolutamente inadecuado."
+ },
+ {
+  "id": 177,
+  "chapter": 8,
+  "par": 6,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Había un déficit de alimentos, sobre todo de grano, que estimó en un millón de toneladas.",
+  "tts": "Había un déficit de alimentos, sobre todo de grano, que estimó en un millón de toneladas."
+ },
+ {
+  "id": 178,
+  "chapter": 8,
+  "par": 6,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Y además faltaba material ferroviario, y el uso de camiones estaba restringido.",
+  "tts": "Y además faltaba material ferroviario, y el uso de camiones estaba restringido."
+ },
+ {
+  "id": 179,
+  "chapter": 8,
+  "par": 6,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Para sobrevivir, el gobierno estaba comprando generadores de gas para los camiones, por si se acababa el combustible por completo.",
+  "tts": "Para sobrevivir, el gobierno estaba comprando generadores de gas para los camiones, por si se acababa el combustible por completo."
+ },
+ {
+  "id": 180,
+  "chapter": 8,
+  "par": 7,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Una guerra larga, añadió, supondría sacrificios insoportables para el pueblo español.",
+  "tts": "Una guerra larga, añadió, supondría sacrificios insoportables para el pueblo español."
+ },
+ {
+  "id": 181,
+  "chapter": 8,
+  "par": 7,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y las islas Canarias, bloqueadas, solo podían abastecerse durante seis meses.",
+  "tts": "Y las islas Canarias, bloqueadas, solo podían abastecerse durante seis meses."
+ },
+ {
+  "id": 182,
+  "chapter": 8,
+  "par": 8,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Franco aseguró que no pensaba solo en España, sino también en Alemania.",
+  "tts": "Franco aseguró que no pensaba solo en España, sino también en Alemania."
+ },
+ {
+  "id": 183,
+  "chapter": 8,
+  "par": 8,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Un país débil sería una carga para su aliado.",
+  "tts": "Un país débil sería una carga para su aliado."
+ },
+ {
+  "id": 184,
+  "chapter": 8,
+  "par": 9,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Canaris preguntó si al menos podía fijarse una fecha posterior.",
+  "tts": "Canaris preguntó si al menos podía fijarse una fecha posterior."
+ },
+ {
+  "id": 185,
+  "chapter": 8,
+  "par": 9,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Franco respondió que tampoco podía.",
+  "tts": "Franco respondió que tampoco podía."
+ },
+ {
+  "id": 186,
+  "chapter": 8,
+  "par": 9,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y propuso algo muy significativo: que un economista alemán viajara a España para comprobar la situación sobre el terreno.",
+  "tts": "Y propuso algo muy significativo: que un economista alemán viajara a España para comprobar la situación sobre el terreno."
+ },
+ {
+  "id": 187,
+  "chapter": 8,
+  "par": 10,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Es decir: no dijo que no.",
+  "tts": "Es decir: no dijo que no."
+ },
+ {
+  "id": 188,
+  "chapter": 8,
+  "par": 10,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Dijo que no podía.",
+  "tts": "Dijo que no podía."
+ },
+ {
+  "id": 189,
+  "chapter": 8,
+  "par": 10,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y pidió ayuda para poder decir que sí.",
+  "tts": "Y pidió ayuda para poder decir que sí."
+ },
+ {
+  "id": 190,
+  "chapter": 9,
+  "par": 0,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Cuando Hitler recibió el informe de Canaris, decidió cancelar la operación.",
+  "tts": "Cuando Jítler recibió el informe de Canaris, decidió cancelar la operación."
+ },
+ {
+  "id": 191,
+  "chapter": 9,
+  "par": 0,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Su decepción quedó reflejada en una carta posterior a Mussolini, en la que escribió que temía que Franco estuviera cometiendo el mayor error de su vida.",
+  "tts": "Su decepción quedó reflejada en una carta posterior a Mussolini, en la que escribió que temía que Franco estuviera cometiendo el mayor error de su vida."
+ },
+ {
+  "id": 192,
+  "chapter": 9,
+  "par": 1,
+  "first": true,
+  "lastOfPar": true,
+  "text": "Visto desde Madrid, el error habría sido entrar.",
+  "tts": "Visto desde Madrid, el error habría sido entrar."
+ },
+ {
+  "id": 193,
+  "chapter": 9,
+  "par": 2,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Y Hitler tenía su propia razón para no insistir.",
+  "tts": "Y Jítler tenía su propia razón para no insistir."
+ },
+ {
+  "id": 194,
+  "chapter": 9,
+  "par": 2,
+  "first": false,
+  "lastOfPar": false,
+  "text": "El dieciocho de diciembre de 1940, once días después de la reunión de Canaris, firmó la Directiva 21: la orden de preparar la invasión de la Unión Soviética.",
+  "tts": "El dieciocho de diciembre de 1940, once días después de la reunión de Canaris, firmó la Directiva 21: la orden de preparar la invasión de la Unión Soviética."
+ },
+ {
+  "id": 195,
+  "chapter": 9,
+  "par": 2,
+  "first": false,
+  "lastOfPar": true,
+  "text": "La operación Barbarroja.",
+  "tts": "La operación Barbarroja."
+ },
+ {
+  "id": 196,
+  "chapter": 9,
+  "par": 3,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Las tropas y los recursos que Félix necesitaba, Barbarroja los necesitaba también.",
+  "tts": "Las tropas y los recursos que Félix necesitaba, Barbarroja los necesitaba también."
+ },
+ {
+  "id": 197,
+  "chapter": 9,
+  "par": 3,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y Barbarroja era la guerra que de verdad le importaba.",
+  "tts": "Y Barbarroja era la guerra que de verdad le importaba."
+ },
+ {
+  "id": 198,
+  "chapter": 9,
+  "par": 4,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Aun así, no cerró del todo la puerta.",
+  "tts": "Aun así, no cerró del todo la puerta."
+ },
+ {
+  "id": 199,
+  "chapter": 9,
+  "par": 4,
+  "first": false,
+  "lastOfPar": false,
+  "text": "En febrero de 1941 pidió otra vez a Franco que entrara en la guerra.",
+  "tts": "En febrero de 1941 pidió otra vez a Franco que entrara en la guerra."
+ },
+ {
+  "id": 200,
+  "chapter": 9,
+  "par": 4,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Franco contestó que no, alegando de nuevo la precaria situación de la economía y del ejército.",
+  "tts": "Franco contestó que no, alegando de nuevo la precaria situación de la economía y del ejército."
+ },
+ {
+  "id": 201,
+  "chapter": 9,
+  "par": 4,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Ribbentrop se lo dijo a Hitler sin rodeos: en su opinión, Franco no tenía intención de entrar nunca.",
+  "tts": "Ribbentrop se lo dijo a Jítler sin rodeos: en su opinión, Franco no tenía intención de entrar nunca."
+ },
+ {
+  "id": 202,
+  "chapter": 9,
+  "par": 5,
+  "first": true,
+  "lastOfPar": true,
+  "text": "El mismo mes, el alto mando comunicó a la Marina que Félix quedaba descartada por ahora, porque las tropas previstas se necesitarían pronto en otro lugar.",
+  "tts": "El mismo mes, el alto mando comunicó a la Marina que Félix quedaba descartada por ahora, porque las tropas previstas se necesitarían pronto en otro lugar."
+ },
+ {
+  "id": 203,
+  "chapter": 9,
+  "par": 6,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Todavía hubo un último intento.",
+  "tts": "Todavía hubo un último intento."
+ },
+ {
+  "id": 204,
+  "chapter": 9,
+  "par": 6,
+  "first": false,
+  "lastOfPar": false,
+  "text": "El diez de marzo de 1941 se presentó un plan revisado, llamado Félix-Heinrich, que se ejecutaría cuando la invasión de la Unión Soviética hubiera llegado a cierta línea.",
+  "tts": "El diez de marzo de 1941 se presentó un plan revisado, llamado Félix-Heinrich, que se ejecutaría cuando la invasión de la Unión Soviética hubiera llegado a cierta línea."
+ },
+ {
+  "id": 205,
+  "chapter": 9,
+  "par": 6,
+  "first": false,
+  "lastOfPar": true,
+  "text": "La fecha prevista de inicio era el quince de octubre de 1941.",
+  "tts": "La fecha prevista de inicio era el quince de octubre de 1941."
+ },
+ {
+  "id": 206,
+  "chapter": 9,
+  "par": 7,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Esa fecha tampoco llegó.",
+  "tts": "Esa fecha tampoco llegó."
+ },
+ {
+  "id": 207,
+  "chapter": 9,
+  "par": 7,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Porque la guerra contra Rusia se alargó, y nunca hubo tropas de sobra para otro frente.",
+  "tts": "Porque la guerra contra Rusia se alargó, y nunca hubo tropas de sobra para otro frente."
+ },
+ {
+  "id": 208,
+  "chapter": 10,
+  "par": 0,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Mientras tanto, Londres no se quedó de brazos cruzados.",
+  "tts": "Mientras tanto, Londres no se quedó de brazos cruzados."
+ },
+ {
+  "id": 209,
+  "chapter": 10,
+  "par": 0,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Si los alemanes cruzaban los Pirineos, los británicos tenían preparado un contraataque.",
+  "tts": "Si los alemanes cruzaban los Pirineos, los británicos tenían preparado un contraataque."
+ },
+ {
+  "id": 210,
+  "chapter": 10,
+  "par": 1,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Se llamaba Operación Pilgrim: un plan para invadir y ocupar las islas Canarias antes de que cayeran en manos alemanas.",
+  "tts": "Se llamaba Operación Pilgrim: un plan para invadir y ocupar las islas Canarias antes de que cayeran en manos alemanas."
+ },
+ {
+  "id": 211,
+  "chapter": 10,
+  "par": 1,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Los británicos temían que esas islas pusieran en peligro sus rutas marítimas hacia los dominios.",
+  "tts": "Los británicos temían que esas islas pusieran en peligro sus rutas marítimas hacia los dominios."
+ },
+ {
+  "id": 212,
+  "chapter": 10,
+  "par": 1,
+  "first": false,
+  "lastOfPar": true,
+  "text": "El plan nunca llegó a ejecutarse, porque Félix nunca se puso en marcha.",
+  "tts": "El plan nunca llegó a ejecutarse, porque Félix nunca se puso en marcha."
+ },
+ {
+  "id": 213,
+  "chapter": 10,
+  "par": 2,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Hubo además un grupo de oficiales británicos del ejército y la marina, la llamada 128ª Delegación de Enlace, que debía activarse si los alemanes entraban en España.",
+  "tts": "Hubo además un grupo de oficiales británicos del ejército y la marina, la llamada 128ª Delegación de Enlace, que debía activarse si los alemanes entraban en España."
+ },
+ {
+  "id": 214,
+  "chapter": 10,
+  "par": 2,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Tenía dos misiones posibles.",
+  "tts": "Tenía dos misiones posibles."
+ },
+ {
+  "id": 215,
+  "chapter": 10,
+  "par": 2,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Si Franco decidía resistir, apoyarle y servir de enlace con una fuerza británica.",
+  "tts": "Si Franco decidía resistir, apoyarle y servir de enlace con una fuerza británica."
+ },
+ {
+  "id": 216,
+  "chapter": 10,
+  "par": 2,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y si Franco colaboraba con los alemanes, destruir puertos e infraestructura españoles y organizar sabotajes.",
+  "tts": "Y si Franco colaboraba con los alemanes, destruir puertos e infraestructura españoles y organizar sabotajes."
+ },
+ {
+  "id": 217,
+  "chapter": 10,
+  "par": 3,
+  "first": true,
+  "lastOfPar": true,
+  "text": "Es decir: Gran Bretaña tenía previsto apoyar a Franco si resistía a los alemanes, o destruir los puertos españoles si colaboraba con ellos.",
+  "tts": "Es decir: Gran Bretaña tenía previsto apoyar a Franco si resistía a los alemanes, o destruir los puertos españoles si colaboraba con ellos."
+ },
+ {
+  "id": 218,
+  "chapter": 10,
+  "par": 4,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Y esa era una de las razones por las que Franco dudaba.",
+  "tts": "Y esa era una de las razones por las que Franco dudaba."
+ },
+ {
+  "id": 219,
+  "chapter": 10,
+  "par": 4,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Sabía que su país no podría defender Canarias ni el Marruecos español frente a un ataque británico.",
+  "tts": "Sabía que su país no podría defender Canarias ni el Marruecos español frente a un ataque británico."
+ },
+ {
+  "id": 220,
+  "chapter": 10,
+  "par": 4,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y que cualquier paso hacia la guerra le costaría, probablemente, justo aquello por lo que quería entrar en ella.",
+  "tts": "Y que cualquier paso hacia la guerra le costaría, probablemente, justo aquello por lo que quería entrar en ella."
+ },
+ {
+  "id": 221,
+  "chapter": 11,
+  "par": 0,
+  "first": true,
+  "lastOfPar": true,
+  "text": "Entonces, ¿cuál fue la verdadera razón por la que Hitler nunca invadió España?",
+  "tts": "Entonces, ¿cuál fue la verdadera razón por la que Jítler nunca invadió España?"
+ },
+ {
+  "id": 222,
+  "chapter": 11,
+  "par": 1,
+  "first": true,
+  "lastOfPar": false,
+  "text": "La respuesta honesta es que no hay una sola.",
+  "tts": "La respuesta honesta es que no hay una sola."
+ },
+ {
+  "id": 223,
+  "chapter": 11,
+  "par": 1,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Pero sí hay un orden de importancia razonable, que los documentos permiten sostener.",
+  "tts": "Pero sí hay un orden de importancia razonable, que los documentos permiten sostener."
+ },
+ {
+  "id": 224,
+  "chapter": 11,
+  "par": 2,
+  "first": true,
+  "lastOfPar": false,
+  "text": "La primera razón fue el precio.",
+  "tts": "La primera razón fue el precio."
+ },
+ {
+  "id": 225,
+  "chapter": 11,
+  "par": 2,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Franco quería entrar, pero pedía el Marruecos francés, parte de Argelia y el Camerún.",
+  "tts": "Franco quería entrar, pero pedía el Marruecos francés, parte de Argelia y el Camerún."
+ },
+ {
+  "id": 226,
+  "chapter": 11,
+  "par": 2,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Hitler no podía dárselo sin romper con Vichy.",
+  "tts": "Jítler no podía dárselo sin romper con Vichy."
+ },
+ {
+  "id": 227,
+  "chapter": 11,
+  "par": 2,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Y no podía prometerlo sin romper con Italia, que tenía sus propias ambiciones en el Mediterráneo.",
+  "tts": "Y no podía prometerlo sin romper con Italia, que tenía sus propias ambiciones en el Mediterráneo."
+ },
+ {
+  "id": 228,
+  "chapter": 11,
+  "par": 2,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Era una subasta imposible: lo que Franco pedía, Hitler no podía pagarlo.",
+  "tts": "Era una subasta imposible: lo que Franco pedía, Jítler no podía pagarlo."
+ },
+ {
+  "id": 229,
+  "chapter": 11,
+  "par": 3,
+  "first": true,
+  "lastOfPar": false,
+  "text": "La segunda razón fue el hambre.",
+  "tts": "La segunda razón fue el hambre."
+ },
+ {
+  "id": 230,
+  "chapter": 11,
+  "par": 3,
+  "first": false,
+  "lastOfPar": false,
+  "text": "España no podía sostener una guerra.",
+  "tts": "España no podía sostener una guerra."
+ },
+ {
+  "id": 231,
+  "chapter": 11,
+  "par": 3,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Lo dijo el propio Franco ante Canaris, con cifras: un déficit de un millón de toneladas de grano.",
+  "tts": "Lo dijo el propio Franco ante Canaris, con cifras: un déficit de un millón de toneladas de grano."
+ },
+ {
+  "id": 232,
+  "chapter": 11,
+  "par": 3,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y lo confirman los estudios modernos sobre la hambruna de aquellos años.",
+  "tts": "Y lo confirman los estudios modernos sobre la hambruna de aquellos años."
+ },
+ {
+  "id": 233,
+  "chapter": 11,
+  "par": 4,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Conviene añadir un matiz importante.",
+  "tts": "Conviene añadir un matiz importante."
+ },
+ {
+  "id": 234,
+  "chapter": 11,
+  "par": 4,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Franco también usó el hambre como argumento de negociación.",
+  "tts": "Franco también usó el hambre como argumento de negociación."
+ },
+ {
+  "id": 235,
+  "chapter": 11,
+  "par": 4,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Pero no era un argumento falso: era real.",
+  "tts": "Pero no era un argumento falso: era real."
+ },
+ {
+  "id": 236,
+  "chapter": 11,
+  "par": 4,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y Alemania, como había advertido Eccles, no podía suplir ni el trigo ni el petróleo que España necesitaba.",
+  "tts": "Y Alemania, como había advertido Eccles, no podía suplir ni el trigo ni el petróleo que España necesitaba."
+ },
+ {
+  "id": 237,
+  "chapter": 11,
+  "par": 5,
+  "first": true,
+  "lastOfPar": false,
+  "text": "La tercera razón fue la presión británica.",
+  "tts": "La tercera razón fue la presión británica."
+ },
+ {
+  "id": 238,
+  "chapter": 11,
+  "par": 5,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Hoare, el bloqueo naval, el trigo que llegaba o no llegaba, y la operación de sobornos que describe Viñas.",
+  "tts": "Hoare, el bloqueo naval, el trigo que llegaba o no llegaba, y la operación de sobornos que describe Viñas."
+ },
+ {
+  "id": 239,
+  "chapter": 11,
+  "par": 5,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Es tentador creer que algo así lo decide todo.",
+  "tts": "Es tentador creer que algo así lo decide todo."
+ },
+ {
+  "id": 240,
+  "chapter": 11,
+  "par": 5,
+  "first": false,
+  "lastOfPar": false,
+  "text": "No hay pruebas de eso.",
+  "tts": "No hay pruebas de eso."
+ },
+ {
+  "id": 241,
+  "chapter": 11,
+  "par": 5,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Pero sí hubo una estrategia consistente, y funcionó como un freno permanente sobre cualquier decisión de Franco.",
+  "tts": "Pero sí hubo una estrategia consistente, y funcionó como un freno permanente sobre cualquier decisión de Franco."
+ },
+ {
+  "id": 242,
+  "chapter": 11,
+  "par": 6,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Hay un detalle revelador.",
+  "tts": "Hay un detalle revelador."
+ },
+ {
+  "id": 243,
+  "chapter": 11,
+  "par": 6,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Según las memorias de Serrano Súñer, cuando él regresó de Hendaya y habló con los embajadores británico y estadounidense, bastó con decirles que la reunión había sido de amistad para que suspendieran la entrega de treinta mil toneladas de trigo que se estaban cargando en América.",
+  "tts": "Según las memorias de Serrano Súñer, cuando él regresó de Hendaya y habló con los embajadores británico y estadounidense, bastó con decirles que la reunión había sido de amistad para que suspendieran la entrega de treinta mil toneladas de trigo que se estaban cargando en América."
+ },
+ {
+  "id": 244,
+  "chapter": 11,
+  "par": 6,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Un solo gesto, y el pan se detenía.",
+  "tts": "Un solo gesto, y el pan se detenía."
+ },
+ {
+  "id": 245,
+  "chapter": 11,
+  "par": 7,
+  "first": true,
+  "lastOfPar": false,
+  "text": "La cuarta razón fue militar.",
+  "tts": "La cuarta razón fue militar."
+ },
+ {
+  "id": 246,
+  "chapter": 11,
+  "par": 7,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Canaris había advertido desde el verano de que Gibraltar no era un golpe fácil, y de que la reacción británica en el Atlántico podía costar más de lo que se ganaba.",
+  "tts": "Canaris había advertido desde el verano de que Gibraltar no era un golpe fácil, y de que la reacción británica en el Atlántico podía costar más de lo que se ganaba."
+ },
+ {
+  "id": 247,
+  "chapter": 11,
+  "par": 8,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Y la quinta, la que lo explica todo: Hitler tenía otra guerra en la cabeza.",
+  "tts": "Y la quinta, la que lo explica todo: Jítler tenía otra guerra en la cabeza."
+ },
+ {
+  "id": 248,
+  "chapter": 11,
+  "par": 8,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Mientras Félix se preparaba, Barbarroja se firmaba.",
+  "tts": "Mientras Félix se preparaba, Barbarroja se firmaba."
+ },
+ {
+  "id": 249,
+  "chapter": 11,
+  "par": 8,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y cuando hubo que elegir, Moscú pesó más que Gibraltar.",
+  "tts": "Y cuando hubo que elegir, Moscú pesó más que Gibraltar."
+ },
+ {
+  "id": 250,
+  "chapter": 11,
+  "par": 9,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Lo que no hubo, en ningún caso, fue un duelo de astucia.",
+  "tts": "Lo que no hubo, en ningún caso, fue un duelo de astucia."
+ },
+ {
+  "id": 251,
+  "chapter": 11,
+  "par": 9,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Franco no engañó a Hitler.",
+  "tts": "Franco no engañó a Jítler."
+ },
+ {
+  "id": 252,
+  "chapter": 11,
+  "par": 9,
+  "first": false,
+  "lastOfPar": true,
+  "text": "España simplemente no podía permitirse la guerra que Hitler le ofrecía, ni él podía pagar lo que Franco exigía por entrar en ella.",
+  "tts": "España simplemente no podía permitirse la guerra que Jítler le ofrecía, ni él podía pagar lo que Franco exigía por entrar en ella."
+ },
+ {
+  "id": 253,
+  "chapter": 12,
+  "par": 0,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Y, sin embargo, España no se quedó al margen.",
+  "tts": "Y, sin embargo, España no se quedó al margen."
+ },
+ {
+  "id": 254,
+  "chapter": 12,
+  "par": 0,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Cuando Alemania invadió la Unión Soviética, en 1941, Franco aprobó el reclutamiento de voluntarios para combatir en el frente oriental, con la condición de que solo lucharan contra los soviéticos y no contra los aliados occidentales.",
+  "tts": "Cuando Alemania invadió la Unión Soviética, en 1941, Franco aprobó el reclutamiento de voluntarios para combatir en el frente oriental, con la condición de que solo lucharan contra los soviéticos y no contra los aliados occidentales."
+ },
+ {
+  "id": 255,
+  "chapter": 12,
+  "par": 0,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Nació así la División Azul, que combatió con el ejército alemán entre 1941 y 1944.",
+  "tts": "Nació así la División Azul, que combatió con el ejército alemán entre 1941 y 1944."
+ },
+ {
+  "id": 256,
+  "chapter": 12,
+  "par": 1,
+  "first": true,
+  "lastOfPar": true,
+  "text": "Además, el régimen permitió que los submarinos alemanes repostaran en puertos españoles, dejó que la prensa hiciera propaganda del Eje, permitió el transporte de wolframio y alimentos hacia Alemania y toleró que espías de la Gestapo operaran en el país.",
+  "tts": "Además, el régimen permitió que los submarinos alemanes repostaran en puertos españoles, dejó que la prensa hiciera propaganda del Eje, permitió el transporte de wolframio y alimentos hacia Alemania y toleró que espías de la Gestapo operaran en el país."
+ },
+ {
+  "id": 257,
+  "chapter": 12,
+  "par": 2,
+  "first": true,
+  "lastOfPar": false,
+  "text": "La neutralidad de España no fue pureza moral.",
+  "tts": "La neutralidad de España no fue pureza moral."
+ },
+ {
+  "id": 258,
+  "chapter": 12,
+  "par": 2,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Fue una consecuencia de su debilidad, de su dependencia del trigo ajeno y de un precio que ninguna de las partes podía pagar.",
+  "tts": "Fue una consecuencia de su debilidad, de su dependencia del trigo ajeno y de un precio que ninguna de las partes podía pagar."
+ },
+ {
+  "id": 259,
+  "chapter": 12,
+  "par": 2,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y cuando la guerra cambió de signo, el régimen volvió a hablar de neutralidad estricta, y a contar la historia del Caudillo astuto que había burlado a Hitler.",
+  "tts": "Y cuando la guerra cambió de signo, el régimen volvió a hablar de neutralidad estricta, y a contar la historia del Caudillo astuto que había burlado a Jítler."
+ },
+ {
+  "id": 260,
+  "chapter": 12,
+  "par": 3,
+  "first": true,
+  "lastOfPar": false,
+  "text": "Es un mito que sobrevivió décadas.",
+  "tts": "Es un mito que sobrevivió décadas."
+ },
+ {
+  "id": 261,
+  "chapter": 12,
+  "par": 3,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Pero los documentos que hoy se pueden leer, desde la directiva firmada por Hitler hasta el acta del general Vigón, cuentan lo contrario: la historia de un dictador que quería entrar en la guerra, que no tenía con qué, y que tuvo la suerte de pedir tanto que nadie pudo dárselo.",
+  "tts": "Pero los documentos que hoy se pueden leer, desde la directiva firmada por Jítler hasta el acta del general Vigón, cuentan lo contrario: la historia de un dictador que quería entrar en la guerra, que no tenía con qué, y que tuvo la suerte de pedir tanto que nadie pudo dárselo."
+ },
+ {
+  "id": 262,
+  "chapter": 12,
+  "par": 4,
+  "first": true,
+  "lastOfPar": true,
+  "text": "Una suerte que, para millones de españoles, fue la diferencia entre una guerra más y la supervivencia.",
+  "tts": "Una suerte que, para millones de españoles, fue la diferencia entre una guerra más y la supervivencia."
+ },
+ {
+  "id": 263,
+  "chapter": 12,
+  "par": 5,
+  "first": true,
+  "lastOfPar": false,
+  "text": "La historia cambia cuando dejamos de preguntar por qué Franco dijo que no.",
+  "tts": "La historia cambia cuando dejamos de preguntar por qué Franco dijo que no."
+ },
+ {
+  "id": 264,
+  "chapter": 12,
+  "par": 5,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Y empezamos a preguntar por qué nadie pudo pagar el precio del sí.",
+  "tts": "Y empezamos a preguntar por qué nadie pudo pagar el precio del sí."
+ },
+ {
+  "id": 265,
+  "chapter": 12,
+  "par": 6,
+  "first": true,
+  "lastOfPar": false,
+  "text": "En Línea Roja seguimos tirando de ese hilo.",
+  "tts": "En Línea Roja seguimos tirando de ese hilo."
+ },
+ {
+  "id": 266,
+  "chapter": 12,
+  "par": 6,
+  "first": false,
+  "lastOfPar": false,
+  "text": "Porque las grandes decisiones de la historia casi nunca las toma un genio.",
+  "tts": "Porque las grandes decisiones de la historia casi nunca las toma un genio."
+ },
+ {
+  "id": 267,
+  "chapter": 12,
+  "par": 6,
+  "first": false,
+  "lastOfPar": true,
+  "text": "Las toma una despensa vacía.",
+  "tts": "Las toma una despensa vacía."
+ }
+]

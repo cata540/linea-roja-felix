@@ -1,0 +1,64 @@
+== Hendaye 1940
+   Meeting at Hendaye (1 files)
+== Franco Hitler 1940
+   Hitler meeting with Petain (3 files)
+   Meeting at Hendaye (1 files)
+== posguerra española hambre
+
+== cartilla de racionamiento
+   Ration stamps (27 files)
+== Gibraltar Second World War
+   Sir Charles Monro (13 files)
+   Europe/category tree (0 files)
+   Józef Ponikiewski (4 files)
+   Tadeusz Klimecki (15 files)
+   Andrzej Marecki (3 files)
+   Frederick Stanley Maude (19 files)
+== Battle of France 1940
+   Battle of France (100 files)
+   Battle of France in March 1940 (4 files)
+   Battle of France in April 1940 (1 files)
+   Battle of France in January 1940 (20 files)
+   Battle of La Horgne (1 files)
+   Battle of Abbeville (14 files)
+== Battle of Britain
+   Battle of Britain (116 files)
+   Battle of Britain (film) (6 files)
+   Battle of Britain Bunker (40 files)
+   Battle of Britain Memorial Flight (139 files)
+   Battle of Britain Monument, London (104 files)
+   Battle of Britain, Northfleet (2 files)
+== Serrano Súñer
+   Ramón Serrano Súñer (24 files)
+   José Enrique Serrano Martínez (4 files)
+   Ramon Serrano Suner (0 files)
+   EFE (44 files)
+   Carmen Polo (41 files)
+   Carmen Díez de Rivera (4 files)
+== Wilhelm Canaris
+   Wilhelm Canaris (18 files)
+   Things named after Wilhelm Canaris (0 files)
+   Bandera's OUN Ukrainian Legion (2 files)
+   Canarisweg (Hannover) (7 files)
+   Voyage of the Damned (4 files)
+== Samuel Hoare
+   Samuel Hoare (0 files)
+   Samuel Hoare, Viscount Templewood (1880-1959) (17 files)
+   C. A. R. Hoare (12 files)
+   Samuel Hoare (1841 - 1915) (5 files)
+   Samuel Gurney (1786–1856) (3 files)
+   Darkest Hour (2017 film) (3 files)
+<anonymous_script>:1
+You are making too many requests to the API.
+^
+
+SyntaxError: Unexpected token 'Y', "You are ma"... is not valid JSON
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:5888:19)
+    at successSteps (node:internal/deps/undici/undici:5869:27)
+    at fullyReadBody (node:internal/deps/undici/undici:4761:9)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async consumeBody (node:internal/deps/undici/undici:5878:7)
+    at async file:///C:/Users/frand/Documents/Codex/linea-roja/video2_felix/video/tools/find_cats.mjs:5:11
+
+Node.js v22.23.1

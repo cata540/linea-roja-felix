@@ -1,0 +1,198 @@
+[
+ {
+  "id": "hendaye_tren",
+  "file": "ai/hendaye_tren.jpg",
+  "prompt": "a wartime railway station platform on the French-Spanish border, an armored government train, two delegations of officials in long coats waiting, overcast autumn sky",
+  "model": "fal-ai/flux/schnell",
+  "seed": 1720817128
+ },
+ {
+  "id": "hambre_cola",
+  "file": "ai/hambre_cola.jpg",
+  "prompt": "a long queue of thin women and children with empty baskets in front of a closed bakery in a poor Spanish village, post civil war poverty",
+  "model": "fal-ai/flux/schnell",
+  "seed": 911106108
+ },
+ {
+  "id": "gibraltar_roca",
+  "file": "ai/gibraltar_roca.jpg",
+  "prompt": "the Rock of Gibraltar seen across the bay of Algeciras under a stormy sky, warships in the bay",
+  "model": "fal-ai/flux/schnell",
+  "seed": 213519228
+ },
+ {
+  "id": "stukas_estrecho",
+  "file": "ai/stukas_estrecho.jpg",
+  "prompt": "German dive bombers diving over the Strait of Gibraltar, anti-aircraft smoke, ships below",
+  "model": "fal-ai/flux/schnell",
+  "seed": 1785276802
+ },
+ {
+  "id": "tren_roto",
+  "file": "ai/tren_roto.jpg",
+  "prompt": "an old steam locomotive and a broken railway line in rural Spain, an ox cart crossing the tracks, empty fields",
+  "model": "fal-ai/flux/schnell",
+  "seed": 1620039352
+ },
+ {
+  "id": "flota_puerto",
+  "file": "ai/flota_puerto.jpg",
+  "prompt": "British battleships and destroyers at anchor in a harbour at dawn, mist over the water",
+  "model": "fal-ai/flux/schnell",
+  "seed": 1407814267
+ },
+ {
+  "id": "bloqueo_mar",
+  "file": "ai/bloqueo_mar.jpg",
+  "prompt": "a cargo ship stopped at sea by a destroyer, sailors inspecting the cargo, grey ocean, wartime blockade",
+  "model": "fal-ai/flux/schnell",
+  "seed": 1234870823
+ },
+ {
+  "id": "mesa_mapas",
+  "file": "ai/mesa_mapas.jpg",
+  "prompt": "officers in uniform leaning over a large table with a map of the Iberian peninsula, lamp light, dark room, seen from behind",
+  "model": "fal-ai/flux/schnell",
+  "seed": 1579722559
+ },
+ {
+  "id": "pirineos_columna",
+  "file": "ai/pirineos_columna.jpg",
+  "prompt": "a long column of military trucks and motorcycles winding up a snowy mountain pass in the Pyrenees",
+  "model": "fal-ai/flux/schnell",
+  "seed": 1906973612
+ },
+ {
+  "id": "granero_vacio",
+  "file": "ai/granero_vacio.jpg",
+  "prompt": "an empty granary with a few sacks of wheat, dry cracked fields visible through the door, rural Spain",
+  "model": "fal-ai/flux/schnell",
+  "seed": 734426901
+ },
+ {
+  "id": "ruinas_aldea",
+  "file": "ai/ruinas_aldea.jpg",
+  "prompt": "a ruined Spanish village street after the civil war, damaged church bell tower, rubble, a few villagers walking",
+  "model": "fal-ai/flux/schnell",
+  "seed": 1751981951
+ },
+ {
+  "id": "mula_arado",
+  "file": "ai/mula_arado.jpg",
+  "prompt": "a poor farmer ploughing dry land with a mule, a whitewashed village in the background, Spain 1940",
+  "model": "fal-ai/flux/schnell",
+  "seed": 31386309
+ },
+ {
+  "id": "mujeres_fuente",
+  "file": "ai/mujeres_fuente.jpg",
+  "prompt": "women in black dresses carrying water jugs at a village fountain in rural Spain, poverty, 1940",
+  "model": "fal-ai/flux/schnell",
+  "seed": 1849648979
+ },
+ {
+  "id": "kiosco_propaganda",
+  "file": "ai/kiosco_propaganda.jpg",
+  "prompt": "a line of men in hats and coats waiting in a narrow Spanish street in front of a closed plain metal shutter, seen from behind, bare walls without any posters or signs, no writing, no letters, no text, cinematic sepia-toned vintage 1940 illustration, muted palette, dark vignette, film grain",
+  "model": "fal-ai/flux/schnell",
+  "seed": 382668583
+ },
+ {
+  "id": "despacho_balcon",
+  "file": "ai/despacho_balcon.jpg",
+  "prompt": "a silhouette of a man in a large dark office standing at a balcony window overlooking Madrid rooftops at dusk, seen from behind",
+  "model": "fal-ai/flux/schnell",
+  "seed": 1273507935
+ },
+ {
+  "id": "plaza_banderas",
+  "file": "ai/plaza_banderas.jpg",
+  "prompt": "a large crowd in a Spanish plaza under many flags at a regime rally, seen from a high angle",
+  "model": "fal-ai/flux/schnell",
+  "seed": 105415945
+ },
+ {
+  "id": "balanza_trigo_canones",
+  "file": "ai/balanza_trigo_canones.jpg",
+  "prompt": "a heavy old balance scale, sacks of wheat on one side and artillery shells on the other, dramatic still life, dark background",
+  "model": "fal-ai/flux/schnell",
+  "seed": 1341012808
+ },
+ {
+  "id": "puerto_inactivo",
+  "file": "ai/puerto_inactivo.jpg",
+  "prompt": "a Spanish port at dawn with idle cargo ships, empty docks and cranes, fog",
+  "model": "fal-ai/flux/schnell",
+  "seed": 87931772
+ },
+ {
+  "id": "vagones_frontera",
+  "file": "ai/vagones_frontera.jpg",
+  "prompt": "old freight wagons standing at a railway station on a border, workers and guards on the platform, grey sky",
+  "model": "fal-ai/flux/schnell",
+  "seed": 596813884
+ },
+ {
+  "id": "convoy_escolta",
+  "file": "ai/convoy_escolta.jpg",
+  "prompt": "a convoy of merchant ships escorted by a destroyer on a rough grey sea",
+  "model": "fal-ai/flux/schnell",
+  "seed": 1629226160
+ },
+ {
+  "id": "manos_libro_cuentas",
+  "file": "ai/manos_libro_cuentas.jpg",
+  "prompt": "close up of two mens hands over a table with a ledger book and bundles of banknotes, desk lamp, secret negotiation",
+  "model": "fal-ai/flux/schnell",
+  "seed": 216716096
+ },
+ {
+  "id": "telegrafista",
+  "file": "ai/telegrafista.jpg",
+  "prompt": "a telegraph operator at a desk with a typewriter and wires in a dim office at night, 1940",
+  "model": "fal-ai/flux/schnell",
+  "seed": 911505467
+ },
+ {
+  "id": "trenes_este",
+  "file": "ai/trenes_este.jpg",
+  "prompt": "long freight trains loaded with military vehicles heading east across a snowy plain",
+  "model": "fal-ai/flux/schnell",
+  "seed": 2453302
+ },
+ {
+  "id": "voluntarios_estacion",
+  "file": "ai/voluntarios_estacion.jpg",
+  "prompt": "young volunteers in uniform boarding a train at a railway station while a crowd waves goodbye, 1941",
+  "model": "fal-ai/flux/schnell",
+  "seed": 1525818394
+ },
+ {
+  "id": "submarinos_puerto",
+  "file": "ai/submarinos_puerto.jpg",
+  "prompt": "submarines moored at a quay in a harbour with sailors on deck, evening light",
+  "model": "fal-ai/flux/schnell",
+  "seed": 1915563471
+ },
+ {
+  "id": "oficiales_prismaticos",
+  "file": "ai/oficiales_prismaticos.jpg",
+  "prompt": "two men in civilian clothes with binoculars on a rocky hillside overlooking a bay and a fortress rock",
+  "model": "fal-ai/flux/schnell",
+  "seed": 473692068
+ },
+ {
+  "id": "fortaleza_estrecho",
+  "file": "ai/fortaleza_estrecho.jpg",
+  "prompt": "an old coastal fortress on a cliff overlooking a narrow strait at dusk, ships passing",
+  "model": "fal-ai/flux/schnell",
+  "seed": 2084292422
+ },
+ {
+  "id": "transportes_atlantico",
+  "file": "ai/transportes_atlantico.jpg",
+  "prompt": "a fleet of troop transports and warships crossing the Atlantic under a stormy sky toward volcanic islands",
+  "model": "fal-ai/flux/schnell",
+  "seed": 1072259443
+ }
+]

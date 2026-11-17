@@ -1,0 +1,26 @@
+{
+  "name": "linea-roja-felix",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "studio": "remotion studio",
+    "still:foto": "remotion still src/index.ts Muestra1Foto out/muestra1_foto.png",
+    "still:mapa": "remotion still src/index.ts Muestra2Mapa out/muestra2_mapa.png",
+    "still:doc": "remotion still src/index.ts Muestra3Documento out/muestra3_documento.png",
+    "stills": "npm run still:foto && npm run still:mapa && npm run still:doc"
+  },
+  "dependencies": {
+    "@remotion/cli": "4.0.520",
+    "@remotion/google-fonts": "4.0.520",
+    "@types/d3-geo": "3.1.0",
+    "d3-geo": "3.1.1",
+    "msedge-tts": "2.1.1",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "remotion": "4.0.520"
+  },
+  "devDependencies": {
+    "@types/react": "18.3.3",
+    "typescript": "5.5.4"
+  }
+}

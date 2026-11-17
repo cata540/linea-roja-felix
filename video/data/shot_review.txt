@@ -1,0 +1,114 @@
+0.0m ch0 [undefined] undefined
+     «Octubre de 1940.»
+0.2m ch0 [undefined] undefined
+     «Adolf Hitler acaba de derrotar a Francia en seis semanas.»
+0.3m ch0 [undefined] undefined
+     «Todo apunta a que España está a punto de entrar en la guerra.»
+0.5m ch0 [undefined] undefined
+     «Y veinte días más tarde firma una orden secreta con un nombre de pila: Operación Félix.»
+0.9m ch0 [ia] IA hendaye_tren
+     «La explicación que se ha repetido durante décadas es muy cómoda: Franco, astuto gallego, engañó a Hitler y sal»
+1.3m ch1 [undefined] undefined
+     «Primero de abril de 1939.»
+1.4m ch1 [undefined] undefined
+     «Franco ha ganado, pero ha heredado un país devastado: ciudades en ruinas, ferrocarriles destrozados, campos si»
+1.7m ch1 [undefined] undefined
+     «Un estudio publicado en la revista académica Contemporary European History, de Cambridge, describe cómo, ya en»
+2.0m ch1 [undefined] undefined
+     «Un niño en Altorricón, en Huesca.»
+2.1m ch1 [undefined] undefined
+     «A todo eso se sumaba una política económica que el régimen llamó autarquía: producir todo dentro de casa, sin »
+2.2m ch1 [ia] IA hambre_cola
+     «En la práctica, empobrecía todavía más a las zonas más aisladas.»
+2.5m ch1 [ia] IA ruinas_aldea
+     «Desde el uno de diciembre de 1939, Londres exigía a los barcos neutrales un certificado, el navicert, para dej»
+2.6m ch1 [ia] IA mula_arado
+     «Quien no lo tenía, esperaba en puerto.»
+2.7m ch1 [ia] IA mujeres_fuente
+     «El embajador de España en Londres, el duque de Alba, escribió a Madrid en octubre de 1939 que Gran Bretaña ya »
+3.0m ch2 [ia] IA gibraltar_roca
+     «Mayo y junio de 1940 lo cambiaron todo.»
+4.7m ch3 [undefined] undefined
+     «Según el relato recogido por los historiadores, la toma del Peñón exigía una potente fuerza de asalto y, sobre»
+4.9m ch3 [undefined] undefined
+     «También comprobó otra cosa: el régimen de Franco no tenía ninguna prisa por entrar en la guerra.»
+5.0m ch3 [undefined] undefined
+     «Canaris no era un observador neutral.»
+5.1m ch3 [ia] IA mesa_mapas
+     «Era un hombre de inteligencia que conocía bien España, y en agosto se reunió con Ramón Serrano Súñer, el cuñad»
+5.3m ch3 [ia] IA oficiales_prismaticos
+     «El veinticuatro de agosto, Hitler aprobó un plan general para tomar Gibraltar.»
+5.4m ch3 [ia] IA fortaleza_estrecho
+     «El dieciséis de septiembre, Serrano Súñer fue a Berlín y se entrevistó con el Führer.»
+6.0m ch4 [undefined] undefined
+     «En junio de 1940, justo cuando España coqueteaba con las potencias del Eje, llegó a Madrid un nuevo embajador »
+6.2m ch4 [ia] IA bloqueo_mar
+     «Su misión, tal como la describen los historiadores, era mejorar las relaciones con Franco, contrarrestar la in»
+6.3m ch4 [ia] IA convoy_escolta
+     «Y su arma principal no eran los discursos.»
+6.5m ch4 [ia] IA manos_libro_cuentas
+     «Un consejero económico de la embajada, David Eccles, lo resumió en una frase que se ha hecho célebre: Franco p»
+7.6m ch5 [undefined] undefined
+     «Hendaya es una pequeña localidad francesa pegada a la frontera con España.»
+10.1m ch6 [undefined] undefined
+     «El historiador Paul Preston lo bautizó como el mito de Hendaya, en un artículo publicado en 1992.»
+10.2m ch6 [undefined] undefined
+     «Quería entrar.»
+10.3m ch6 [ia] IA kiosco_propaganda
+     «Y los alemanes se dieron cuenta de que, si cedían, perdían a Vichy.»
+10.5m ch6 [ia] IA despacho_balcon
+     «Sostiene que lo que bloqueó a España no fue solo su situación económica, ni la voluntad de Franco, sino las am»
+10.7m ch6 [ia] IA plaza_banderas
+     «Es una interpretación importante, y conviene presentarla como tal: otras lecturas dan más peso a la debilidad »
+11.0m ch7 [undefined] undefined
+     «El doce de noviembre de 1940, Hitler firmó una orden secreta que hoy se conserva como prueba en los juicios de»
+11.1m ch7 [undefined] undefined
+     «Es la Directiva número 18, y dedica un apartado entero a España y Portugal.»
+11.2m ch7 [ia] IA stukas_estrecho
+     «Dice, textualmente, que se han dado pasos políticos para conseguir una pronta entrada de España en la guerra.»
+11.3m ch7 [ia] IA pirineos_columna
+     «Y que el objetivo de la intervención alemana en la península ibérica, nombre en clave Félix, será expulsar a l»
+13.3m ch8 [ia] IA tren_roto
+     «El cinco de diciembre, Hitler reunió a su alto mando y decidió pedir permiso a Franco para que las tropas alem»
+13.5m ch8 [ia] IA telegrafista
+     «El encargado de transmitir el mensaje era el almirante Canaris.»
+15.9m ch9 [undefined] undefined
+     «El dieciocho de diciembre de 1940, once días después de la reunión de Canaris, firmó la Directiva 21: la orden»
+16.1m ch9 [undefined] undefined
+     «Y Barbarroja era la guerra que de verdad le importaba.»
+16.1m ch9 [undefined] undefined
+     «En febrero de 1941 pidió otra vez a Franco que entrara en la guerra.»
+16.3m ch9 [undefined] undefined
+     «Franco contestó que no, alegando de nuevo la precaria situación de la economía y del ejército.»
+16.4m ch9 [undefined] undefined
+     «El mismo mes, el alto mando comunicó a la Marina que Félix quedaba descartada por ahora, porque las tropas pre»
+16.5m ch9 [ia] IA trenes_este
+     «Todavía hubo un último intento.»
+16.9m ch10 [ia] IA flota_puerto
+     «Mientras tanto, Londres no se quedó de brazos cruzados.»
+17.1m ch10 [ia] IA transportes_atlantico
+     «Se llamaba Operación Pilgrim: un plan para invadir y ocupar las islas Canarias antes de que cayeran en manos a»
+18.1m ch11 [ia] IA granero_vacio
+     «Entonces, ¿cuál fue la verdadera razón por la que Hitler nunca invadió España?»
+18.4m ch11 [ia] IA balanza_trigo_canones
+     «Hitler no podía dárselo sin romper con Vichy.»
+18.5m ch11 [ia] IA puerto_inactivo
+     «Era una subasta imposible: lo que Franco pedía, Hitler no podía pagarlo.»
+18.6m ch11 [ia] IA vagones_frontera
+     «España no podía sostener una guerra.»
+20.2m ch12 [undefined] undefined
+     «Y, sin embargo, España no se quedó al margen.»
+20.3m ch12 [undefined] undefined
+     «Cuando Alemania invadió la Unión Soviética, en 1941, Franco aprobó el reclutamiento de voluntarios para combat»
+20.4m ch12 [undefined] undefined
+     «Nació así la División Azul, que combatió con el ejército alemán entre 1941 y 1944.»
+20.5m ch12 [undefined] undefined
+     «Nació así la División Azul, que combatió con el ejército alemán entre 1941 y 1944.»
+20.7m ch12 [undefined] undefined
+     «Además, el régimen permitió que los submarinos alemanes repostaran en puertos españoles, dejó que la prensa hi»
+20.9m ch12 [undefined] undefined
+     «Fue una consecuencia de su debilidad, de su dependencia del trigo ajeno y de un precio que ninguna de las part»
+20.9m ch12 [ia] IA voluntarios_estacion
+     «Fue una consecuencia de su debilidad, de su dependencia del trigo ajeno y de un precio que ninguna de las part»
+21.1m ch12 [ia] IA submarinos_puerto
+     «Es un mito que sobrevivió décadas.»

@@ -1,0 +1,4430 @@
+[
+ {
+  "id": "wwf_divide_00",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_00.mp4",
+  "bg": "bg/wwf_divide_00.jpg",
+  "dur": 4.033333,
+  "t0": 188.52
+ },
+ {
+  "id": "wwf_divide_01",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_01.mp4",
+  "bg": "bg/wwf_divide_01.jpg",
+  "dur": 4.033008,
+  "t0": 210.56
+ },
+ {
+  "id": "wwf_divide_02",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_02.mp4",
+  "bg": "bg/wwf_divide_02.jpg",
+  "dur": 5.6,
+  "t0": 261.88
+ },
+ {
+  "id": "wwf_divide_03",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_03.mp4",
+  "bg": "bg/wwf_divide_03.jpg",
+  "dur": 2.733008,
+  "t0": 315.24
+ },
+ {
+  "id": "wwf_divide_04",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_04.mp4",
+  "bg": "bg/wwf_divide_04.jpg",
+  "dur": 2.833333,
+  "t0": 335.32
+ },
+ {
+  "id": "wwf_divide_05",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_05.mp4",
+  "bg": "bg/wwf_divide_05.jpg",
+  "dur": 3.066667,
+  "t0": 364.6
+ },
+ {
+  "id": "wwf_divide_06",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_06.mp4",
+  "bg": "bg/wwf_divide_06.jpg",
+  "dur": 3.366667,
+  "t0": 402.08
+ },
+ {
+  "id": "wwf_divide_07",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_07.mp4",
+  "bg": "bg/wwf_divide_07.jpg",
+  "dur": 5.6,
+  "t0": 430.52
+ },
+ {
+  "id": "wwf_divide_08",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_08.mp4",
+  "bg": "bg/wwf_divide_08.jpg",
+  "dur": 3.466016,
+  "t0": 453.4
+ },
+ {
+  "id": "wwf_divide_09",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_09.mp4",
+  "bg": "bg/wwf_divide_09.jpg",
+  "dur": 5.433333,
+  "t0": 484.04
+ },
+ {
+  "id": "wwf_divide_10",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_10.mp4",
+  "bg": "bg/wwf_divide_10.jpg",
+  "dur": 3.5,
+  "t0": 550.16
+ },
+ {
+  "id": "wwf_divide_11",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_11.mp4",
+  "bg": "bg/wwf_divide_11.jpg",
+  "dur": 4.7,
+  "t0": 582.4
+ },
+ {
+  "id": "wwf_divide_12",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_12.mp4",
+  "bg": "bg/wwf_divide_12.jpg",
+  "dur": 2.633333,
+  "t0": 611.2
+ },
+ {
+  "id": "wwf_divide_13",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_13.mp4",
+  "bg": "bg/wwf_divide_13.jpg",
+  "dur": 5.6,
+  "t0": 645.88
+ },
+ {
+  "id": "wwf_divide_14",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_14.mp4",
+  "bg": "bg/wwf_divide_14.jpg",
+  "dur": 2.666667,
+  "t0": 673.4
+ },
+ {
+  "id": "wwf_divide_15",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_15.mp4",
+  "bg": "bg/wwf_divide_15.jpg",
+  "dur": 3.766667,
+  "t0": 713.96
+ },
+ {
+  "id": "wwf_divide_16",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_16.mp4",
+  "bg": "bg/wwf_divide_16.jpg",
+  "dur": 4.733333,
+  "t0": 739.64
+ },
+ {
+  "id": "wwf_divide_17",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_17.mp4",
+  "bg": "bg/wwf_divide_17.jpg",
+  "dur": 2.633333,
+  "t0": 781.04
+ },
+ {
+  "id": "wwf_divide_18",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_18.mp4",
+  "bg": "bg/wwf_divide_18.jpg",
+  "dur": 5.6,
+  "t0": 814.52
+ },
+ {
+  "id": "wwf_divide_19",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_19.mp4",
+  "bg": "bg/wwf_divide_19.jpg",
+  "dur": 5,
+  "t0": 851.44
+ },
+ {
+  "id": "wwf_divide_20",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_20.mp4",
+  "bg": "bg/wwf_divide_20.jpg",
+  "dur": 4.633333,
+  "t0": 884.64
+ },
+ {
+  "id": "wwf_divide_21",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_21.mp4",
+  "bg": "bg/wwf_divide_21.jpg",
+  "dur": 5.6,
+  "t0": 912.28
+ },
+ {
+  "id": "wwf_divide_22",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_22.mp4",
+  "bg": "bg/wwf_divide_22.jpg",
+  "dur": 5.3,
+  "t0": 948.2
+ },
+ {
+  "id": "wwf_divide_23",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_23.mp4",
+  "bg": "bg/wwf_divide_23.jpg",
+  "dur": 5.566667,
+  "t0": 976.76
+ },
+ {
+  "id": "wwf_divide_24",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_24.mp4",
+  "bg": "bg/wwf_divide_24.jpg",
+  "dur": 3.366016,
+  "t0": 1020.92
+ },
+ {
+  "id": "wwf_divide_25",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_25.mp4",
+  "bg": "bg/wwf_divide_25.jpg",
+  "dur": 3.266667,
+  "t0": 1038.56
+ },
+ {
+  "id": "wwf_divide_26",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_26.mp4",
+  "bg": "bg/wwf_divide_26.jpg",
+  "dur": 3.433333,
+  "t0": 1057.68
+ },
+ {
+  "id": "wwf_divide_27",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_27.mp4",
+  "bg": "bg/wwf_divide_27.jpg",
+  "dur": 2.733333,
+  "t0": 1085.68
+ },
+ {
+  "id": "wwf_divide_28",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_28.mp4",
+  "bg": "bg/wwf_divide_28.jpg",
+  "dur": 5,
+  "t0": 1118.76
+ },
+ {
+  "id": "wwf_divide_29",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_29.mp4",
+  "bg": "bg/wwf_divide_29.jpg",
+  "dur": 5,
+  "t0": 1165.6
+ },
+ {
+  "id": "wwf_divide_30",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_30.mp4",
+  "bg": "bg/wwf_divide_30.jpg",
+  "dur": 4.133333,
+  "t0": 1193.96
+ },
+ {
+  "id": "wwf_divide_31",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_31.mp4",
+  "bg": "bg/wwf_divide_31.jpg",
+  "dur": 2.833333,
+  "t0": 1216.6
+ },
+ {
+  "id": "wwf_divide_32",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_32.mp4",
+  "bg": "bg/wwf_divide_32.jpg",
+  "dur": 2.833333,
+  "t0": 1263.8
+ },
+ {
+  "id": "wwf_divide_33",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_33.mp4",
+  "bg": "bg/wwf_divide_33.jpg",
+  "dur": 5.6,
+  "t0": 1281.44
+ },
+ {
+  "id": "wwf_divide_34",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_34.mp4",
+  "bg": "bg/wwf_divide_34.jpg",
+  "dur": 2.9,
+  "t0": 1328.4
+ },
+ {
+  "id": "wwf_divide_35",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_35.mp4",
+  "bg": "bg/wwf_divide_35.jpg",
+  "dur": 2.966016,
+  "t0": 1348.88
+ },
+ {
+  "id": "wwf_divide_36",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_36.mp4",
+  "bg": "bg/wwf_divide_36.jpg",
+  "dur": 3.233008,
+  "t0": 1390.4
+ },
+ {
+  "id": "wwf_divide_37",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_37.mp4",
+  "bg": "bg/wwf_divide_37.jpg",
+  "dur": 5.033333,
+  "t0": 1431.64
+ },
+ {
+  "id": "wwf_divide_38",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_38.mp4",
+  "bg": "bg/wwf_divide_38.jpg",
+  "dur": 3.066016,
+  "t0": 1494.32
+ },
+ {
+  "id": "wwf_divide_39",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_39.mp4",
+  "bg": "bg/wwf_divide_39.jpg",
+  "dur": 3.333333,
+  "t0": 1520.84
+ },
+ {
+  "id": "wwf_divide_40",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_40.mp4",
+  "bg": "bg/wwf_divide_40.jpg",
+  "dur": 2.733333,
+  "t0": 1550.44
+ },
+ {
+  "id": "wwf_divide_41",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_41.mp4",
+  "bg": "bg/wwf_divide_41.jpg",
+  "dur": 3.833333,
+  "t0": 1577.64
+ },
+ {
+  "id": "wwf_divide_42",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_42.mp4",
+  "bg": "bg/wwf_divide_42.jpg",
+  "dur": 4.833333,
+  "t0": 1603
+ },
+ {
+  "id": "wwf_divide_43",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_43.mp4",
+  "bg": "bg/wwf_divide_43.jpg",
+  "dur": 2.766667,
+  "t0": 1639.48
+ },
+ {
+  "id": "wwf_divide_44",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_44.mp4",
+  "bg": "bg/wwf_divide_44.jpg",
+  "dur": 3.133333,
+  "t0": 1704.96
+ },
+ {
+  "id": "wwf_divide_45",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_45.mp4",
+  "bg": "bg/wwf_divide_45.jpg",
+  "dur": 4.966667,
+  "t0": 1732
+ },
+ {
+  "id": "wwf_divide_46",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_46.mp4",
+  "bg": "bg/wwf_divide_46.jpg",
+  "dur": 3.833333,
+  "t0": 1775.56
+ },
+ {
+  "id": "wwf_divide_47",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_47.mp4",
+  "bg": "bg/wwf_divide_47.jpg",
+  "dur": 3.133008,
+  "t0": 1822.6
+ },
+ {
+  "id": "wwf_divide_48",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_48.mp4",
+  "bg": "bg/wwf_divide_48.jpg",
+  "dur": 3.166667,
+  "t0": 1868.12
+ },
+ {
+  "id": "wwf_divide_49",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_49.mp4",
+  "bg": "bg/wwf_divide_49.jpg",
+  "dur": 5.6,
+  "t0": 1893.68
+ },
+ {
+  "id": "wwf_divide_50",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_50.mp4",
+  "bg": "bg/wwf_divide_50.jpg",
+  "dur": 2.566667,
+  "t0": 1913.2
+ },
+ {
+  "id": "wwf_divide_51",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_51.mp4",
+  "bg": "bg/wwf_divide_51.jpg",
+  "dur": 3.133333,
+  "t0": 1950.6
+ },
+ {
+  "id": "wwf_divide_52",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_52.mp4",
+  "bg": "bg/wwf_divide_52.jpg",
+  "dur": 2.666667,
+  "t0": 1988.56
+ },
+ {
+  "id": "wwf_divide_53",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_53.mp4",
+  "bg": "bg/wwf_divide_53.jpg",
+  "dur": 5.6,
+  "t0": 2042.64
+ },
+ {
+  "id": "wwf_divide_54",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_54.mp4",
+  "bg": "bg/wwf_divide_54.jpg",
+  "dur": 2.7,
+  "t0": 2083.8
+ },
+ {
+  "id": "wwf_divide_55",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_55.mp4",
+  "bg": "bg/wwf_divide_55.jpg",
+  "dur": 4.366667,
+  "t0": 2131.52
+ },
+ {
+  "id": "wwf_divide_56",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_56.mp4",
+  "bg": "bg/wwf_divide_56.jpg",
+  "dur": 2.9,
+  "t0": 2166.68
+ },
+ {
+  "id": "wwf_divide_57",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_57.mp4",
+  "bg": "bg/wwf_divide_57.jpg",
+  "dur": 2.766667,
+  "t0": 2188.32
+ },
+ {
+  "id": "wwf_divide_58",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_58.mp4",
+  "bg": "bg/wwf_divide_58.jpg",
+  "dur": 2.7,
+  "t0": 2217.2
+ },
+ {
+  "id": "wwf_divide_59",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_59.mp4",
+  "bg": "bg/wwf_divide_59.jpg",
+  "dur": 4.966667,
+  "t0": 2247.74
+ },
+ {
+  "id": "wwf_divide_60",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_60.mp4",
+  "bg": "bg/wwf_divide_60.jpg",
+  "dur": 5.6,
+  "t0": 2287.64
+ },
+ {
+  "id": "wwf_divide_61",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_61.mp4",
+  "bg": "bg/wwf_divide_61.jpg",
+  "dur": 4.233008,
+  "t0": 2320.32
+ },
+ {
+  "id": "wwf_divide_62",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_62.mp4",
+  "bg": "bg/wwf_divide_62.jpg",
+  "dur": 2.7,
+  "t0": 2338.84
+ },
+ {
+  "id": "wwf_divide_63",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_63.mp4",
+  "bg": "bg/wwf_divide_63.jpg",
+  "dur": 5.266667,
+  "t0": 2384.36
+ },
+ {
+  "id": "wwf_divide_64",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_64.mp4",
+  "bg": "bg/wwf_divide_64.jpg",
+  "dur": 4.1,
+  "t0": 2404.72
+ },
+ {
+  "id": "wwf_divide_65",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_65.mp4",
+  "bg": "bg/wwf_divide_65.jpg",
+  "dur": 5.6,
+  "t0": 2476.28
+ },
+ {
+  "id": "wwf_divide_66",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_66.mp4",
+  "bg": "bg/wwf_divide_66.jpg",
+  "dur": 3.066016,
+  "t0": 2504.68
+ },
+ {
+  "id": "wwf_divide_67",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_67.mp4",
+  "bg": "bg/wwf_divide_67.jpg",
+  "dur": 5.6,
+  "t0": 2530.76
+ },
+ {
+  "id": "wwf_divide_68",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_68.mp4",
+  "bg": "bg/wwf_divide_68.jpg",
+  "dur": 5.6,
+  "t0": 2570.52
+ },
+ {
+  "id": "wwf_divide_69",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_69.mp4",
+  "bg": "bg/wwf_divide_69.jpg",
+  "dur": 4.966667,
+  "t0": 2701.38
+ },
+ {
+  "id": "wwf_divide_70",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_70.mp4",
+  "bg": "bg/wwf_divide_70.jpg",
+  "dur": 2.733333,
+  "t0": 2830.16
+ },
+ {
+  "id": "wwf_divide_71",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_71.mp4",
+  "bg": "bg/wwf_divide_71.jpg",
+  "dur": 5.6,
+  "t0": 2897.68
+ },
+ {
+  "id": "wwf_divide_72",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_72.mp4",
+  "bg": "bg/wwf_divide_72.jpg",
+  "dur": 3.1,
+  "t0": 2934.6
+ },
+ {
+  "id": "wwf_divide_73",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_73.mp4",
+  "bg": "bg/wwf_divide_73.jpg",
+  "dur": 5.6,
+  "t0": 2994.48
+ },
+ {
+  "id": "wwf_divide_74",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_74.mp4",
+  "bg": "bg/wwf_divide_74.jpg",
+  "dur": 5.6,
+  "t0": 3030.88
+ },
+ {
+  "id": "wwf_divide_75",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_75.mp4",
+  "bg": "bg/wwf_divide_75.jpg",
+  "dur": 5.6,
+  "t0": 3061.2
+ },
+ {
+  "id": "wwf_divide_76",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_76.mp4",
+  "bg": "bg/wwf_divide_76.jpg",
+  "dur": 5.3,
+  "t0": 3096.68
+ },
+ {
+  "id": "wwf_divide_77",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_77.mp4",
+  "bg": "bg/wwf_divide_77.jpg",
+  "dur": 5.6,
+  "t0": 3127.36
+ },
+ {
+  "id": "wwf_divide_78",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_78.mp4",
+  "bg": "bg/wwf_divide_78.jpg",
+  "dur": 5.466667,
+  "t0": 3159.4
+ },
+ {
+  "id": "wwf_divide_79",
+  "src": "wwf_divide",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_79.mp4",
+  "bg": "bg/wwf_divide_79.jpg",
+  "dur": 5.6,
+  "t0": 3188.52
+ },
+ {
+  "id": "wwf_britain_00",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_00.mp4",
+  "bg": "bg/wwf_britain_00.jpg",
+  "dur": 5.6,
+  "t0": 200.9
+ },
+ {
+  "id": "wwf_britain_01",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_01.mp4",
+  "bg": "bg/wwf_britain_01.jpg",
+  "dur": 5,
+  "t0": 231.31
+ },
+ {
+  "id": "wwf_britain_02",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_02.mp4",
+  "bg": "bg/wwf_britain_02.jpg",
+  "dur": 3.966667,
+  "t0": 298.47
+ },
+ {
+  "id": "wwf_britain_03",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_03.mp4",
+  "bg": "bg/wwf_britain_03.jpg",
+  "dur": 5.2,
+  "t0": 339.84
+ },
+ {
+  "id": "wwf_britain_04",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_04.mp4",
+  "bg": "bg/wwf_britain_04.jpg",
+  "dur": 2.766667,
+  "t0": 370.57
+ },
+ {
+  "id": "wwf_britain_05",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_05.mp4",
+  "bg": "bg/wwf_britain_05.jpg",
+  "dur": 4,
+  "t0": 405.11
+ },
+ {
+  "id": "wwf_britain_06",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_06.mp4",
+  "bg": "bg/wwf_britain_06.jpg",
+  "dur": 5.5,
+  "t0": 426.68
+ },
+ {
+  "id": "wwf_britain_07",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_07.mp4",
+  "bg": "bg/wwf_britain_07.jpg",
+  "dur": 5.6,
+  "t0": 464.05
+ },
+ {
+  "id": "wwf_britain_08",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_08.mp4",
+  "bg": "bg/wwf_britain_08.jpg",
+  "dur": 4.533333,
+  "t0": 493.58
+ },
+ {
+  "id": "wwf_britain_09",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_09.mp4",
+  "bg": "bg/wwf_britain_09.jpg",
+  "dur": 4.5,
+  "t0": 520.11
+ },
+ {
+  "id": "wwf_britain_10",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_10.mp4",
+  "bg": "bg/wwf_britain_10.jpg",
+  "dur": 3.333008,
+  "t0": 564.4
+ },
+ {
+  "id": "wwf_britain_11",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_11.mp4",
+  "bg": "bg/wwf_britain_11.jpg",
+  "dur": 2.566016,
+  "t0": 599.89
+ },
+ {
+  "id": "wwf_britain_12",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_12.mp4",
+  "bg": "bg/wwf_britain_12.jpg",
+  "dur": 5,
+  "t0": 621.54
+ },
+ {
+  "id": "wwf_britain_13",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_13.mp4",
+  "bg": "bg/wwf_britain_13.jpg",
+  "dur": 3.366016,
+  "t0": 660.5
+ },
+ {
+  "id": "wwf_britain_14",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_14.mp4",
+  "bg": "bg/wwf_britain_14.jpg",
+  "dur": 3.133333,
+  "t0": 700.99
+ },
+ {
+  "id": "wwf_britain_15",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_15.mp4",
+  "bg": "bg/wwf_britain_15.jpg",
+  "dur": 3.5,
+  "t0": 743.66
+ },
+ {
+  "id": "wwf_britain_16",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_16.mp4",
+  "bg": "bg/wwf_britain_16.jpg",
+  "dur": 4.5,
+  "t0": 780.07
+ },
+ {
+  "id": "wwf_britain_17",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_17.mp4",
+  "bg": "bg/wwf_britain_17.jpg",
+  "dur": 2.8,
+  "t0": 815.99
+ },
+ {
+  "id": "wwf_britain_18",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_18.mp4",
+  "bg": "bg/wwf_britain_18.jpg",
+  "dur": 2.6,
+  "t0": 838.37
+ },
+ {
+  "id": "wwf_britain_19",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_19.mp4",
+  "bg": "bg/wwf_britain_19.jpg",
+  "dur": 2.666016,
+  "t0": 872.58
+ },
+ {
+  "id": "wwf_britain_20",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_20.mp4",
+  "bg": "bg/wwf_britain_20.jpg",
+  "dur": 5,
+  "t0": 919.79
+ },
+ {
+  "id": "wwf_britain_21",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_21.mp4",
+  "bg": "bg/wwf_britain_21.jpg",
+  "dur": 5.6,
+  "t0": 971.34
+ },
+ {
+  "id": "wwf_britain_22",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_22.mp4",
+  "bg": "bg/wwf_britain_22.jpg",
+  "dur": 5.6,
+  "t0": 1037.32
+ },
+ {
+  "id": "wwf_britain_23",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_23.mp4",
+  "bg": "bg/wwf_britain_23.jpg",
+  "dur": 3.166016,
+  "t0": 1071.19
+ },
+ {
+  "id": "wwf_britain_24",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_24.mp4",
+  "bg": "bg/wwf_britain_24.jpg",
+  "dur": 3.4,
+  "t0": 1088.51
+ },
+ {
+  "id": "wwf_britain_25",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_25.mp4",
+  "bg": "bg/wwf_britain_25.jpg",
+  "dur": 5.6,
+  "t0": 1144.31
+ },
+ {
+  "id": "wwf_britain_26",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_26.mp4",
+  "bg": "bg/wwf_britain_26.jpg",
+  "dur": 4.4,
+  "t0": 1170.76
+ },
+ {
+  "id": "wwf_britain_27",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_27.mp4",
+  "bg": "bg/wwf_britain_27.jpg",
+  "dur": 4.7,
+  "t0": 1218.51
+ },
+ {
+  "id": "wwf_britain_28",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_28.mp4",
+  "bg": "bg/wwf_britain_28.jpg",
+  "dur": 3.3,
+  "t0": 1254.12
+ },
+ {
+  "id": "wwf_britain_29",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_29.mp4",
+  "bg": "bg/wwf_britain_29.jpg",
+  "dur": 2.766667,
+  "t0": 1277.31
+ },
+ {
+  "id": "wwf_britain_30",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_30.mp4",
+  "bg": "bg/wwf_britain_30.jpg",
+  "dur": 5.6,
+  "t0": 1308.48
+ },
+ {
+  "id": "wwf_britain_31",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_31.mp4",
+  "bg": "bg/wwf_britain_31.jpg",
+  "dur": 4.7,
+  "t0": 1357.89
+ },
+ {
+  "id": "wwf_britain_32",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_32.mp4",
+  "bg": "bg/wwf_britain_32.jpg",
+  "dur": 5.6,
+  "t0": 1385.39
+ },
+ {
+  "id": "wwf_britain_33",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_33.mp4",
+  "bg": "bg/wwf_britain_33.jpg",
+  "dur": 5.6,
+  "t0": 1415
+ },
+ {
+  "id": "wwf_britain_34",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_34.mp4",
+  "bg": "bg/wwf_britain_34.jpg",
+  "dur": 2.933008,
+  "t0": 1447.73
+ },
+ {
+  "id": "wwf_britain_35",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_35.mp4",
+  "bg": "bg/wwf_britain_35.jpg",
+  "dur": 3.066667,
+  "t0": 1487.82
+ },
+ {
+  "id": "wwf_britain_36",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_36.mp4",
+  "bg": "bg/wwf_britain_36.jpg",
+  "dur": 5,
+  "t0": 1508.73
+ },
+ {
+  "id": "wwf_britain_37",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_37.mp4",
+  "bg": "bg/wwf_britain_37.jpg",
+  "dur": 2.6,
+  "t0": 1557.31
+ },
+ {
+  "id": "wwf_britain_38",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_38.mp4",
+  "bg": "bg/wwf_britain_38.jpg",
+  "dur": 5.6,
+  "t0": 1621.16
+ },
+ {
+  "id": "wwf_britain_39",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_39.mp4",
+  "bg": "bg/wwf_britain_39.jpg",
+  "dur": 3.7,
+  "t0": 1654.19
+ },
+ {
+  "id": "wwf_britain_40",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_40.mp4",
+  "bg": "bg/wwf_britain_40.jpg",
+  "dur": 5,
+  "t0": 1692.82
+ },
+ {
+  "id": "wwf_britain_41",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_41.mp4",
+  "bg": "bg/wwf_britain_41.jpg",
+  "dur": 2.633333,
+  "t0": 1741.74
+ },
+ {
+  "id": "wwf_britain_42",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_42.mp4",
+  "bg": "bg/wwf_britain_42.jpg",
+  "dur": 5.6,
+  "t0": 1796.58
+ },
+ {
+  "id": "wwf_britain_43",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_43.mp4",
+  "bg": "bg/wwf_britain_43.jpg",
+  "dur": 5.166667,
+  "t0": 1832.75
+ },
+ {
+  "id": "wwf_britain_44",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_44.mp4",
+  "bg": "bg/wwf_britain_44.jpg",
+  "dur": 2.8,
+  "t0": 1860.45
+ },
+ {
+  "id": "wwf_britain_45",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_45.mp4",
+  "bg": "bg/wwf_britain_45.jpg",
+  "dur": 5.6,
+  "t0": 1906.66
+ },
+ {
+  "id": "wwf_britain_46",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_46.mp4",
+  "bg": "bg/wwf_britain_46.jpg",
+  "dur": 3.9,
+  "t0": 1948.95
+ },
+ {
+  "id": "wwf_britain_47",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_47.mp4",
+  "bg": "bg/wwf_britain_47.jpg",
+  "dur": 2.566667,
+  "t0": 2002.12
+ },
+ {
+  "id": "wwf_britain_48",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_48.mp4",
+  "bg": "bg/wwf_britain_48.jpg",
+  "dur": 5.6,
+  "t0": 2024.48
+ },
+ {
+  "id": "wwf_britain_49",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_49.mp4",
+  "bg": "bg/wwf_britain_49.jpg",
+  "dur": 3.833333,
+  "t0": 2065.07
+ },
+ {
+  "id": "wwf_britain_50",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_50.mp4",
+  "bg": "bg/wwf_britain_50.jpg",
+  "dur": 5,
+  "t0": 2137.33
+ },
+ {
+  "id": "wwf_britain_51",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_51.mp4",
+  "bg": "bg/wwf_britain_51.jpg",
+  "dur": 5.6,
+  "t0": 2198.08
+ },
+ {
+  "id": "wwf_britain_52",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_52.mp4",
+  "bg": "bg/wwf_britain_52.jpg",
+  "dur": 2.933333,
+  "t0": 2272.81
+ },
+ {
+  "id": "wwf_britain_53",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_53.mp4",
+  "bg": "bg/wwf_britain_53.jpg",
+  "dur": 3.266667,
+  "t0": 2330.28
+ },
+ {
+  "id": "wwf_britain_54",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_54.mp4",
+  "bg": "bg/wwf_britain_54.jpg",
+  "dur": 5,
+  "t0": 2358.47
+ },
+ {
+  "id": "wwf_britain_55",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_55.mp4",
+  "bg": "bg/wwf_britain_55.jpg",
+  "dur": 3.233333,
+  "t0": 2462.53
+ },
+ {
+  "id": "wwf_britain_56",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_56.mp4",
+  "bg": "bg/wwf_britain_56.jpg",
+  "dur": 2.733333,
+  "t0": 2494.1
+ },
+ {
+  "id": "wwf_britain_57",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_57.mp4",
+  "bg": "bg/wwf_britain_57.jpg",
+  "dur": 5,
+  "t0": 2606.2
+ },
+ {
+  "id": "wwf_britain_58",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_58.mp4",
+  "bg": "bg/wwf_britain_58.jpg",
+  "dur": 5.6,
+  "t0": 2685.97
+ },
+ {
+  "id": "wwf_britain_59",
+  "src": "wwf_britain",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_59.mp4",
+  "bg": "bg/wwf_britain_59.jpg",
+  "dur": 5.6,
+  "t0": 2935.89
+ },
+ {
+  "id": "wwf_divide_b_00",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_00.mp4",
+  "bg": "bg/wwf_divide_b_00.jpg",
+  "dur": 5.033333,
+  "t0": 175.88
+ },
+ {
+  "id": "wwf_divide_b_01",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_01.mp4",
+  "bg": "bg/wwf_divide_b_01.jpg",
+  "dur": 5.6,
+  "t0": 273.96
+ },
+ {
+  "id": "wwf_divide_b_02",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_02.mp4",
+  "bg": "bg/wwf_divide_b_02.jpg",
+  "dur": 2.7,
+  "t0": 321.76
+ },
+ {
+  "id": "wwf_divide_b_03",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_03.mp4",
+  "bg": "bg/wwf_divide_b_03.jpg",
+  "dur": 5.6,
+  "t0": 341.76
+ },
+ {
+  "id": "wwf_divide_b_04",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_04.mp4",
+  "bg": "bg/wwf_divide_b_04.jpg",
+  "dur": 4.966667,
+  "t0": 355.98
+ },
+ {
+  "id": "wwf_divide_b_05",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_05.mp4",
+  "bg": "bg/wwf_divide_b_05.jpg",
+  "dur": 3.9,
+  "t0": 390.8
+ },
+ {
+  "id": "wwf_divide_b_06",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_06.mp4",
+  "bg": "bg/wwf_divide_b_06.jpg",
+  "dur": 5.333008,
+  "t0": 417.48
+ },
+ {
+  "id": "wwf_divide_b_07",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_07.mp4",
+  "bg": "bg/wwf_divide_b_07.jpg",
+  "dur": 4.066016,
+  "t0": 437.84
+ },
+ {
+  "id": "wwf_divide_b_08",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_08.mp4",
+  "bg": "bg/wwf_divide_b_08.jpg",
+  "dur": 5.6,
+  "t0": 469.36
+ },
+ {
+  "id": "wwf_divide_b_09",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_09.mp4",
+  "bg": "bg/wwf_divide_b_09.jpg",
+  "dur": 2.933333,
+  "t0": 531.64
+ },
+ {
+  "id": "wwf_divide_b_10",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_10.mp4",
+  "bg": "bg/wwf_divide_b_10.jpg",
+  "dur": 5.6,
+  "t0": 534.8
+ },
+ {
+  "id": "wwf_divide_b_11",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_11.mp4",
+  "bg": "bg/wwf_divide_b_11.jpg",
+  "dur": 2.633333,
+  "t0": 567.08
+ },
+ {
+  "id": "wwf_divide_b_12",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_12.mp4",
+  "bg": "bg/wwf_divide_b_12.jpg",
+  "dur": 2.766667,
+  "t0": 592.44
+ },
+ {
+  "id": "wwf_divide_b_13",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_13.mp4",
+  "bg": "bg/wwf_divide_b_13.jpg",
+  "dur": 2.733333,
+  "t0": 599.8
+ },
+ {
+  "id": "wwf_divide_b_14",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_14.mp4",
+  "bg": "bg/wwf_divide_b_14.jpg",
+  "dur": 5.6,
+  "t0": 616.2
+ },
+ {
+  "id": "wwf_divide_b_15",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_15.mp4",
+  "bg": "bg/wwf_divide_b_15.jpg",
+  "dur": 3.1,
+  "t0": 640
+ },
+ {
+  "id": "wwf_divide_b_16",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_16.mp4",
+  "bg": "bg/wwf_divide_b_16.jpg",
+  "dur": 4.333333,
+  "t0": 667.2
+ },
+ {
+  "id": "wwf_divide_b_17",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_17.mp4",
+  "bg": "bg/wwf_divide_b_17.jpg",
+  "dur": 2.833333,
+  "t0": 679.36
+ },
+ {
+  "id": "wwf_divide_b_18",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_18.mp4",
+  "bg": "bg/wwf_divide_b_18.jpg",
+  "dur": 3.566667,
+  "t0": 698.92
+ },
+ {
+  "id": "wwf_divide_b_19",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_19.mp4",
+  "bg": "bg/wwf_divide_b_19.jpg",
+  "dur": 3.633333,
+  "t0": 720.44
+ },
+ {
+  "id": "wwf_divide_b_20",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_20.mp4",
+  "bg": "bg/wwf_divide_b_20.jpg",
+  "dur": 5.6,
+  "t0": 724.28
+ },
+ {
+  "id": "wwf_divide_b_21",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_21.mp4",
+  "bg": "bg/wwf_divide_b_21.jpg",
+  "dur": 5.6,
+  "t0": 746
+ },
+ {
+  "id": "wwf_divide_b_22",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_22.mp4",
+  "bg": "bg/wwf_divide_b_22.jpg",
+  "dur": 5,
+  "t0": 763.68
+ },
+ {
+  "id": "wwf_divide_b_23",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_23.mp4",
+  "bg": "bg/wwf_divide_b_23.jpg",
+  "dur": 5.6,
+  "t0": 771.36
+ },
+ {
+  "id": "wwf_divide_b_24",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_24.mp4",
+  "bg": "bg/wwf_divide_b_24.jpg",
+  "dur": 5.1,
+  "t0": 822.36
+ },
+ {
+  "id": "wwf_divide_b_25",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_25.mp4",
+  "bg": "bg/wwf_divide_b_25.jpg",
+  "dur": 3.266016,
+  "t0": 833.6
+ },
+ {
+  "id": "wwf_divide_b_26",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_26.mp4",
+  "bg": "bg/wwf_divide_b_26.jpg",
+  "dur": 4.733008,
+  "t0": 871.36
+ },
+ {
+  "id": "wwf_divide_b_27",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_27.mp4",
+  "bg": "bg/wwf_divide_b_27.jpg",
+  "dur": 5.6,
+  "t0": 893.76
+ },
+ {
+  "id": "wwf_divide_b_28",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_28.mp4",
+  "bg": "bg/wwf_divide_b_28.jpg",
+  "dur": 3.966667,
+  "t0": 930.52
+ },
+ {
+  "id": "wwf_divide_b_29",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_29.mp4",
+  "bg": "bg/wwf_divide_b_29.jpg",
+  "dur": 2.866667,
+  "t0": 957.48
+ },
+ {
+  "id": "wwf_divide_b_30",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_30.mp4",
+  "bg": "bg/wwf_divide_b_30.jpg",
+  "dur": 5.6,
+  "t0": 962.48
+ },
+ {
+  "id": "wwf_divide_b_31",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_31.mp4",
+  "bg": "bg/wwf_divide_b_31.jpg",
+  "dur": 5.6,
+  "t0": 992.24
+ },
+ {
+  "id": "wwf_divide_b_32",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_32.mp4",
+  "bg": "bg/wwf_divide_b_32.jpg",
+  "dur": 4.666667,
+  "t0": 1027.88
+ },
+ {
+  "id": "wwf_divide_b_33",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_33.mp4",
+  "bg": "bg/wwf_divide_b_33.jpg",
+  "dur": 2.933333,
+  "t0": 1046.12
+ },
+ {
+  "id": "wwf_divide_b_34",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_34.mp4",
+  "bg": "bg/wwf_divide_b_34.jpg",
+  "dur": 5.6,
+  "t0": 1071
+ },
+ {
+  "id": "wwf_divide_b_35",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_35.mp4",
+  "bg": "bg/wwf_divide_b_35.jpg",
+  "dur": 5.6,
+  "t0": 1129.08
+ },
+ {
+  "id": "wwf_divide_b_36",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_36.mp4",
+  "bg": "bg/wwf_divide_b_36.jpg",
+  "dur": 5.6,
+  "t0": 1148.64
+ },
+ {
+  "id": "wwf_divide_b_37",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_37.mp4",
+  "bg": "bg/wwf_divide_b_37.jpg",
+  "dur": 5.6,
+  "t0": 1176.36
+ },
+ {
+  "id": "wwf_divide_b_38",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_38.mp4",
+  "bg": "bg/wwf_divide_b_38.jpg",
+  "dur": 2.933333,
+  "t0": 1207.56
+ },
+ {
+  "id": "wwf_divide_b_39",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_39.mp4",
+  "bg": "bg/wwf_divide_b_39.jpg",
+  "dur": 5.333333,
+  "t0": 1228
+ },
+ {
+  "id": "wwf_divide_b_40",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_40.mp4",
+  "bg": "bg/wwf_divide_b_40.jpg",
+  "dur": 5.6,
+  "t0": 1242.64
+ },
+ {
+  "id": "wwf_divide_b_41",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_41.mp4",
+  "bg": "bg/wwf_divide_b_41.jpg",
+  "dur": 2.866016,
+  "t0": 1275.96
+ },
+ {
+  "id": "wwf_divide_b_42",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_42.mp4",
+  "bg": "bg/wwf_divide_b_42.jpg",
+  "dur": 4.966667,
+  "t0": 1308.46
+ },
+ {
+  "id": "wwf_divide_b_43",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_43.mp4",
+  "bg": "bg/wwf_divide_b_43.jpg",
+  "dur": 5.6,
+  "t0": 1334.92
+ },
+ {
+  "id": "wwf_divide_b_44",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_44.mp4",
+  "bg": "bg/wwf_divide_b_44.jpg",
+  "dur": 3.233333,
+  "t0": 1357.44
+ },
+ {
+  "id": "wwf_divide_b_45",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_45.mp4",
+  "bg": "bg/wwf_divide_b_45.jpg",
+  "dur": 5.6,
+  "t0": 1382.6
+ },
+ {
+  "id": "wwf_divide_b_46",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_46.mp4",
+  "bg": "bg/wwf_divide_b_46.jpg",
+  "dur": 5.6,
+  "t0": 1413.44
+ },
+ {
+  "id": "wwf_divide_b_47",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_47.mp4",
+  "bg": "bg/wwf_divide_b_47.jpg",
+  "dur": 5.6,
+  "t0": 1443.72
+ },
+ {
+  "id": "wwf_divide_b_48",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_48.mp4",
+  "bg": "bg/wwf_divide_b_48.jpg",
+  "dur": 5.6,
+  "t0": 1483
+ },
+ {
+  "id": "wwf_divide_b_49",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_49.mp4",
+  "bg": "bg/wwf_divide_b_49.jpg",
+  "dur": 5.6,
+  "t0": 1504.4
+ },
+ {
+  "id": "wwf_divide_b_50",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_50.mp4",
+  "bg": "bg/wwf_divide_b_50.jpg",
+  "dur": 4.966667,
+  "t0": 1510.86
+ },
+ {
+  "id": "wwf_divide_b_51",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_51.mp4",
+  "bg": "bg/wwf_divide_b_51.jpg",
+  "dur": 2.7,
+  "t0": 1545.32
+ },
+ {
+  "id": "wwf_divide_b_52",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_52.mp4",
+  "bg": "bg/wwf_divide_b_52.jpg",
+  "dur": 2.966667,
+  "t0": 1565.28
+ },
+ {
+  "id": "wwf_divide_b_53",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_53.mp4",
+  "bg": "bg/wwf_divide_b_53.jpg",
+  "dur": 5.6,
+  "t0": 1568.48
+ },
+ {
+  "id": "wwf_divide_b_54",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_54.mp4",
+  "bg": "bg/wwf_divide_b_54.jpg",
+  "dur": 4.966667,
+  "t0": 1591.34
+ },
+ {
+  "id": "wwf_divide_b_55",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_55.mp4",
+  "bg": "bg/wwf_divide_b_55.jpg",
+  "dur": 2.866667,
+  "t0": 1627.28
+ },
+ {
+  "id": "wwf_divide_b_56",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_56.mp4",
+  "bg": "bg/wwf_divide_b_56.jpg",
+  "dur": 5.6,
+  "t0": 1647.4
+ },
+ {
+  "id": "wwf_divide_b_57",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_57.mp4",
+  "bg": "bg/wwf_divide_b_57.jpg",
+  "dur": 5.6,
+  "t0": 1680.52
+ },
+ {
+  "id": "wwf_divide_b_58",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_58.mp4",
+  "bg": "bg/wwf_divide_b_58.jpg",
+  "dur": 3.333333,
+  "t0": 1710.8
+ },
+ {
+  "id": "wwf_divide_b_59",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_59.mp4",
+  "bg": "bg/wwf_divide_b_59.jpg",
+  "dur": 3.266667,
+  "t0": 1723.24
+ },
+ {
+  "id": "wwf_divide_b_60",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_60.mp4",
+  "bg": "bg/wwf_divide_b_60.jpg",
+  "dur": 3.366667,
+  "t0": 1744.4
+ },
+ {
+  "id": "wwf_divide_b_61",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_61.mp4",
+  "bg": "bg/wwf_divide_b_61.jpg",
+  "dur": 3.033333,
+  "t0": 1756.04
+ },
+ {
+  "id": "wwf_divide_b_62",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_62.mp4",
+  "bg": "bg/wwf_divide_b_62.jpg",
+  "dur": 5.6,
+  "t0": 1790.44
+ },
+ {
+  "id": "wwf_divide_b_63",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_63.mp4",
+  "bg": "bg/wwf_divide_b_63.jpg",
+  "dur": 5.6,
+  "t0": 1808.76
+ },
+ {
+  "id": "wwf_divide_b_64",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_64.mp4",
+  "bg": "bg/wwf_divide_b_64.jpg",
+  "dur": 5,
+  "t0": 1845.6
+ },
+ {
+  "id": "wwf_divide_b_65",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_65.mp4",
+  "bg": "bg/wwf_divide_b_65.jpg",
+  "dur": 5.266667,
+  "t0": 1880.56
+ },
+ {
+  "id": "wwf_divide_b_66",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_66.mp4",
+  "bg": "bg/wwf_divide_b_66.jpg",
+  "dur": 2.733333,
+  "t0": 1901.2
+ },
+ {
+  "id": "wwf_divide_b_67",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_67.mp4",
+  "bg": "bg/wwf_divide_b_67.jpg",
+  "dur": 4.166667,
+  "t0": 1904.16
+ },
+ {
+  "id": "wwf_divide_b_68",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_68.mp4",
+  "bg": "bg/wwf_divide_b_68.jpg",
+  "dur": 5.6,
+  "t0": 1939.84
+ },
+ {
+  "id": "wwf_divide_b_69",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_69.mp4",
+  "bg": "bg/wwf_divide_b_69.jpg",
+  "dur": 5,
+  "t0": 1968.24
+ },
+ {
+  "id": "wwf_divide_b_70",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_70.mp4",
+  "bg": "bg/wwf_divide_b_70.jpg",
+  "dur": 4.866667,
+  "t0": 1981.48
+ },
+ {
+  "id": "wwf_divide_b_71",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_71.mp4",
+  "bg": "bg/wwf_divide_b_71.jpg",
+  "dur": 4.466667,
+  "t0": 2018.44
+ },
+ {
+  "id": "wwf_divide_b_72",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_72.mp4",
+  "bg": "bg/wwf_divide_b_72.jpg",
+  "dur": 5.466667,
+  "t0": 2070.68
+ },
+ {
+  "id": "wwf_divide_b_73",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_73.mp4",
+  "bg": "bg/wwf_divide_b_73.jpg",
+  "dur": 2.7,
+  "t0": 2103.28
+ },
+ {
+  "id": "wwf_divide_b_74",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_74.mp4",
+  "bg": "bg/wwf_divide_b_74.jpg",
+  "dur": 3.366667,
+  "t0": 2124.8
+ },
+ {
+  "id": "wwf_divide_b_75",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_75.mp4",
+  "bg": "bg/wwf_divide_b_75.jpg",
+  "dur": 2.666667,
+  "t0": 2153.92
+ },
+ {
+  "id": "wwf_divide_b_76",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_76.mp4",
+  "bg": "bg/wwf_divide_b_76.jpg",
+  "dur": 5.466667,
+  "t0": 2173.32
+ },
+ {
+  "id": "wwf_divide_b_77",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_77.mp4",
+  "bg": "bg/wwf_divide_b_77.jpg",
+  "dur": 2.7,
+  "t0": 2179
+ },
+ {
+  "id": "wwf_divide_b_78",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_78.mp4",
+  "bg": "bg/wwf_divide_b_78.jpg",
+  "dur": 5.6,
+  "t0": 2199.52
+ },
+ {
+  "id": "wwf_divide_b_79",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_79.mp4",
+  "bg": "bg/wwf_divide_b_79.jpg",
+  "dur": 2.7,
+  "t0": 2210.12
+ },
+ {
+  "id": "wwf_divide_b_80",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_80.mp4",
+  "bg": "bg/wwf_divide_b_80.jpg",
+  "dur": 5.6,
+  "t0": 2228.2
+ },
+ {
+  "id": "wwf_divide_b_81",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_81.mp4",
+  "bg": "bg/wwf_divide_b_81.jpg",
+  "dur": 5,
+  "t0": 2269.44
+ },
+ {
+  "id": "wwf_divide_b_82",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_82.mp4",
+  "bg": "bg/wwf_divide_b_82.jpg",
+  "dur": 5.6,
+  "t0": 2300.32
+ },
+ {
+  "id": "wwf_divide_b_83",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_83.mp4",
+  "bg": "bg/wwf_divide_b_83.jpg",
+  "dur": 3.1,
+  "t0": 2309.6
+ },
+ {
+  "id": "wwf_divide_b_84",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_84.mp4",
+  "bg": "bg/wwf_divide_b_84.jpg",
+  "dur": 4.766667,
+  "t0": 2330.72
+ },
+ {
+  "id": "wwf_divide_b_85",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_85.mp4",
+  "bg": "bg/wwf_divide_b_85.jpg",
+  "dur": 5.6,
+  "t0": 2350.2
+ },
+ {
+  "id": "wwf_divide_b_86",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_86.mp4",
+  "bg": "bg/wwf_divide_b_86.jpg",
+  "dur": 5.6,
+  "t0": 2373.6
+ },
+ {
+  "id": "wwf_divide_b_87",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_87.mp4",
+  "bg": "bg/wwf_divide_b_87.jpg",
+  "dur": 4.866667,
+  "t0": 2393.56
+ },
+ {
+  "id": "wwf_divide_b_88",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_88.mp4",
+  "bg": "bg/wwf_divide_b_88.jpg",
+  "dur": 3.766667,
+  "t0": 2411.72
+ },
+ {
+  "id": "wwf_divide_b_89",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_89.mp4",
+  "bg": "bg/wwf_divide_b_89.jpg",
+  "dur": 5.6,
+  "t0": 2457.2
+ },
+ {
+  "id": "wwf_divide_b_90",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_90.mp4",
+  "bg": "bg/wwf_divide_b_90.jpg",
+  "dur": 4.233333,
+  "t0": 2485.44
+ },
+ {
+  "id": "wwf_divide_b_91",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_91.mp4",
+  "bg": "bg/wwf_divide_b_91.jpg",
+  "dur": 3.866016,
+  "t0": 2510.32
+ },
+ {
+  "id": "wwf_divide_b_92",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_92.mp4",
+  "bg": "bg/wwf_divide_b_92.jpg",
+  "dur": 3.366667,
+  "t0": 2545.8
+ },
+ {
+  "id": "wwf_divide_b_93",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_93.mp4",
+  "bg": "bg/wwf_divide_b_93.jpg",
+  "dur": 4.366016,
+  "t0": 2549.4
+ },
+ {
+  "id": "wwf_divide_b_94",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_94.mp4",
+  "bg": "bg/wwf_divide_b_94.jpg",
+  "dur": 5,
+  "t0": 2632.12
+ },
+ {
+  "id": "wwf_divide_b_95",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_95.mp4",
+  "bg": "bg/wwf_divide_b_95.jpg",
+  "dur": 5,
+  "t0": 2762.84
+ },
+ {
+  "id": "wwf_divide_b_96",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_96.mp4",
+  "bg": "bg/wwf_divide_b_96.jpg",
+  "dur": 5.6,
+  "t0": 2815.88
+ },
+ {
+  "id": "wwf_divide_b_97",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_97.mp4",
+  "bg": "bg/wwf_divide_b_97.jpg",
+  "dur": 4.833333,
+  "t0": 2850.32
+ },
+ {
+  "id": "wwf_divide_b_98",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_98.mp4",
+  "bg": "bg/wwf_divide_b_98.jpg",
+  "dur": 2.766667,
+  "t0": 2891.04
+ },
+ {
+  "id": "wwf_divide_b_99",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_99.mp4",
+  "bg": "bg/wwf_divide_b_99.jpg",
+  "dur": 3.5,
+  "t0": 2913.76
+ },
+ {
+  "id": "wwf_divide_b_100",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_100.mp4",
+  "bg": "bg/wwf_divide_b_100.jpg",
+  "dur": 5.6,
+  "t0": 2917.48
+ },
+ {
+  "id": "wwf_divide_b_101",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_101.mp4",
+  "bg": "bg/wwf_divide_b_101.jpg",
+  "dur": 5.6,
+  "t0": 2944.76
+ },
+ {
+  "id": "wwf_divide_b_102",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_102.mp4",
+  "bg": "bg/wwf_divide_b_102.jpg",
+  "dur": 3.266016,
+  "t0": 3044.12
+ },
+ {
+  "id": "wwf_divide_b_103",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_103.mp4",
+  "bg": "bg/wwf_divide_b_103.jpg",
+  "dur": 4.233333,
+  "t0": 3047.6
+ },
+ {
+  "id": "wwf_divide_b_104",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_104.mp4",
+  "bg": "bg/wwf_divide_b_104.jpg",
+  "dur": 2.833333,
+  "t0": 3068.48
+ },
+ {
+  "id": "wwf_divide_b_105",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_105.mp4",
+  "bg": "bg/wwf_divide_b_105.jpg",
+  "dur": 4.433008,
+  "t0": 3089.92
+ },
+ {
+  "id": "wwf_divide_b_106",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_106.mp4",
+  "bg": "bg/wwf_divide_b_106.jpg",
+  "dur": 3.533333,
+  "t0": 3111.84
+ },
+ {
+  "id": "wwf_divide_b_107",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_107.mp4",
+  "bg": "bg/wwf_divide_b_107.jpg",
+  "dur": 5.6,
+  "t0": 3140.8
+ },
+ {
+  "id": "wwf_divide_b_108",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_108.mp4",
+  "bg": "bg/wwf_divide_b_108.jpg",
+  "dur": 4.433333,
+  "t0": 3172.52
+ },
+ {
+  "id": "wwf_divide_b_109",
+  "src": "wwf_divide_b",
+  "tag": "f1940",
+  "file": "clips/wwf_divide_b_109.mp4",
+  "bg": "bg/wwf_divide_b_109.jpg",
+  "dur": 4.833333,
+  "t0": 3204.84
+ },
+ {
+  "id": "wwf_britain_b_00",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_00.mp4",
+  "bg": "bg/wwf_britain_b_00.jpg",
+  "dur": 3.366667,
+  "t0": 186.11
+ },
+ {
+  "id": "wwf_britain_b_01",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_01.mp4",
+  "bg": "bg/wwf_britain_b_01.jpg",
+  "dur": 5.6,
+  "t0": 240.66
+ },
+ {
+  "id": "wwf_britain_b_02",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_02.mp4",
+  "bg": "bg/wwf_britain_b_02.jpg",
+  "dur": 5.6,
+  "t0": 280.48
+ },
+ {
+  "id": "wwf_britain_b_03",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_03.mp4",
+  "bg": "bg/wwf_britain_b_03.jpg",
+  "dur": 4.566667,
+  "t0": 310.23
+ },
+ {
+  "id": "wwf_britain_b_04",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_04.mp4",
+  "bg": "bg/wwf_britain_b_04.jpg",
+  "dur": 5.533008,
+  "t0": 359.15
+ },
+ {
+  "id": "wwf_britain_b_05",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_05.mp4",
+  "bg": "bg/wwf_britain_b_05.jpg",
+  "dur": 3.766667,
+  "t0": 364.9
+ },
+ {
+  "id": "wwf_britain_b_06",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_06.mp4",
+  "bg": "bg/wwf_britain_b_06.jpg",
+  "dur": 5.033333,
+  "t0": 385.89
+ },
+ {
+  "id": "wwf_britain_b_07",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_07.mp4",
+  "bg": "bg/wwf_britain_b_07.jpg",
+  "dur": 2.9,
+  "t0": 436.36
+ },
+ {
+  "id": "wwf_britain_b_08",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_08.mp4",
+  "bg": "bg/wwf_britain_b_08.jpg",
+  "dur": 3.633333,
+  "t0": 442.4
+ },
+ {
+  "id": "wwf_britain_b_09",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_09.mp4",
+  "bg": "bg/wwf_britain_b_09.jpg",
+  "dur": 5.6,
+  "t0": 482.19
+ },
+ {
+  "id": "wwf_britain_b_10",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_10.mp4",
+  "bg": "bg/wwf_britain_b_10.jpg",
+  "dur": 5.366016,
+  "t0": 506.04
+ },
+ {
+  "id": "wwf_britain_b_11",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_11.mp4",
+  "bg": "bg/wwf_britain_b_11.jpg",
+  "dur": 3.433333,
+  "t0": 511.63
+ },
+ {
+  "id": "wwf_britain_b_12",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_12.mp4",
+  "bg": "bg/wwf_britain_b_12.jpg",
+  "dur": 5.6,
+  "t0": 536.07
+ },
+ {
+  "id": "wwf_britain_b_13",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_13.mp4",
+  "bg": "bg/wwf_britain_b_13.jpg",
+  "dur": 3.4,
+  "t0": 554.47
+ },
+ {
+  "id": "wwf_britain_b_14",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_14.mp4",
+  "bg": "bg/wwf_britain_b_14.jpg",
+  "dur": 2.6,
+  "t0": 584.54
+ },
+ {
+  "id": "wwf_britain_b_15",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_15.mp4",
+  "bg": "bg/wwf_britain_b_15.jpg",
+  "dur": 4.166667,
+  "t0": 606.03
+ },
+ {
+  "id": "wwf_britain_b_16",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_16.mp4",
+  "bg": "bg/wwf_britain_b_16.jpg",
+  "dur": 4.366667,
+  "t0": 610.4
+ },
+ {
+  "id": "wwf_britain_b_17",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_17.mp4",
+  "bg": "bg/wwf_britain_b_17.jpg",
+  "dur": 5.6,
+  "t0": 648.99
+ },
+ {
+  "id": "wwf_britain_b_18",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_18.mp4",
+  "bg": "bg/wwf_britain_b_18.jpg",
+  "dur": 2.9,
+  "t0": 686.72
+ },
+ {
+  "id": "wwf_britain_b_19",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_19.mp4",
+  "bg": "bg/wwf_britain_b_19.jpg",
+  "dur": 4.566667,
+  "t0": 709.46
+ },
+ {
+  "id": "wwf_britain_b_20",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_20.mp4",
+  "bg": "bg/wwf_britain_b_20.jpg",
+  "dur": 4.533333,
+  "t0": 736.16
+ },
+ {
+  "id": "wwf_britain_b_21",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_21.mp4",
+  "bg": "bg/wwf_britain_b_21.jpg",
+  "dur": 5.6,
+  "t0": 748.87
+ },
+ {
+  "id": "wwf_britain_b_22",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_22.mp4",
+  "bg": "bg/wwf_britain_b_22.jpg",
+  "dur": 3.166016,
+  "t0": 772.03
+ },
+ {
+  "id": "wwf_britain_b_23",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_23.mp4",
+  "bg": "bg/wwf_britain_b_23.jpg",
+  "dur": 5.6,
+  "t0": 803.59
+ },
+ {
+  "id": "wwf_britain_b_24",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_24.mp4",
+  "bg": "bg/wwf_britain_b_24.jpg",
+  "dur": 3.466667,
+  "t0": 830.33
+ },
+ {
+  "id": "wwf_britain_b_25",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_25.mp4",
+  "bg": "bg/wwf_britain_b_25.jpg",
+  "dur": 5.6,
+  "t0": 859.9
+ },
+ {
+  "id": "wwf_britain_b_26",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_26.mp4",
+  "bg": "bg/wwf_britain_b_26.jpg",
+  "dur": 5.6,
+  "t0": 887.59
+ },
+ {
+  "id": "wwf_britain_b_27",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_27.mp4",
+  "bg": "bg/wwf_britain_b_27.jpg",
+  "dur": 4.2,
+  "t0": 904.02
+ },
+ {
+  "id": "wwf_britain_b_28",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_28.mp4",
+  "bg": "bg/wwf_britain_b_28.jpg",
+  "dur": 4.066667,
+  "t0": 942.03
+ },
+ {
+  "id": "wwf_britain_b_29",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_29.mp4",
+  "bg": "bg/wwf_britain_b_29.jpg",
+  "dur": 2.7,
+  "t0": 963.8
+ },
+ {
+  "id": "wwf_britain_b_30",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_30.mp4",
+  "bg": "bg/wwf_britain_b_30.jpg",
+  "dur": 5.6,
+  "t0": 1001.87
+ },
+ {
+  "id": "wwf_britain_b_31",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_31.mp4",
+  "bg": "bg/wwf_britain_b_31.jpg",
+  "dur": 3.333333,
+  "t0": 1031.99
+ },
+ {
+  "id": "wwf_britain_b_32",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_32.mp4",
+  "bg": "bg/wwf_britain_b_32.jpg",
+  "dur": 5.6,
+  "t0": 1055.01
+ },
+ {
+  "id": "wwf_britain_b_33",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_33.mp4",
+  "bg": "bg/wwf_britain_b_33.jpg",
+  "dur": 5.6,
+  "t0": 1078.7
+ },
+ {
+  "id": "wwf_britain_b_34",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_34.mp4",
+  "bg": "bg/wwf_britain_b_34.jpg",
+  "dur": 2.9,
+  "t0": 1099.19
+ },
+ {
+  "id": "wwf_britain_b_35",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_35.mp4",
+  "bg": "bg/wwf_britain_b_35.jpg",
+  "dur": 5.6,
+  "t0": 1112.15
+ },
+ {
+  "id": "wwf_britain_b_36",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_36.mp4",
+  "bg": "bg/wwf_britain_b_36.jpg",
+  "dur": 3.366016,
+  "t0": 1158.41
+ },
+ {
+  "id": "wwf_britain_b_37",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_37.mp4",
+  "bg": "bg/wwf_britain_b_37.jpg",
+  "dur": 4.233333,
+  "t0": 1180.68
+ },
+ {
+  "id": "wwf_britain_b_38",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_38.mp4",
+  "bg": "bg/wwf_britain_b_38.jpg",
+  "dur": 2.966667,
+  "t0": 1190.69
+ },
+ {
+  "id": "wwf_britain_b_39",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_39.mp4",
+  "bg": "bg/wwf_britain_b_39.jpg",
+  "dur": 5.6,
+  "t0": 1225.4
+ },
+ {
+  "id": "wwf_britain_b_40",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_40.mp4",
+  "bg": "bg/wwf_britain_b_40.jpg",
+  "dur": 2.566667,
+  "t0": 1244.11
+ },
+ {
+  "id": "wwf_britain_b_41",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_41.mp4",
+  "bg": "bg/wwf_britain_b_41.jpg",
+  "dur": 4.566667,
+  "t0": 1262.52
+ },
+ {
+  "id": "wwf_britain_b_42",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_42.mp4",
+  "bg": "bg/wwf_britain_b_42.jpg",
+  "dur": 2.933333,
+  "t0": 1288.41
+ },
+ {
+  "id": "wwf_britain_b_43",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_43.mp4",
+  "bg": "bg/wwf_britain_b_43.jpg",
+  "dur": 2.966667,
+  "t0": 1296.72
+ },
+ {
+  "id": "wwf_britain_b_44",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_44.mp4",
+  "bg": "bg/wwf_britain_b_44.jpg",
+  "dur": 5.6,
+  "t0": 1323.99
+ },
+ {
+  "id": "wwf_britain_b_45",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_45.mp4",
+  "bg": "bg/wwf_britain_b_45.jpg",
+  "dur": 4.2,
+  "t0": 1334.37
+ },
+ {
+  "id": "wwf_britain_b_46",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_46.mp4",
+  "bg": "bg/wwf_britain_b_46.jpg",
+  "dur": 3.066667,
+  "t0": 1366.95
+ },
+ {
+  "id": "wwf_britain_b_47",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_47.mp4",
+  "bg": "bg/wwf_britain_b_47.jpg",
+  "dur": 4.133008,
+  "t0": 1377.5
+ },
+ {
+  "id": "wwf_britain_b_48",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_48.mp4",
+  "bg": "bg/wwf_britain_b_48.jpg",
+  "dur": 3.866667,
+  "t0": 1406.58
+ },
+ {
+  "id": "wwf_britain_b_49",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_49.mp4",
+  "bg": "bg/wwf_britain_b_49.jpg",
+  "dur": 5.6,
+  "t0": 1426.6
+ },
+ {
+  "id": "wwf_britain_b_50",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_50.mp4",
+  "bg": "bg/wwf_britain_b_50.jpg",
+  "dur": 3.366016,
+  "t0": 1458.66
+ },
+ {
+  "id": "wwf_britain_b_51",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_51.mp4",
+  "bg": "bg/wwf_britain_b_51.jpg",
+  "dur": 3.633008,
+  "t0": 1494.11
+ },
+ {
+  "id": "wwf_britain_b_52",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_52.mp4",
+  "bg": "bg/wwf_britain_b_52.jpg",
+  "dur": 4.5,
+  "t0": 1533.15
+ },
+ {
+  "id": "wwf_britain_b_53",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_53.mp4",
+  "bg": "bg/wwf_britain_b_53.jpg",
+  "dur": 2.966667,
+  "t0": 1539.79
+ },
+ {
+  "id": "wwf_britain_b_54",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_54.mp4",
+  "bg": "bg/wwf_britain_b_54.jpg",
+  "dur": 5.233333,
+  "t0": 1600.19
+ },
+ {
+  "id": "wwf_britain_b_55",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_55.mp4",
+  "bg": "bg/wwf_britain_b_55.jpg",
+  "dur": 2.7,
+  "t0": 1616.12
+ },
+ {
+  "id": "wwf_britain_b_56",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_56.mp4",
+  "bg": "bg/wwf_britain_b_56.jpg",
+  "dur": 3.066667,
+  "t0": 1632.09
+ },
+ {
+  "id": "wwf_britain_b_57",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_57.mp4",
+  "bg": "bg/wwf_britain_b_57.jpg",
+  "dur": 5.6,
+  "t0": 1642.93
+ },
+ {
+  "id": "wwf_britain_b_58",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_58.mp4",
+  "bg": "bg/wwf_britain_b_58.jpg",
+  "dur": 5.6,
+  "t0": 1663.5
+ },
+ {
+  "id": "wwf_britain_b_59",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_59.mp4",
+  "bg": "bg/wwf_britain_b_59.jpg",
+  "dur": 5.6,
+  "t0": 1711.71
+ },
+ {
+  "id": "wwf_britain_b_60",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_60.mp4",
+  "bg": "bg/wwf_britain_b_60.jpg",
+  "dur": 5.6,
+  "t0": 1746.45
+ },
+ {
+  "id": "wwf_britain_b_61",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_61.mp4",
+  "bg": "bg/wwf_britain_b_61.jpg",
+  "dur": 5.6,
+  "t0": 1757.38
+ },
+ {
+  "id": "wwf_britain_b_62",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_62.mp4",
+  "bg": "bg/wwf_britain_b_62.jpg",
+  "dur": 3.666667,
+  "t0": 1774.28
+ },
+ {
+  "id": "wwf_britain_b_63",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_63.mp4",
+  "bg": "bg/wwf_britain_b_63.jpg",
+  "dur": 3.7,
+  "t0": 1817.85
+ },
+ {
+  "id": "wwf_britain_b_64",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_64.mp4",
+  "bg": "bg/wwf_britain_b_64.jpg",
+  "dur": 3.3,
+  "t0": 1839.04
+ },
+ {
+  "id": "wwf_britain_b_65",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_65.mp4",
+  "bg": "bg/wwf_britain_b_65.jpg",
+  "dur": 2.733333,
+  "t0": 1853.02
+ },
+ {
+  "id": "wwf_britain_b_66",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_66.mp4",
+  "bg": "bg/wwf_britain_b_66.jpg",
+  "dur": 4.8,
+  "t0": 1876.46
+ },
+ {
+  "id": "wwf_britain_b_67",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_67.mp4",
+  "bg": "bg/wwf_britain_b_67.jpg",
+  "dur": 5.6,
+  "t0": 1919.51
+ },
+ {
+  "id": "wwf_britain_b_68",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_68.mp4",
+  "bg": "bg/wwf_britain_b_68.jpg",
+  "dur": 5.6,
+  "t0": 1937.19
+ },
+ {
+  "id": "wwf_britain_b_69",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_69.mp4",
+  "bg": "bg/wwf_britain_b_69.jpg",
+  "dur": 5.6,
+  "t0": 1961.16
+ },
+ {
+  "id": "wwf_britain_b_70",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_70.mp4",
+  "bg": "bg/wwf_britain_b_70.jpg",
+  "dur": 5.6,
+  "t0": 1978.01
+ },
+ {
+  "id": "wwf_britain_b_71",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_71.mp4",
+  "bg": "bg/wwf_britain_b_71.jpg",
+  "dur": 5,
+  "t0": 1986.32
+ },
+ {
+  "id": "wwf_britain_b_72",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_72.mp4",
+  "bg": "bg/wwf_britain_b_72.jpg",
+  "dur": 5,
+  "t0": 2016.08
+ },
+ {
+  "id": "wwf_britain_b_73",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_73.mp4",
+  "bg": "bg/wwf_britain_b_73.jpg",
+  "dur": 5.6,
+  "t0": 2044.96
+ },
+ {
+  "id": "wwf_britain_b_74",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_74.mp4",
+  "bg": "bg/wwf_britain_b_74.jpg",
+  "dur": 3.6,
+  "t0": 2055.34
+ },
+ {
+  "id": "wwf_britain_b_75",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_75.mp4",
+  "bg": "bg/wwf_britain_b_75.jpg",
+  "dur": 3.033333,
+  "t0": 2092.71
+ },
+ {
+  "id": "wwf_britain_b_76",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_76.mp4",
+  "bg": "bg/wwf_britain_b_76.jpg",
+  "dur": 3.5,
+  "t0": 2185.97
+ },
+ {
+  "id": "wwf_britain_b_77",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_77.mp4",
+  "bg": "bg/wwf_britain_b_77.jpg",
+  "dur": 5.6,
+  "t0": 2215.87
+ },
+ {
+  "id": "wwf_britain_b_78",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_78.mp4",
+  "bg": "bg/wwf_britain_b_78.jpg",
+  "dur": 5.6,
+  "t0": 2244.95
+ },
+ {
+  "id": "wwf_britain_b_79",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_79.mp4",
+  "bg": "bg/wwf_britain_b_79.jpg",
+  "dur": 5,
+  "t0": 2255.45
+ },
+ {
+  "id": "wwf_britain_b_80",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_80.mp4",
+  "bg": "bg/wwf_britain_b_80.jpg",
+  "dur": 5.6,
+  "t0": 2336.21
+ },
+ {
+  "id": "wwf_britain_b_81",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_81.mp4",
+  "bg": "bg/wwf_britain_b_81.jpg",
+  "dur": 5.6,
+  "t0": 2365.9
+ },
+ {
+  "id": "wwf_britain_b_82",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_82.mp4",
+  "bg": "bg/wwf_britain_b_82.jpg",
+  "dur": 5,
+  "t0": 2378.17
+ },
+ {
+  "id": "wwf_britain_b_83",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_83.mp4",
+  "bg": "bg/wwf_britain_b_83.jpg",
+  "dur": 5,
+  "t0": 2425.63
+ },
+ {
+  "id": "wwf_britain_b_84",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_84.mp4",
+  "bg": "bg/wwf_britain_b_84.jpg",
+  "dur": 5,
+  "t0": 2481.41
+ },
+ {
+  "id": "wwf_britain_b_85",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_85.mp4",
+  "bg": "bg/wwf_britain_b_85.jpg",
+  "dur": 3.566016,
+  "t0": 2498.54
+ },
+ {
+  "id": "wwf_britain_b_86",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_86.mp4",
+  "bg": "bg/wwf_britain_b_86.jpg",
+  "dur": 5,
+  "t0": 2524.67
+ },
+ {
+  "id": "wwf_britain_b_87",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_87.mp4",
+  "bg": "bg/wwf_britain_b_87.jpg",
+  "dur": 5,
+  "t0": 2659.33
+ },
+ {
+  "id": "wwf_britain_b_88",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_88.mp4",
+  "bg": "bg/wwf_britain_b_88.jpg",
+  "dur": 5,
+  "t0": 2864.56
+ },
+ {
+  "id": "wwf_britain_b_89",
+  "src": "wwf_britain_b",
+  "tag": "guerra1940",
+  "file": "clips/wwf_britain_b_89.mp4",
+  "bg": "bg/wwf_britain_b_89.jpg",
+  "dur": 5.6,
+  "t0": 2957.49
+ },
+ {
+  "id": "spain_in_revolt_00",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_00.mp4",
+  "bg": "bg/spain_in_revolt_00.jpg",
+  "dur": 3.433333,
+  "t0": 18.14
+ },
+ {
+  "id": "spain_in_revolt_01",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_01.mp4",
+  "bg": "bg/spain_in_revolt_01.jpg",
+  "dur": 4.933008,
+  "t0": 37.56
+ },
+ {
+  "id": "spain_in_revolt_02",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_02.mp4",
+  "bg": "bg/spain_in_revolt_02.jpg",
+  "dur": 5.6,
+  "t0": 44.86
+ },
+ {
+  "id": "spain_in_revolt_03",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_03.mp4",
+  "bg": "bg/spain_in_revolt_03.jpg",
+  "dur": 2.666016,
+  "t0": 64.32
+ },
+ {
+  "id": "spain_in_revolt_04",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_04.mp4",
+  "bg": "bg/spain_in_revolt_04.jpg",
+  "dur": 4.8,
+  "t0": 71.32
+ },
+ {
+  "id": "spain_in_revolt_05",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_05.mp4",
+  "bg": "bg/spain_in_revolt_05.jpg",
+  "dur": 5.6,
+  "t0": 82.57
+ },
+ {
+  "id": "spain_in_revolt_06",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_06.mp4",
+  "bg": "bg/spain_in_revolt_06.jpg",
+  "dur": 5.6,
+  "t0": 97.18
+ },
+ {
+  "id": "spain_in_revolt_07",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_07.mp4",
+  "bg": "bg/spain_in_revolt_07.jpg",
+  "dur": 3.833333,
+  "t0": 103.52
+ },
+ {
+  "id": "spain_in_revolt_08",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_08.mp4",
+  "bg": "bg/spain_in_revolt_08.jpg",
+  "dur": 2.6,
+  "t0": 110.9
+ },
+ {
+  "id": "spain_in_revolt_09",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_09.mp4",
+  "bg": "bg/spain_in_revolt_09.jpg",
+  "dur": 2.633333,
+  "t0": 113.73
+ },
+ {
+  "id": "spain_in_revolt_10",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_10.mp4",
+  "bg": "bg/spain_in_revolt_10.jpg",
+  "dur": 4.766016,
+  "t0": 124.44
+ },
+ {
+  "id": "spain_in_revolt_11",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_11.mp4",
+  "bg": "bg/spain_in_revolt_11.jpg",
+  "dur": 3.133333,
+  "t0": 134.55
+ },
+ {
+  "id": "spain_in_revolt_12",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_12.mp4",
+  "bg": "bg/spain_in_revolt_12.jpg",
+  "dur": 3.166667,
+  "t0": 141.8
+ },
+ {
+  "id": "spain_in_revolt_13",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_13.mp4",
+  "bg": "bg/spain_in_revolt_13.jpg",
+  "dur": 4.8,
+  "t0": 145.17
+ },
+ {
+  "id": "spain_in_revolt_14",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_14.mp4",
+  "bg": "bg/spain_in_revolt_14.jpg",
+  "dur": 4.733333,
+  "t0": 150.17
+ },
+ {
+  "id": "spain_in_revolt_15",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_15.mp4",
+  "bg": "bg/spain_in_revolt_15.jpg",
+  "dur": 3.666667,
+  "t0": 158.08
+ },
+ {
+  "id": "spain_in_revolt_16",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_16.mp4",
+  "bg": "bg/spain_in_revolt_16.jpg",
+  "dur": 2.766016,
+  "t0": 169.26
+ },
+ {
+  "id": "spain_in_revolt_17",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_17.mp4",
+  "bg": "bg/spain_in_revolt_17.jpg",
+  "dur": 3.433333,
+  "t0": 185.37
+ },
+ {
+  "id": "spain_in_revolt_18",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_18.mp4",
+  "bg": "bg/spain_in_revolt_18.jpg",
+  "dur": 2.933333,
+  "t0": 189.01
+ },
+ {
+  "id": "spain_in_revolt_19",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_19.mp4",
+  "bg": "bg/spain_in_revolt_19.jpg",
+  "dur": 5.133008,
+  "t0": 198.99
+ },
+ {
+  "id": "spain_in_revolt_20",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_20.mp4",
+  "bg": "bg/spain_in_revolt_20.jpg",
+  "dur": 4.033333,
+  "t0": 204.32
+ },
+ {
+  "id": "spain_in_revolt_21",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_21.mp4",
+  "bg": "bg/spain_in_revolt_21.jpg",
+  "dur": 3.533333,
+  "t0": 212.07
+ },
+ {
+  "id": "spain_in_revolt_22",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_22.mp4",
+  "bg": "bg/spain_in_revolt_22.jpg",
+  "dur": 3.5,
+  "t0": 215.8
+ },
+ {
+  "id": "spain_in_revolt_23",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_23.mp4",
+  "bg": "bg/spain_in_revolt_23.jpg",
+  "dur": 4.7,
+  "t0": 219.51
+ },
+ {
+  "id": "spain_in_revolt_24",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_24.mp4",
+  "bg": "bg/spain_in_revolt_24.jpg",
+  "dur": 4.133333,
+  "t0": 227.81
+ },
+ {
+  "id": "spain_in_revolt_25",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_25.mp4",
+  "bg": "bg/spain_in_revolt_25.jpg",
+  "dur": 3.166016,
+  "t0": 234.19
+ },
+ {
+  "id": "spain_in_revolt_26",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_26.mp4",
+  "bg": "bg/spain_in_revolt_26.jpg",
+  "dur": 4.933333,
+  "t0": 247.73
+ },
+ {
+  "id": "spain_in_revolt_27",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_27.mp4",
+  "bg": "bg/spain_in_revolt_27.jpg",
+  "dur": 2.6,
+  "t0": 252.87
+ },
+ {
+  "id": "spain_in_revolt_28",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_28.mp4",
+  "bg": "bg/spain_in_revolt_28.jpg",
+  "dur": 3.633333,
+  "t0": 260.45
+ },
+ {
+  "id": "spain_in_revolt_29",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_29.mp4",
+  "bg": "bg/spain_in_revolt_29.jpg",
+  "dur": 4.533333,
+  "t0": 264.28
+ },
+ {
+  "id": "spain_in_revolt_30",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_30.mp4",
+  "bg": "bg/spain_in_revolt_30.jpg",
+  "dur": 2.966667,
+  "t0": 274.86
+ },
+ {
+  "id": "spain_in_revolt_31",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_31.mp4",
+  "bg": "bg/spain_in_revolt_31.jpg",
+  "dur": 4.266016,
+  "t0": 278.06
+ },
+ {
+  "id": "spain_in_revolt_32",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_32.mp4",
+  "bg": "bg/spain_in_revolt_32.jpg",
+  "dur": 5.6,
+  "t0": 282.54
+ },
+ {
+  "id": "spain_in_revolt_33",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_33.mp4",
+  "bg": "bg/spain_in_revolt_33.jpg",
+  "dur": 3.433333,
+  "t0": 295.28
+ },
+ {
+  "id": "spain_in_revolt_34",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_34.mp4",
+  "bg": "bg/spain_in_revolt_34.jpg",
+  "dur": 5.6,
+  "t0": 298.92
+ },
+ {
+  "id": "spain_in_revolt_35",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_35.mp4",
+  "bg": "bg/spain_in_revolt_35.jpg",
+  "dur": 2.9,
+  "t0": 316.94
+ },
+ {
+  "id": "spain_in_revolt_36",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_36.mp4",
+  "bg": "bg/spain_in_revolt_36.jpg",
+  "dur": 3.033333,
+  "t0": 327.58
+ },
+ {
+  "id": "spain_in_revolt_37",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_37.mp4",
+  "bg": "bg/spain_in_revolt_37.jpg",
+  "dur": 3.133333,
+  "t0": 342.2
+ },
+ {
+  "id": "spain_in_revolt_38",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_38.mp4",
+  "bg": "bg/spain_in_revolt_38.jpg",
+  "dur": 2.933333,
+  "t0": 345.53
+ },
+ {
+  "id": "spain_in_revolt_39",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_39.mp4",
+  "bg": "bg/spain_in_revolt_39.jpg",
+  "dur": 4.766667,
+  "t0": 353.67
+ },
+ {
+  "id": "spain_in_revolt_40",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_40.mp4",
+  "bg": "bg/spain_in_revolt_40.jpg",
+  "dur": 3.7,
+  "t0": 364.48
+ },
+ {
+  "id": "spain_in_revolt_41",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_41.mp4",
+  "bg": "bg/spain_in_revolt_41.jpg",
+  "dur": 5.6,
+  "t0": 368.39
+ },
+ {
+  "id": "spain_in_revolt_42",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_42.mp4",
+  "bg": "bg/spain_in_revolt_42.jpg",
+  "dur": 5.6,
+  "t0": 383.07
+ },
+ {
+  "id": "spain_in_revolt_43",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_43.mp4",
+  "bg": "bg/spain_in_revolt_43.jpg",
+  "dur": 2.566016,
+  "t0": 392.85
+ },
+ {
+  "id": "spain_in_revolt_44",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_44.mp4",
+  "bg": "bg/spain_in_revolt_44.jpg",
+  "dur": 2.6,
+  "t0": 402.66
+ },
+ {
+  "id": "spain_in_revolt_45",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_45.mp4",
+  "bg": "bg/spain_in_revolt_45.jpg",
+  "dur": 3.166667,
+  "t0": 405.49
+ },
+ {
+  "id": "spain_in_revolt_46",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_46.mp4",
+  "bg": "bg/spain_in_revolt_46.jpg",
+  "dur": 4.2,
+  "t0": 412.37
+ },
+ {
+  "id": "spain_in_revolt_47",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_47.mp4",
+  "bg": "bg/spain_in_revolt_47.jpg",
+  "dur": 5.6,
+  "t0": 416.77
+ },
+ {
+  "id": "spain_in_revolt_48",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_48.mp4",
+  "bg": "bg/spain_in_revolt_48.jpg",
+  "dur": 5.6,
+  "t0": 422.94
+ },
+ {
+  "id": "spain_in_revolt_49",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_49.mp4",
+  "bg": "bg/spain_in_revolt_49.jpg",
+  "dur": 4,
+  "t0": 433.22
+ },
+ {
+  "id": "spain_in_revolt_50",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_50.mp4",
+  "bg": "bg/spain_in_revolt_50.jpg",
+  "dur": 2.633333,
+  "t0": 442.86
+ },
+ {
+  "id": "spain_in_revolt_51",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_51.mp4",
+  "bg": "bg/spain_in_revolt_51.jpg",
+  "dur": 2.766667,
+  "t0": 460.05
+ },
+ {
+  "id": "spain_in_revolt_52",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_52.mp4",
+  "bg": "bg/spain_in_revolt_52.jpg",
+  "dur": 2.633333,
+  "t0": 463.05
+ },
+ {
+  "id": "spain_in_revolt_53",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_53.mp4",
+  "bg": "bg/spain_in_revolt_53.jpg",
+  "dur": 5.6,
+  "t0": 468.72
+ },
+ {
+  "id": "spain_in_revolt_54",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_54.mp4",
+  "bg": "bg/spain_in_revolt_54.jpg",
+  "dur": 4.1,
+  "t0": 478.5
+ },
+ {
+  "id": "spain_in_revolt_55",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_55.mp4",
+  "bg": "bg/spain_in_revolt_55.jpg",
+  "dur": 4.3,
+  "t0": 490.61
+ },
+ {
+  "id": "spain_in_revolt_56",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_56.mp4",
+  "bg": "bg/spain_in_revolt_56.jpg",
+  "dur": 2.966016,
+  "t0": 496.58
+ },
+ {
+  "id": "spain_in_revolt_57",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_57.mp4",
+  "bg": "bg/spain_in_revolt_57.jpg",
+  "dur": 3.533333,
+  "t0": 499.79
+ },
+ {
+  "id": "spain_in_revolt_58",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_58.mp4",
+  "bg": "bg/spain_in_revolt_58.jpg",
+  "dur": 3.033333,
+  "t0": 513.27
+ },
+ {
+  "id": "spain_in_revolt_59",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_59.mp4",
+  "bg": "bg/spain_in_revolt_59.jpg",
+  "dur": 4.4,
+  "t0": 527.85
+ },
+ {
+  "id": "spain_in_revolt_60",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_60.mp4",
+  "bg": "bg/spain_in_revolt_60.jpg",
+  "dur": 3.233008,
+  "t0": 541.33
+ },
+ {
+  "id": "spain_in_revolt_61",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_61.mp4",
+  "bg": "bg/spain_in_revolt_61.jpg",
+  "dur": 3.266016,
+  "t0": 547.23
+ },
+ {
+  "id": "spain_in_revolt_62",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_62.mp4",
+  "bg": "bg/spain_in_revolt_62.jpg",
+  "dur": 3.333333,
+  "t0": 556.28
+ },
+ {
+  "id": "spain_in_revolt_63",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_63.mp4",
+  "bg": "bg/spain_in_revolt_63.jpg",
+  "dur": 3.466667,
+  "t0": 566.45
+ },
+ {
+  "id": "spain_in_revolt_64",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_64.mp4",
+  "bg": "bg/spain_in_revolt_64.jpg",
+  "dur": 2.7,
+  "t0": 581.9
+ },
+ {
+  "id": "spain_in_revolt_65",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_65.mp4",
+  "bg": "bg/spain_in_revolt_65.jpg",
+  "dur": 3.4,
+  "t0": 584.84
+ },
+ {
+  "id": "spain_in_revolt_66",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_66.mp4",
+  "bg": "bg/spain_in_revolt_66.jpg",
+  "dur": 2.566667,
+  "t0": 588.44
+ },
+ {
+  "id": "spain_in_revolt_67",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_67.mp4",
+  "bg": "bg/spain_in_revolt_67.jpg",
+  "dur": 3.233333,
+  "t0": 617.87
+ },
+ {
+  "id": "spain_in_revolt_68",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_68.mp4",
+  "bg": "bg/spain_in_revolt_68.jpg",
+  "dur": 4.933333,
+  "t0": 627.35
+ },
+ {
+  "id": "spain_in_revolt_69",
+  "src": "spain_in_revolt",
+  "tag": "guerracivil",
+  "file": "clips/spain_in_revolt_69.mp4",
+  "bg": "bg/spain_in_revolt_69.jpg",
+  "dur": 5,
+  "t0": 639.21
+ },
+ {
+  "id": "spain_revolt_r3_00",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_00.mp4",
+  "bg": "bg/spain_revolt_r3_00.jpg",
+  "dur": 3.233008,
+  "t0": 17.4
+ },
+ {
+  "id": "spain_revolt_r3_01",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_01.mp4",
+  "bg": "bg/spain_revolt_r3_01.jpg",
+  "dur": 5,
+  "t0": 27.55
+ },
+ {
+  "id": "spain_revolt_r3_02",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_02.mp4",
+  "bg": "bg/spain_revolt_r3_02.jpg",
+  "dur": 5.6,
+  "t0": 38.02
+ },
+ {
+  "id": "spain_revolt_r3_03",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_03.mp4",
+  "bg": "bg/spain_revolt_r3_03.jpg",
+  "dur": 2.8,
+  "t0": 47.33
+ },
+ {
+  "id": "spain_revolt_r3_04",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_04.mp4",
+  "bg": "bg/spain_revolt_r3_04.jpg",
+  "dur": 5.6,
+  "t0": 54.51
+ },
+ {
+  "id": "spain_revolt_r3_05",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_05.mp4",
+  "bg": "bg/spain_revolt_r3_05.jpg",
+  "dur": 5.6,
+  "t0": 61.68
+ },
+ {
+  "id": "spain_revolt_r3_06",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_06.mp4",
+  "bg": "bg/spain_revolt_r3_06.jpg",
+  "dur": 4.266667,
+  "t0": 72.76
+ },
+ {
+  "id": "spain_revolt_r3_07",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_07.mp4",
+  "bg": "bg/spain_revolt_r3_07.jpg",
+  "dur": 4.6,
+  "t0": 77.23
+ },
+ {
+  "id": "spain_revolt_r3_08",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_08.mp4",
+  "bg": "bg/spain_revolt_r3_08.jpg",
+  "dur": 2.9,
+  "t0": 84.44
+ },
+ {
+  "id": "spain_revolt_r3_09",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_09.mp4",
+  "bg": "bg/spain_revolt_r3_09.jpg",
+  "dur": 2.733333,
+  "t0": 87.57
+ },
+ {
+  "id": "spain_revolt_r3_10",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_10.mp4",
+  "bg": "bg/spain_revolt_r3_10.jpg",
+  "dur": 5.6,
+  "t0": 96.22
+ },
+ {
+  "id": "spain_revolt_r3_11",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_11.mp4",
+  "bg": "bg/spain_revolt_r3_11.jpg",
+  "dur": 5,
+  "t0": 103.15
+ },
+ {
+  "id": "spain_revolt_r3_12",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_12.mp4",
+  "bg": "bg/spain_revolt_r3_12.jpg",
+  "dur": 3.866667,
+  "t0": 110.33
+ },
+ {
+  "id": "spain_revolt_r3_13",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_13.mp4",
+  "bg": "bg/spain_revolt_r3_13.jpg",
+  "dur": 3.033333,
+  "t0": 114.4
+ },
+ {
+  "id": "spain_revolt_r3_14",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_14.mp4",
+  "bg": "bg/spain_revolt_r3_14.jpg",
+  "dur": 5.6,
+  "t0": 124.08
+ },
+ {
+  "id": "spain_revolt_r3_15",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_15.mp4",
+  "bg": "bg/spain_revolt_r3_15.jpg",
+  "dur": 2.933333,
+  "t0": 131.58
+ },
+ {
+  "id": "spain_revolt_r3_16",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_16.mp4",
+  "bg": "bg/spain_revolt_r3_16.jpg",
+  "dur": 2.866667,
+  "t0": 134.75
+ },
+ {
+  "id": "spain_revolt_r3_17",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_17.mp4",
+  "bg": "bg/spain_revolt_r3_17.jpg",
+  "dur": 3.2,
+  "t0": 137.86
+ },
+ {
+  "id": "spain_revolt_r3_18",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_18.mp4",
+  "bg": "bg/spain_revolt_r3_18.jpg",
+  "dur": 3.3,
+  "t0": 141.26
+ },
+ {
+  "id": "spain_revolt_r3_19",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_19.mp4",
+  "bg": "bg/spain_revolt_r3_19.jpg",
+  "dur": 5,
+  "t0": 154.34
+ },
+ {
+  "id": "spain_revolt_r3_20",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_20.mp4",
+  "bg": "bg/spain_revolt_r3_20.jpg",
+  "dur": 5.6,
+  "t0": 162.28
+ },
+ {
+  "id": "spain_revolt_r3_21",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_21.mp4",
+  "bg": "bg/spain_revolt_r3_21.jpg",
+  "dur": 5,
+  "t0": 175.76
+ },
+ {
+  "id": "spain_revolt_r3_22",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_22.mp4",
+  "bg": "bg/spain_revolt_r3_22.jpg",
+  "dur": 4.166667,
+  "t0": 189.48
+ },
+ {
+  "id": "spain_revolt_r3_23",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_23.mp4",
+  "bg": "bg/spain_revolt_r3_23.jpg",
+  "dur": 5.6,
+  "t0": 201.02
+ },
+ {
+  "id": "spain_revolt_r3_24",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_24.mp4",
+  "bg": "bg/spain_revolt_r3_24.jpg",
+  "dur": 5.6,
+  "t0": 214.03
+ },
+ {
+  "id": "spain_revolt_r3_25",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_25.mp4",
+  "bg": "bg/spain_revolt_r3_25.jpg",
+  "dur": 5.6,
+  "t0": 220.84
+ },
+ {
+  "id": "spain_revolt_r3_26",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_26.mp4",
+  "bg": "bg/spain_revolt_r3_26.jpg",
+  "dur": 2.6,
+  "t0": 230.05
+ },
+ {
+  "id": "spain_revolt_r3_27",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_27.mp4",
+  "bg": "bg/spain_revolt_r3_27.jpg",
+  "dur": 4.3,
+  "t0": 240.06
+ },
+ {
+  "id": "spain_revolt_r3_28",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_28.mp4",
+  "bg": "bg/spain_revolt_r3_28.jpg",
+  "dur": 2.933333,
+  "t0": 246.4
+ },
+ {
+  "id": "spain_revolt_r3_29",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_29.mp4",
+  "bg": "bg/spain_revolt_r3_29.jpg",
+  "dur": 5.6,
+  "t0": 249.57
+ },
+ {
+  "id": "spain_revolt_r3_30",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_30.mp4",
+  "bg": "bg/spain_revolt_r3_30.jpg",
+  "dur": 4.366667,
+  "t0": 260.91
+ },
+ {
+  "id": "spain_revolt_r3_31",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_31.mp4",
+  "bg": "bg/spain_revolt_r3_31.jpg",
+  "dur": 5.6,
+  "t0": 275.46
+ },
+ {
+  "id": "spain_revolt_r3_32",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_32.mp4",
+  "bg": "bg/spain_revolt_r3_32.jpg",
+  "dur": 3.133333,
+  "t0": 281.73
+ },
+ {
+  "id": "spain_revolt_r3_33",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_33.mp4",
+  "bg": "bg/spain_revolt_r3_33.jpg",
+  "dur": 5.6,
+  "t0": 285.07
+ },
+ {
+  "id": "spain_revolt_r3_34",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_34.mp4",
+  "bg": "bg/spain_revolt_r3_34.jpg",
+  "dur": 5,
+  "t0": 293.06
+ },
+ {
+  "id": "spain_revolt_r3_35",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_35.mp4",
+  "bg": "bg/spain_revolt_r3_35.jpg",
+  "dur": 4.633333,
+  "t0": 307.63
+ },
+ {
+  "id": "spain_revolt_r3_36",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_36.mp4",
+  "bg": "bg/spain_revolt_r3_36.jpg",
+  "dur": 2.6,
+  "t0": 312.47
+ },
+ {
+  "id": "spain_revolt_r3_37",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_37.mp4",
+  "bg": "bg/spain_revolt_r3_37.jpg",
+  "dur": 5.6,
+  "t0": 315.3
+ },
+ {
+  "id": "spain_revolt_r3_38",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_38.mp4",
+  "bg": "bg/spain_revolt_r3_38.jpg",
+  "dur": 5.6,
+  "t0": 322.38
+ },
+ {
+  "id": "spain_revolt_r3_39",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_39.mp4",
+  "bg": "bg/spain_revolt_r3_39.jpg",
+  "dur": 5.6,
+  "t0": 348.3
+ },
+ {
+  "id": "spain_revolt_r3_40",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_40.mp4",
+  "bg": "bg/spain_revolt_r3_40.jpg",
+  "dur": 5.6,
+  "t0": 357.01
+ },
+ {
+  "id": "spain_revolt_r3_41",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_41.mp4",
+  "bg": "bg/spain_revolt_r3_41.jpg",
+  "dur": 3.733333,
+  "t0": 368.39
+ },
+ {
+  "id": "spain_revolt_r3_42",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_42.mp4",
+  "bg": "bg/spain_revolt_r3_42.jpg",
+  "dur": 5.6,
+  "t0": 375.5
+ },
+ {
+  "id": "spain_revolt_r3_43",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_43.mp4",
+  "bg": "bg/spain_revolt_r3_43.jpg",
+  "dur": 5.6,
+  "t0": 392.01
+ },
+ {
+  "id": "spain_revolt_r3_44",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_44.mp4",
+  "bg": "bg/spain_revolt_r3_44.jpg",
+  "dur": 5.6,
+  "t0": 411.9
+ },
+ {
+  "id": "spain_revolt_r3_45",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_45.mp4",
+  "bg": "bg/spain_revolt_r3_45.jpg",
+  "dur": 5.6,
+  "t0": 418.4
+ },
+ {
+  "id": "spain_revolt_r3_46",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_46.mp4",
+  "bg": "bg/spain_revolt_r3_46.jpg",
+  "dur": 3.433333,
+  "t0": 424.24
+ },
+ {
+  "id": "spain_revolt_r3_47",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_47.mp4",
+  "bg": "bg/spain_revolt_r3_47.jpg",
+  "dur": 5.6,
+  "t0": 430.75
+ },
+ {
+  "id": "spain_revolt_r3_48",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_48.mp4",
+  "bg": "bg/spain_revolt_r3_48.jpg",
+  "dur": 2.966667,
+  "t0": 440.56
+ },
+ {
+  "id": "spain_revolt_r3_49",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_49.mp4",
+  "bg": "bg/spain_revolt_r3_49.jpg",
+  "dur": 4.1,
+  "t0": 443.76
+ },
+ {
+  "id": "spain_revolt_r3_50",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_50.mp4",
+  "bg": "bg/spain_revolt_r3_50.jpg",
+  "dur": 5.6,
+  "t0": 448.07
+ },
+ {
+  "id": "spain_revolt_r3_51",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_51.mp4",
+  "bg": "bg/spain_revolt_r3_51.jpg",
+  "dur": 4.966667,
+  "t0": 459.28
+ },
+ {
+  "id": "spain_revolt_r3_52",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_52.mp4",
+  "bg": "bg/spain_revolt_r3_52.jpg",
+  "dur": 5.6,
+  "t0": 468.12
+ },
+ {
+  "id": "spain_revolt_r3_53",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_53.mp4",
+  "bg": "bg/spain_revolt_r3_53.jpg",
+  "dur": 5.6,
+  "t0": 477
+ },
+ {
+  "id": "spain_revolt_r3_54",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_54.mp4",
+  "bg": "bg/spain_revolt_r3_54.jpg",
+  "dur": 5.6,
+  "t0": 485.44
+ },
+ {
+  "id": "spain_revolt_r3_55",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_55.mp4",
+  "bg": "bg/spain_revolt_r3_55.jpg",
+  "dur": 5.6,
+  "t0": 496.45
+ },
+ {
+  "id": "spain_revolt_r3_56",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_56.mp4",
+  "bg": "bg/spain_revolt_r3_56.jpg",
+  "dur": 5.6,
+  "t0": 514.37
+ },
+ {
+  "id": "spain_revolt_r3_57",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_57.mp4",
+  "bg": "bg/spain_revolt_r3_57.jpg",
+  "dur": 5,
+  "t0": 525.08
+ },
+ {
+  "id": "spain_revolt_r3_58",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_58.mp4",
+  "bg": "bg/spain_revolt_r3_58.jpg",
+  "dur": 5.6,
+  "t0": 539.66
+ },
+ {
+  "id": "spain_revolt_r3_59",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_59.mp4",
+  "bg": "bg/spain_revolt_r3_59.jpg",
+  "dur": 2.766667,
+  "t0": 545.87
+ },
+ {
+  "id": "spain_revolt_r3_60",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_60.mp4",
+  "bg": "bg/spain_revolt_r3_60.jpg",
+  "dur": 5.6,
+  "t0": 557.38
+ },
+ {
+  "id": "spain_revolt_r3_61",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_61.mp4",
+  "bg": "bg/spain_revolt_r3_61.jpg",
+  "dur": 4.833333,
+  "t0": 564.02
+ },
+ {
+  "id": "spain_revolt_r3_62",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_62.mp4",
+  "bg": "bg/spain_revolt_r3_62.jpg",
+  "dur": 5.6,
+  "t0": 576.03
+ },
+ {
+  "id": "spain_revolt_r3_63",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_63.mp4",
+  "bg": "bg/spain_revolt_r3_63.jpg",
+  "dur": 5,
+  "t0": 584.25
+ },
+ {
+  "id": "spain_revolt_r3_64",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_64.mp4",
+  "bg": "bg/spain_revolt_r3_64.jpg",
+  "dur": 2.966667,
+  "t0": 596.05
+ },
+ {
+  "id": "spain_revolt_r3_65",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_65.mp4",
+  "bg": "bg/spain_revolt_r3_65.jpg",
+  "dur": 4.633333,
+  "t0": 599.25
+ },
+ {
+  "id": "spain_revolt_r3_66",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_66.mp4",
+  "bg": "bg/spain_revolt_r3_66.jpg",
+  "dur": 3.666667,
+  "t0": 605.56
+ },
+ {
+  "id": "spain_revolt_r3_67",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_67.mp4",
+  "bg": "bg/spain_revolt_r3_67.jpg",
+  "dur": 5.6,
+  "t0": 609.43
+ },
+ {
+  "id": "spain_revolt_r3_68",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_68.mp4",
+  "bg": "bg/spain_revolt_r3_68.jpg",
+  "dur": 2.733333,
+  "t0": 627.68
+ },
+ {
+  "id": "spain_revolt_r3_69",
+  "src": "spain_revolt_r3",
+  "tag": "guerracivil",
+  "file": "clips/spain_revolt_r3_69.mp4",
+  "bg": "bg/spain_revolt_r3_69.jpg",
+  "dur": 3.666667,
+  "t0": 630.65
+ },
+ {
+  "id": "npc16555_00",
+  "src": "npc16555",
+  "tag": "rn",
+  "file": "clips/npc16555_00.mp4",
+  "bg": "bg/npc16555_00.jpg",
+  "dur": 5.566667,
+  "t0": 0.12
+ },
+ {
+  "id": "npc16555_01",
+  "src": "npc16555",
+  "tag": "rn",
+  "file": "clips/npc16555_01.mp4",
+  "bg": "bg/npc16555_01.jpg",
+  "dur": 5.566667,
+  "t0": 11.78
+ },
+ {
+  "id": "npc16555_02",
+  "src": "npc16555",
+  "tag": "rn",
+  "file": "clips/npc16555_02.mp4",
+  "bg": "bg/npc16555_02.jpg",
+  "dur": 4.966667,
+  "t0": 20.84
+ },
+ {
+  "id": "npc16555_03",
+  "src": "npc16555",
+  "tag": "rn",
+  "file": "clips/npc16555_03.mp4",
+  "bg": "bg/npc16555_03.jpg",
+  "dur": 5.566667,
+  "t0": 30.15
+ },
+ {
+  "id": "npc16555_04",
+  "src": "npc16555",
+  "tag": "rn",
+  "file": "clips/npc16555_04.mp4",
+  "bg": "bg/npc16555_04.jpg",
+  "dur": 4.6,
+  "t0": 40.67
+ },
+ {
+  "id": "npc16555_05",
+  "src": "npc16555",
+  "tag": "rn",
+  "file": "clips/npc16555_05.mp4",
+  "bg": "bg/npc16555_05.jpg",
+  "dur": 3.566667,
+  "t0": 45.5
+ },
+ {
+  "id": "npc16555_06",
+  "src": "npc16555",
+  "tag": "rn",
+  "file": "clips/npc16555_06.mp4",
+  "bg": "bg/npc16555_06.jpg",
+  "dur": 3.033333,
+  "t0": 49.29
+ },
+ {
+  "id": "npc16555_07",
+  "src": "npc16555",
+  "tag": "rn",
+  "file": "clips/npc16555_07.mp4",
+  "bg": "bg/npc16555_07.jpg",
+  "dur": 3.333333,
+  "t0": 52.57
+ },
+ {
+  "id": "npc16555_08",
+  "src": "npc16555",
+  "tag": "rn",
+  "file": "clips/npc16555_08.mp4",
+  "bg": "bg/npc16555_08.jpg",
+  "dur": 2.9,
+  "t0": 56.36
+ },
+ {
+  "id": "npc16555_09",
+  "src": "npc16555",
+  "tag": "rn",
+  "file": "clips/npc16555_09.mp4",
+  "bg": "bg/npc16555_09.jpg",
+  "dur": 3.666667,
+  "t0": 59.5
+ },
+ {
+  "id": "npc16555_10",
+  "src": "npc16555",
+  "tag": "rn",
+  "file": "clips/npc16555_10.mp4",
+  "bg": "bg/npc16555_10.jpg",
+  "dur": 5.566667,
+  "t0": 66.02
+ },
+ {
+  "id": "npc16555_11",
+  "src": "npc16555",
+  "tag": "rn",
+  "file": "clips/npc16555_11.mp4",
+  "bg": "bg/npc16555_11.jpg",
+  "dur": 5.566667,
+  "t0": 72.36
+ }
+]
