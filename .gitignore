@@ -16,3 +16,4 @@ dl/
 !video/public/clips/*.mp4
 push_batches.*
 data_push.log
+chunks2/

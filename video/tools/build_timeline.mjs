@@ -399,7 +399,7 @@ sfx.push({t: outroWin.start, type: 'impact'});
 shots.sort((a, b) => a.from - b.from);
 // fusionar planos absurdamente cortos (< 1,5 s) con el anterior
 for (let i = shots.length - 1; i > 0; i--) { if ((shots[i].kind === 'photo' || shots[i].kind === 'video') && shots[i].dur < 45) { shots[i - 1].dur += shots[i].dur; shots.splice(i, 1); } }
-for (const sh of shots) if ((sh.kind === 'photo' || sh.kind === 'video') && sh.from > 0) sfx.push({t: sh.from / FPS, type: 'cut'});
+for (const sh of shots) if ((sh.kind === 'photo' || sh.kind === 'video') && sh.from > 0) { /* sin sonido en los cortes de foto/clip */ }
 // rellenar huecos/solapes para cobertura continua
 for (let i = 0; i < shots.length; i++) {
   const nx = shots[i + 1];

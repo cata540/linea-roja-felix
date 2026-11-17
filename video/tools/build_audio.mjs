@@ -37,7 +37,7 @@ ff(['-i', path.join(A, 'narration_raw.wav'), '-af', 'highpass=f=60,acompressor=t
 
 // Niveles por defecto de la mezcla (ajuste del usuario tras escuchar Unthinkable: SFX −7 dB y música −3 dB)
 const VOICE_LUFS = -19;
-const MUSIC_LUFS = -30;   // audible pero por debajo de la voz (v1: -27 algo alto; -30 con graves = inaudible)
+const MUSIC_LUFS = -31;   // audible pero por debajo de la voz (v1: -27 algo alto; -30 con graves = inaudible)
 const SFX_GAIN = 0.4;     // antes 0.9  (≈ −7 dB)
 
 // 2) música + SFX (síntesis propia, sin derechos). REMIX=1 reutiliza los stems ya sintetizados.

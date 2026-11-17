@@ -30,9 +30,7 @@ const FramedPhoto: React.FC<{src: string; kb: KB; p: number; w: number; h: numbe
 export type Layout = 'center' | 'full' | 'tiltL' | 'tiltR' | 'split' | 'lower';
 export type Caption = {year?: string; name?: string; role?: string};
 
-const AiBadge: React.FC = () => (
-  <div style={{position: 'absolute', right: 36, top: 34, fontFamily: head, fontSize: 20, letterSpacing: 3, color: 'rgba(255,255,255,.62)', textShadow: '0 2px 6px #000'}}>ILUSTRACIÓN · IA</div>
-);
+const AiBadge: React.FC = () => null;
 
 /** Rótulo de nombre y cargo (tercio inferior), que entra deslizándose. */
 const NameTag: React.FC<{name: string; role?: string; left?: number; bottom?: number}> = ({name, role, left = 90, bottom = 190}) => {
