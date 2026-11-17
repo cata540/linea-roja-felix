@@ -27,7 +27,29 @@ const FramedPhoto: React.FC<{src: string; kb: KB; p: number; w: number; h: numbe
   );
 };
 
-export type Layout = 'center' | 'full' | 'tiltL' | 'tiltR';
+export type Layout = 'center' | 'full' | 'tiltL' | 'tiltR' | 'split' | 'lower';
+export type Caption = {year?: string; name?: string; role?: string};
+
+const AiBadge: React.FC = () => (
+  <div style={{position: 'absolute', right: 36, top: 34, fontFamily: head, fontSize: 20, letterSpacing: 3, color: 'rgba(255,255,255,.62)', textShadow: '0 2px 6px #000'}}>ILUSTRACIÓN · IA</div>
+);
+
+/** Rótulo de nombre y cargo (tercio inferior), que entra deslizándose. */
+const NameTag: React.FC<{name: string; role?: string; left?: number; bottom?: number}> = ({name, role, left = 90, bottom = 190}) => {
+  const frame = useCurrentFrame();
+  const o = interpolate(frame, [8, 22], [0, 1], {extrapolateLeft: 'clamp', extrapolateRight: 'clamp', easing: Easing.out(Easing.cubic)});
+  return (
+    <div style={{position: 'absolute', left, bottom, opacity: o, transform: `translateX(${(1 - o) * -60}px)`}}>
+      <div style={{display: 'flex', alignItems: 'stretch'}}>
+        <div style={{width: 10, background: '#d62828'}} />
+        <div style={{background: 'rgba(10,8,6,.82)', padding: '12px 26px 14px'}}>
+          <div style={{fontFamily: head, fontWeight: 700, fontSize: 52, letterSpacing: 2, color: '#fff', textTransform: 'uppercase', lineHeight: 1.05}}>{name}</div>
+          {role ? <div style={{fontFamily: serif, fontWeight: 700, fontSize: 30, color: C.gold, marginTop: 4}}>{role}</div> : null}
+        </div>
+      </div>
+    </div>
+  );
+};
 
 /**
  * Foto histórica (acabado B/N cálido horneado). Tres encuadres que se alternan:
@@ -35,7 +57,7 @@ export type Layout = 'center' | 'full' | 'tiltL' | 'tiltR';
  *  - tiltL / tiltR: marco ladeado a un lado y año + fuente al otro
  *  - center: marco centrado
  */
-export const PhotoShot: React.FC<{src: string; bg: string; kb: KB; layout?: Layout; caption?: {year?: string; credit?: string}; ai?: boolean}> = ({src, bg, kb, layout = 'center', caption, ai}) => {
+export const PhotoShot: React.FC<{src: string; bg: string; kb: KB; layout?: Layout; caption?: Caption; ai?: boolean}> = ({src, bg, kb, layout = 'center', caption, ai}) => {
   const frame = useCurrentFrame();
   const {durationInFrames} = useVideoConfig();
   const p = Math.min(1, frame / Math.max(1, durationInFrames - 1));
@@ -50,7 +72,42 @@ export const PhotoShot: React.FC<{src: string; bg: string; kb: KB; layout?: Layo
           style={{width: '100%', height: '100%', objectFit: 'cover', objectPosition: `${kb.fx * 100}% ${kb.fy * 100}%`, transformOrigin: `${kb.fx * 100}% ${kb.fy * 100}%`, transform: `translate(${kb.dx * p}px, ${kb.dy * p}px) scale(${Math.max(1.02, z)})`}}
         />
         <AbsoluteFill style={{background: 'linear-gradient(180deg, rgba(0,0,0,.35) 0%, rgba(0,0,0,0) 20%, rgba(0,0,0,0) 52%, rgba(0,0,0,.72) 100%)'}} />
-        {ai ? <div style={{position: 'absolute', right: 40, top: 40, fontFamily: head, fontSize: 22, letterSpacing: 3, color: 'rgba(255,255,255,.7)', textShadow: '0 2px 6px #000'}}>ILUSTRACIÓN · IA</div> : null}
+        {ai ? <AiBadge /> : null}
+        {caption?.name ? <NameTag name={caption.name} role={caption.role} /> : null}
+      </AbsoluteFill>
+    );
+  }
+
+  if (layout === 'lower') {
+    const z = kb.z0 + (kb.z1 - kb.z0) * p;
+    return (
+      <AbsoluteFill style={{background: C.bg}}>
+        <Img src={staticFile(src)} style={{width: '100%', height: '100%', objectFit: 'cover', objectPosition: `${kb.fx * 100}% ${kb.fy * 100}%`, transformOrigin: `${kb.fx * 100}% ${kb.fy * 100}%`, transform: `translate(${kb.dx * p}px, ${kb.dy * p}px) scale(${Math.max(1.02, z)})`}} />
+        <AbsoluteFill style={{background: 'linear-gradient(180deg, rgba(0,0,0,.25) 0%, rgba(0,0,0,0) 22%, rgba(0,0,0,0) 50%, rgba(0,0,0,.78) 100%)'}} />
+        {ai ? <AiBadge /> : null}
+        {caption?.name ? <NameTag name={caption.name} role={caption.role} left={110} bottom={200} /> : null}
+      </AbsoluteFill>
+    );
+  }
+
+  if (layout === 'split') {
+    const z = kb.z0 + (kb.z1 - kb.z0) * p;
+    const slide = (1 - enter) * -70;
+    return (
+      <AbsoluteFill style={{background: C.bg}}>
+        <Background />
+        <div style={{position: 'absolute', left: 0, top: 0, width: 1160, height: 1080, overflow: 'hidden', transform: `translateX(${slide}px)`}}>
+          <Img src={staticFile(src)} style={{width: '100%', height: '100%', objectFit: 'cover', objectPosition: `${kb.fx * 100}% ${kb.fy * 100}%`, transformOrigin: `${kb.fx * 100}% ${kb.fy * 100}%`, transform: `translate(${kb.dx * p}px, ${kb.dy * p}px) scale(${Math.max(1.03, z)})`}} />
+          <AbsoluteFill style={{background: 'linear-gradient(90deg, rgba(0,0,0,0) 70%, rgba(13,10,8,.9) 100%)'}} />
+        </div>
+        <div style={{position: 'absolute', left: 1160, top: 0, width: 6, height: 1080, background: '#d62828', opacity: enter}} />
+        <div style={{position: 'absolute', left: 1230, top: 300, width: 600, opacity: enter}}>
+          {caption?.year ? <div style={{fontFamily: head, fontWeight: 700, fontSize: 150, lineHeight: 1, color: '#fff', textShadow: '0 4px 18px rgba(0,0,0,.9)'}}>{caption.year}</div> : null}
+          {caption?.year ? <div style={{height: 6, width: 150, background: C.red, margin: '18px 0 22px'}} /> : null}
+          {caption?.name ? <div style={{fontFamily: head, fontWeight: 700, fontSize: 64, lineHeight: 1.05, color: '#fff', textTransform: 'uppercase'}}>{caption.name}</div> : null}
+          {caption?.role ? <div style={{fontFamily: serif, fontWeight: 700, fontSize: 38, lineHeight: 1.25, color: C.gold, marginTop: 10}}>{caption.role}</div> : null}
+        </div>
+        {ai ? <AiBadge /> : null}
       </AbsoluteFill>
     );
   }
@@ -68,9 +125,11 @@ export const PhotoShot: React.FC<{src: string; bg: string; kb: KB; layout?: Layo
         <FramedPhoto src={src} kb={kb} p={p} w={W2} h={H2} left={px + slide} top={215} rot={rot} />
         <div style={{position: 'absolute', left: tx, top: 330, width: 580, opacity: enter, transform: `translateX(${-slide * 0.5}px)`}}>
           {caption?.year ? <div style={{fontFamily: head, fontWeight: 700, fontSize: 170, lineHeight: 1, color: '#fff', textShadow: '0 4px 18px rgba(0,0,0,.9)'}}>{caption.year}</div> : null}
-          <div style={{height: 6, width: 150, background: C.red, margin: '18px 0 20px'}} />
-          {caption?.credit ? <div style={{fontFamily: serif, fontWeight: 700, fontSize: 36, lineHeight: 1.25, color: C.gold, textShadow: '0 2px 8px rgba(0,0,0,.9)'}}>{caption.credit}</div> : null}
+          {caption?.year || caption?.name ? <div style={{height: 6, width: 150, background: C.red, margin: '18px 0 20px'}} /> : null}
+          {caption?.name ? <div style={{fontFamily: head, fontWeight: 700, fontSize: 50, lineHeight: 1.05, color: '#fff', textTransform: 'uppercase', textShadow: '0 2px 8px rgba(0,0,0,.9)'}}>{caption.name}</div> : null}
+          {caption?.role ? <div style={{fontFamily: serif, fontWeight: 700, fontSize: 34, lineHeight: 1.25, color: C.gold, marginTop: 8, textShadow: '0 2px 8px rgba(0,0,0,.9)'}}>{caption.role}</div> : null}
         </div>
+        {ai ? <AiBadge /> : null}
       </AbsoluteFill>
     );
   }
@@ -79,6 +138,8 @@ export const PhotoShot: React.FC<{src: string; bg: string; kb: KB; layout?: Layo
     <AbsoluteFill style={{background: C.bg}}>
       <Backdrop bg={bg} />
       <FramedPhoto src={src} kb={kb} p={p} w={1244} h={700} left={(1920 - 1244) / 2 - 11} top={150} />
+      {ai ? <AiBadge /> : null}
+      {caption?.name ? <NameTag name={caption.name} role={caption.role} left={(1920 - 1244) / 2 + 20} bottom={262} /> : null}
     </AbsoluteFill>
   );
 };

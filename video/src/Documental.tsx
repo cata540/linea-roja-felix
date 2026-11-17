@@ -99,11 +99,23 @@ const SubLayer: React.FC = () => {
   return <Subtitle text={s.text} />;
 };
 
+const Punch: React.FC<{children: React.ReactNode; flash?: boolean}> = ({children, flash}) => {
+  const frame = useCurrentFrame();
+  const sc = interpolate(frame, [0, 9], [1.045, 1], {extrapolateRight: 'clamp'});
+  const fl = flash ? interpolate(frame, [0, 5], [0.45, 0], {extrapolateRight: 'clamp'}) : 0;
+  return (
+    <AbsoluteFill style={{transform: `scale(${sc})`}}>
+      {children}
+      {flash ? <AbsoluteFill style={{background: '#fff', opacity: fl}} /> : null}
+    </AbsoluteFill>
+  );
+};
+
 export const Documental: React.FC = () => (
   <AbsoluteFill style={{background: C0}}>
     {(timeline.shots as Shot[]).map((s, i) => (
       <Sequence key={i} from={s.from} durationInFrames={s.dur} layout="none">
-        <AbsoluteFill>{renderShot(s)}</AbsoluteFill>
+        {s.kind === 'photo' || s.kind === 'video' ? <Punch flash={i % 7 === 3}>{renderShot(s)}</Punch> : <AbsoluteFill>{renderShot(s)}</AbsoluteFill>}
       </Sequence>
     ))}
     <Vignette />

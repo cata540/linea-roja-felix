@@ -11,3 +11,8 @@ video/data/chk_*.png
 video/data/audio/
 video/data/make_clips2.log
 video/data/timeline_prev.json
+dl/
+*.mp4
+!video/public/clips/*.mp4
+push_batches.*
+data_push.log

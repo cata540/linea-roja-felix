@@ -45,7 +45,7 @@ for (const [chap, tag, cat, max] of RUN) {
   try {
     j = await api({
       action: 'query', generator: 'categorymembers', gcmtitle: 'Category:' + cat, gcmtype: 'file', gcmlimit: '120',
-      prop: 'imageinfo', iiprop: 'url|size|mime|extmetadata',
+      prop: 'imageinfo', iiprop: 'url|size|mime|extmetadata', iiurlwidth: '1600',
       iiextmetadatafilter: 'LicenseShortName|Artist|Credit|ImageDescription|DateTimeOriginal|Restrictions',
     });
   } catch (e) { console.log('FAIL', cat); continue; }
@@ -82,7 +82,7 @@ for (const [chap, tag, cat, max] of RUN) {
     const dest = path.join(ROOT, 'public', rel);
     fs.mkdirSync(path.dirname(dest), {recursive: true});
     const fileName = p.title.replace(/^File:/, '').replace(/ /g, '_');
-    const url = `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(fileName)}?width=${Math.min(1920, i.width)}`;
+    const url = i.thumburl || `https://commons.wikimedia.org/wiki/Special:FilePath/${encodeURIComponent(fileName)}?width=${Math.min(1920, i.width)}`;
     let ok = false;
     for (let t = 0; t < 3 && !ok; t++) {
       try {

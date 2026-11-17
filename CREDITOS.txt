@@ -3,7 +3,7 @@ Vídeo 2: "La Verdadera Razón Por La Que Hitler Nunca Invadió España (Operaci
 
 Licencias comprobadas con la API de Wikimedia Commons el 2026-11-15. Solo dominio público y CC BY / CC BY-SA (con atribución).
 Se excluyó material del Imperial War Museum y cualquier licencia no comercial.
-Imágenes de archivo usadas: 29 (dominio público: 19 · requieren atribución: 10).
+Imágenes de archivo usadas: 45 (dominio público: 33 · requieren atribución: 12).
 
 === TEXTO PARA LA DESCRIPCIÓN DE YOUTUBE ===
 Imágenes: US Army Signal Corps / U.S. National Archives, Library of Congress, Bundesarchiv y otros archivos (dominio público o CC BY / CC BY-SA), vía Wikimedia Commons. Listado completo abajo.
@@ -13,33 +13,39 @@ Vídeo de archivo: películas del gobierno de EE. UU. (Why We Fight; Naval Photo
 Música y efectos: producción propia (síntesis), sin derechos de terceros. Voz: síntesis de voz neural (Microsoft Edge TTS, es-ES-AlvaroNeural).
 
 === IMÁGENES QUE REQUIEREN ATRIBUCIÓN (CC BY / CC BY-SA) ===
+- Adolf Hitler och andra naziledare hälsar i Hamburg 1939 SLSA 1312-3 foto 7.jpg
+  Autor: Thelma Starckjohann-Bruun · Licencia: CC BY 4.0
+  https://commons.wikimedia.org/wiki/File%3AAdolf_Hitler_och_andra_naziledare_h%C3%A4lsar_i_Hamburg_1939_SLSA_1312-3_foto_7.jpg
+- Bundesarchiv Bild 146-1971-070-61, Hitler mit Generälen bei Lagebesprechung Getty 107424743.jpg
+  Autor: Unknown authorUnknown author · Licencia: CC BY-SA 3.0 de
+  https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_146-1971-070-61%2C_Hitler_mit_Gener%C3%A4len_bei_Lagebesprechung_Getty_107424743.jpg
 - Bundesarchiv Bild 183-L15327, Spanien, Heinrich Himmler bei Franco.jpg
   Autor: Unknown authorUnknown author · Licencia: CC BY-SA 3.0 de
   https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-L15327%2C_Spanien%2C_Heinrich_Himmler_bei_Franco.jpg
-- Aeródromo de El Toro, edificio que albergaba el cuerpo de mando de las escuadrillas (1937-39).jpg
-  Autor: Juan Emilio Prades Bel · Licencia: CC BY 4.0
-  https://commons.wikimedia.org/wiki/File%3AAer%C3%B3dromo_de_El_Toro%2C_edificio_que_albergaba_el_cuerpo_de_mando_de_las_escuadrillas_(1937-39).jpg
+- Francisco Franco escoltado por la Guardia Mora visita San Sebastián una vez finalizada la guerra (8 de 8) - Fondo Marín-Kutxa Fototeka.jpg
+  Autor: Pascual Marín · Licencia: CC BY-SA 3.0
+  https://commons.wikimedia.org/wiki/File%3AFrancisco_Franco_escoltado_por_la_Guardia_Mora_visita_San_Sebasti%C3%A1n_una_vez_finalizada_la_guerra_(8_de_8)_-_Fondo_Mar%C3%ADn-Kutxa_Fototeka.jpg
+- Hitler and Mussolini in Nikolaev.jpg
+  Autor: Unknown authorUnknown author · Licencia: CC BY-SA 4.0
+  https://commons.wikimedia.org/wiki/File%3AHitler_and_Mussolini_in_Nikolaev.jpg
 - Bataillon Italiens à Monte Pelado avec Carlo Rosselli (1936).jpg
   Autor: Unknown authorUnknown author · Licencia: CC BY-SA 4.0
   https://commons.wikimedia.org/wiki/File%3ABataillon_Italiens_%C3%A0_Monte_Pelado_avec_Carlo_Rosselli_(1936).jpg
+- Aniversario de la liberación de Bilbao tribuna 1938.jpg
+  Autor: Imágenes procedentes de los fondos de la Biblioteca Nacional de España · Licencia: CC BY 4.0
+  https://commons.wikimedia.org/wiki/File%3AAniversario_de_la_liberaci%C3%B3n_de_Bilbao_tribuna_1938.jpg
 - Bundesarchiv Bild 121-1010, Berlin-Lichterfelde, Suner, Himmler.jpg
   Autor: UnknownUnknown · Licencia: CC BY-SA 3.0 de
   https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_121-1010%2C_Berlin-Lichterfelde%2C_Suner%2C_Himmler.jpg
-- Bundesarchiv Bild 183-2005-0601-501, Himmler in Madrid.jpg
-  Autor: Unknown authorUnknown author · Licencia: CC BY-SA 3.0 de
-  https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-2005-0601-501%2C_Himmler_in_Madrid.jpg
+- Bundesarchiv Bild 146-1979-013-43, Wilhelm Canaris.jpg
+  Autor: UnknownUnknown · Licencia: CC BY-SA 3.0 de
+  https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_146-1979-013-43%2C_Wilhelm_Canaris.jpg
 - Bundesarchiv Bild 183-H25217, Henry Philippe Petain und Adolf Hitler.jpg
   Autor: Heinrich Hoffmann · Licencia: CC BY-SA 3.0 de
   https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-H25217%2C_Henry_Philippe_Petain_und_Adolf_Hitler.jpg
-- Bundesarchiv Bild 183-2005-0601-500, Spanien, Himmlerbesucht die Burg von Toledo.jpg
-  Autor: Unknown authorUnknown author · Licencia: CC BY-SA 3.0 de
-  https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-2005-0601-500%2C_Spanien%2C_Himmlerbesucht_die_Burg_von_Toledo.jpg
-- Bundesarchiv Bild 183-B05284, Walter v. Reichenau.jpg
-  Autor: Unknown authorUnknown author · Licencia: CC BY-SA 3.0 de
-  https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-B05284%2C_Walter_v._Reichenau.jpg
-- Bundesarchiv Bild 183-R99057, Führerhauptquartier, Adolf Hitler mit Stab.jpg
-  Autor: Heinrich Hoffmann · Licencia: CC BY-SA 3.0 de
-  https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-R99057%2C_F%C3%BChrerhauptquartier%2C_Adolf_Hitler_mit_Stab.jpg
+- Visita de Francisco Franco a la localidad de Tolosa (15 de 21) - Fondo Car-Kutxa Fototeka.jpg
+  Autor: Vicente Martín · Licencia: CC BY-SA 3.0
+  https://commons.wikimedia.org/wiki/File%3AVisita_de_Francisco_Franco_a_la_localidad_de_Tolosa_(15_de_21)_-_Fondo_Car-Kutxa_Fototeka.jpg
 - 1 Panzer Division.jpg
   Autor: Panzerman1984 · Licencia: CC BY-SA 3.0
   https://commons.wikimedia.org/wiki/File%3A1_Panzer_Division.jpg
@@ -47,66 +53,96 @@ Música y efectos: producción propia (síntesis), sin derechos de terceros. Voz
 === TODAS LAS IMÁGENES USADAS, POR CAPÍTULO ===
 
 -- Capítulo 0 --
+[Public domain] 242-EB-7-19A - DPLA - c9156607439d9ceac8be028cab046e64.jpg
+   Autor/fuente: General Services Administration. National Archives and Records Service. Office of the National Archives. (9/19/1966 - 4/ · https://commons.wikimedia.org/wiki/File%3A242-EB-7-19A_-_DPLA_-_c9156607439d9ceac8be028cab046e64.jpg
+[CC BY 4.0] Adolf Hitler och andra naziledare hälsar i Hamburg 1939 SLSA 1312-3 foto 7.jpg
+   Autor/fuente: Thelma Starckjohann-Bruun · https://commons.wikimedia.org/wiki/File%3AAdolf_Hitler_och_andra_naziledare_h%C3%A4lsar_i_Hamburg_1939_SLSA_1312-3_foto_7.jpg
+[Public domain] Adolf Hitler v Mariboru.jpg
+   Autor/fuente: Unknown authorUnknown author · https://commons.wikimedia.org/wiki/File%3AAdolf_Hitler_v_Mariboru.jpg
+[Public domain] Adolf Hitler w rozmowie z oficerami na froncie zachodnim (2-273).jpg
+   Autor/fuente: Unknown photographer · https://commons.wikimedia.org/wiki/File%3AAdolf_Hitler_w_rozmowie_z_oficerami_na_froncie_zachodnim_(2-273).jpg
+[Public domain] Adolf Hitler, Woldemar Brinkmann, 1940.jpg
+   Autor/fuente: Kaminski · https://commons.wikimedia.org/wiki/File%3AAdolf_Hitler%2C_Woldemar_Brinkmann%2C_1940.jpg
+[CC BY-SA 3.0 de] Bundesarchiv Bild 146-1971-070-61, Hitler mit Generälen bei Lagebesprechung Getty 107424743.jpg
+   Autor/fuente: Unknown authorUnknown author · https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_146-1971-070-61%2C_Hitler_mit_Gener%C3%A4len_bei_Lagebesprechung_Getty_107424743.jpg
 [CC BY-SA 3.0 de] Bundesarchiv Bild 183-L15327, Spanien, Heinrich Himmler bei Franco.jpg
    Autor/fuente: Unknown authorUnknown author · https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-L15327%2C_Spanien%2C_Heinrich_Himmler_bei_Franco.jpg
+[Public domain] Corpo Truppe Volontarie 73.jpg
+   Autor/fuente: Unknown authorUnknown author · https://commons.wikimedia.org/wiki/File%3ACorpo_Truppe_Volontarie_73.jpg
+[Public domain] Desfile de la Victoria (Madrid, 19 de mayo de 1939).jpg
+   Autor/fuente: AnonymousUnknown author · https://commons.wikimedia.org/wiki/File%3ADesfile_de_la_Victoria_(Madrid%2C_19_de_mayo_de_1939).jpg
 [Public domain] Entrevista de Bordighera (Franco y Mussolini).jpg
    Autor/fuente: AnonymousUnknown author (Keystone) · https://commons.wikimedia.org/wiki/File%3AEntrevista_de_Bordighera_(Franco_y_Mussolini).jpg
-[Public domain] Entrevista de Hendaya (ilustración).jpg
-   Autor/fuente: Ilustración de época (c. 1940) · https://commons.wikimedia.org/wiki/File:Entrevista_de_Hendaya_(ilustraci%C3%B3n).jpg
+[Public domain] France, Other European Locations - Rommel and Other Personalities, Including Lucie Rommel, Guderian, Hitler, British and French Officers - DPLA - 66151fdd817b9d04fd77dcedc1f067d1 (page 249).jpg
+   Autor/fuente: General Services Administration. National Archives and Records Service. Office of the National Archives. (9/19/1966 - 4/ · https://commons.wikimedia.org/wiki/File%3AFrance%2C_Other_European_Locations_-_Rommel_and_Other_Personalities%2C_Including_Lucie_Rommel%2C_Guderian%2C_Hitler%2C_British_and_French_Officers_-_DPLA_-_66151fdd817b9d04fd77dcedc1f067d1_(page_249).jpg
+[CC BY-SA 3.0] Francisco Franco escoltado por la Guardia Mora visita San Sebastián una vez finalizada la guerra (8 de 8) - Fondo Marín-Kutxa Fototeka.jpg
+   Autor/fuente: Pascual Marín · https://commons.wikimedia.org/wiki/File%3AFrancisco_Franco_escoltado_por_la_Guardia_Mora_visita_San_Sebasti%C3%A1n_una_vez_finalizada_la_guerra_(8_de_8)_-_Fondo_Mar%C3%ADn-Kutxa_Fototeka.jpg
+[Public domain] Francisco Franco first meeting of government.jpg
+   Autor/fuente: Wide World Photos/ Archival by La Presse · https://commons.wikimedia.org/wiki/File%3AFrancisco_Franco_first_meeting_of_government.jpg
+[Public domain] Francisco Franco, Gonzalo Queipo de Llano y el cardenal Eustaquio Ilundáin y Esteban.jpg
+   Autor/fuente: AnonymousUnknown author · https://commons.wikimedia.org/wiki/File%3AFrancisco_Franco%2C_Gonzalo_Queipo_de_Llano_y_el_cardenal_Eustaquio_Ilund%C3%A1in_y_Esteban.jpg
+[Public domain] Francisco Franco, octubre de 1936, Burgos.jpg
+   Autor/fuente: AnonymousUnknown author (Keystone) · https://commons.wikimedia.org/wiki/File%3AFrancisco_Franco%2C_octubre_de_1936%2C_Burgos.jpg
+[Public domain] Francisco Franco, Santa Cruz de Tenerife (1936).jpg
+   Autor/fuente: AnonymousUnknown author · https://commons.wikimedia.org/wiki/File%3AFrancisco_Franco%2C_Santa_Cruz_de_Tenerife_(1936).jpg
 [Public domain] FrancoenReus.jpg
    Autor/fuente: Joan Barceló, fallecido en 1980, derechos actuales Pere Joan Barceló, su hijo · https://commons.wikimedia.org/wiki/File%3AFrancoenReus.jpg
+[Public domain] Fritz Christen, Adolf Hitler, 1941.jpg
+   Autor/fuente: Unknown authorUnknown author · https://commons.wikimedia.org/wiki/File%3AFritz_Christen%2C_Adolf_Hitler%2C_1941.jpg
+[Public domain] Generaal-veldmaarschalkceremonie van 1940.png
+   Autor/fuente: Unknown authorUnknown author · https://commons.wikimedia.org/wiki/File%3AGeneraal-veldmaarschalkceremonie_van_1940.png
+[CC BY-SA 4.0] Hitler and Mussolini in Nikolaev.jpg
+   Autor/fuente: Unknown authorUnknown author · https://commons.wikimedia.org/wiki/File%3AHitler_and_Mussolini_in_Nikolaev.jpg
+[Public domain] Hitler, Himmler and Wolff looking at destroyed Char B1 tank, 1940.jpg
+   Autor/fuente: Unknown authorUnknown author · https://commons.wikimedia.org/wiki/File%3AHitler%2C_Himmler_and_Wolff_looking_at_destroyed_Char_B1_tank%2C_1940.jpg
 
 -- Capítulo 1 --
-[CC BY 4.0] Aeródromo de El Toro, edificio que albergaba el cuerpo de mando de las escuadrillas (1937-39).jpg
-   Autor/fuente: Juan Emilio Prades Bel · https://commons.wikimedia.org/wiki/File%3AAer%C3%B3dromo_de_El_Toro%2C_edificio_que_albergaba_el_cuerpo_de_mando_de_las_escuadrillas_(1937-39).jpg
 [CC BY-SA 4.0] Bataillon Italiens à Monte Pelado avec Carlo Rosselli (1936).jpg
    Autor/fuente: Unknown authorUnknown author · https://commons.wikimedia.org/wiki/File%3ABataillon_Italiens_%C3%A0_Monte_Pelado_avec_Carlo_Rosselli_(1936).jpg
-[Public domain] Colonel Stephen Fuqua at 15th International Brigade in Quinto (American Military Attache); Captain Hans Amlie (l.), Robert Merriman, Robert Thompson, David Doran and Colonel Fuqua Oct 1937 Edit.png
-   Autor/fuente: Photographic Unit of the 15th International Brigade · https://commons.wikimedia.org/wiki/File%3AColonel_Stephen_Fuqua_at_15th_International_Brigade_in_Quinto_(American_Military_Attache)%3B_Captain_Hans_Amlie_(l.)%2C_Robert_Merriman%2C_Robert_Thompson%2C_David_Doran_and_Colonel_Fuqua_Oct_1937_Edit.png
 [Public domain] David Doran (l.), Lieutenant Colonel Vladimir Copic and Captain Radomir Smrcka, Ambite Nov 1937.png
    Autor/fuente: Photographic Unit of the 15th International Brigade · https://commons.wikimedia.org/wiki/File%3ADavid_Doran_(l.)%2C_Lieutenant_Colonel_Vladimir_Copic_and_Captain_Radomir_Smrcka%2C_Ambite_Nov_1937.png
 [Public domain] David Doran (l.), Marion Merriman, Major Robert Merriman at Ambite Nov 1937.png
    Autor/fuente: Photographic Unit of the 15th International Brigade · https://commons.wikimedia.org/wiki/File%3ADavid_Doran_(l.)%2C_Marion_Merriman%2C_Major_Robert_Merriman_at_Ambite_Nov_1937.png
 
 -- Capítulo 3 --
+[CC BY 4.0] Aniversario de la liberación de Bilbao tribuna 1938.jpg
+   Autor/fuente: Imágenes procedentes de los fondos de la Biblioteca Nacional de España · https://commons.wikimedia.org/wiki/File%3AAniversario_de_la_liberaci%C3%B3n_de_Bilbao_tribuna_1938.jpg
 [CC BY-SA 3.0 de] Bundesarchiv Bild 121-1010, Berlin-Lichterfelde, Suner, Himmler.jpg
    Autor/fuente: UnknownUnknown · https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_121-1010%2C_Berlin-Lichterfelde%2C_Suner%2C_Himmler.jpg
-[CC BY-SA 3.0 de] Bundesarchiv Bild 183-2005-0601-501, Himmler in Madrid.jpg
-   Autor/fuente: Unknown authorUnknown author · https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-2005-0601-501%2C_Himmler_in_Madrid.jpg
+[CC BY-SA 3.0 de] Bundesarchiv Bild 146-1979-013-43, Wilhelm Canaris.jpg
+   Autor/fuente: UnknownUnknown · https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_146-1979-013-43%2C_Wilhelm_Canaris.jpg
+[Public domain] HMS Kelly.JPG
+   Autor/fuente: Arthur Conry (digitised and edited by Wiki-Ed) · https://commons.wikimedia.org/wiki/File%3AHMS_Kelly.JPG
 [CC0] Serrano Suñer.jpg
    Autor/fuente: Unknown authorUnknown author · https://commons.wikimedia.org/wiki/File%3ASerrano_Su%C3%B1er.jpg
+[Public domain] Súñer, Franco y Mussolini (entrevista de Bordighera).jpg
+   Autor/fuente: AnonymousUnknown author · https://commons.wikimedia.org/wiki/File%3AS%C3%BA%C3%B1er%2C_Franco_y_Mussolini_(entrevista_de_Bordighera).jpg
 
 -- Capítulo 4 --
 [Public domain] Churchill portrait NYP 45063.jpg
    Autor/fuente: British Government · https://commons.wikimedia.org/wiki/File%3AChurchill_portrait_NYP_45063.jpg
 
 -- Capítulo 5 --
+[CC0] Adolf Hitler receives Turkish amabassador Saffet Arikan in Führerhauptquartier Werwolf.jpg
+   Autor/fuente: © Photo credit: National Digital Archives, Poland · https://commons.wikimedia.org/wiki/File%3AAdolf_Hitler_receives_Turkish_amabassador_Saffet_Arikan_in_F%C3%BChrerhauptquartier_Werwolf.jpg
 [CC BY-SA 3.0 de] Bundesarchiv Bild 183-H25217, Henry Philippe Petain und Adolf Hitler.jpg
    Autor/fuente: Heinrich Hoffmann · https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-H25217%2C_Henry_Philippe_Petain_und_Adolf_Hitler.jpg
 
 -- Capítulo 6 --
-[CC BY-SA 3.0 de] Bundesarchiv Bild 183-2005-0601-500, Spanien, Himmlerbesucht die Burg von Toledo.jpg
-   Autor/fuente: Unknown authorUnknown author · https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-2005-0601-500%2C_Spanien%2C_Himmlerbesucht_die_Burg_von_Toledo.jpg
-[Public domain] Himmlerencuentroconfranco1940.jpg
-   Autor/fuente: Unknown authorUnknown author · https://commons.wikimedia.org/wiki/File%3AHimmlerencuentroconfranco1940.jpg
-
--- Capítulo 7 --
-[CC BY-SA 3.0 de] Bundesarchiv Bild 183-B05284, Walter v. Reichenau.jpg
-   Autor/fuente: Unknown authorUnknown author · https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-B05284%2C_Walter_v._Reichenau.jpg
-[CC BY-SA 3.0 de] Bundesarchiv Bild 183-R99057, Führerhauptquartier, Adolf Hitler mit Stab.jpg
-   Autor/fuente: Heinrich Hoffmann · https://commons.wikimedia.org/wiki/File%3ABundesarchiv_Bild_183-R99057%2C_F%C3%BChrerhauptquartier%2C_Adolf_Hitler_mit_Stab.jpg
+[CC BY-SA 3.0] Visita de Francisco Franco a la localidad de Tolosa (15 de 21) - Fondo Car-Kutxa Fototeka.jpg
+   Autor/fuente: Vicente Martín · https://commons.wikimedia.org/wiki/File%3AVisita_de_Francisco_Franco_a_la_localidad_de_Tolosa_(15_de_21)_-_Fondo_Car-Kutxa_Fototeka.jpg
 
 -- Capítulo 9 --
 [CC BY-SA 3.0] 1 Panzer Division.jpg
    Autor/fuente: Panzerman1984 · https://commons.wikimedia.org/wiki/File%3A1_Panzer_Division.jpg
 [Public domain] Artyleria niemiecka na froncie pod Nowogrodem (2-898).jpg
    Autor/fuente: Pohle · https://commons.wikimedia.org/wiki/File%3AArtyleria_niemiecka_na_froncie_pod_Nowogrodem_(2-898).jpg
-[Public domain] German troops in Russia, 1941 - NARA - 540155.jpg
-   Autor/fuente: Unknown authorUnknown author or not provided · https://commons.wikimedia.org/wiki/File%3AGerman_troops_in_Russia%2C_1941_-_NARA_-_540155.jpg
 [Public domain] Operation Barbarossa - broken tank.jpg
    Autor/fuente: Unknown authorUnknown author · https://commons.wikimedia.org/wiki/File%3AOperation_Barbarossa_-_broken_tank.jpg
 [Public domain] Operation Barbarossa - German loot.jpg
    Autor/fuente: Unknown authorUnknown author · https://commons.wikimedia.org/wiki/File%3AOperation_Barbarossa_-_German_loot.jpg
+[Public domain] Tweede Wereldoorlog - Oostfront - Operatie Barbarossa, SFA022803819.jpg
+   Autor/fuente: Unknown authorUnknown author · https://commons.wikimedia.org/wiki/File%3ATweede_Wereldoorlog_-_Oostfront_-_Operatie_Barbarossa%2C_SFA022803819.jpg
 
 -- Capítulo 12 --
 [Public domain] AlistDivAzul.jpg
@@ -131,24 +167,24 @@ American and Soviet generals on the banks of the Elbe, Torgau, 26 April 1945 (11
 - Why We Fight: Divide and Conquer (1943) · Dominio público (US War Department; Public Domain Mark 1.0 en Archive.org)
   Fuente: U.S. War Department / National Archives · Archive.org item divide-and-conquer-1943_202504
   https://archive.org/details/divide-and-conquer-1943_202504
+- Spain in Revolt (R3) — Prelinger Archives · Prelinger Archives (sin restricciones conocidas; Archive.org)
+  Fuente: Prelinger Archives · Archive.org item 0540_Spain_in_Revolt_R3
+  https://archive.org/details/0540_Spain_in_Revolt_R3
 - Why We Fight: Divide and Conquer (1943) · Dominio público (US War Department; Public Domain Mark 1.0 en Archive.org)
   Fuente: U.S. War Department / National Archives · Archive.org item divide-and-conquer-1943_202504
   https://archive.org/details/divide-and-conquer-1943_202504
 - Spain in Revolt (Part II) — Prelinger Archives · Prelinger Archives (sin restricciones conocidas; Archive.org)
   Fuente: Prelinger Archives · Archive.org item spain_in_revolt
   https://archive.org/details/spain_in_revolt
-- Spain in Revolt (R3) — Prelinger Archives · Prelinger Archives (sin restricciones conocidas; Archive.org)
-  Fuente: Prelinger Archives · Archive.org item 0540_Spain_in_Revolt_R3
-  https://archive.org/details/0540_Spain_in_Revolt_R3
-- Why We Fight: The Battle of Britain (1943) · Dominio público (US War Department; licenseurl publicdomain en Archive.org)
-  Fuente: U.S. War Department / National Archives · Archive.org item BattleOfBritain
-  https://archive.org/details/BattleOfBritain
-- Why We Fight: The Battle of Britain (1943) · Dominio público (US War Department; licenseurl publicdomain en Archive.org)
-  Fuente: U.S. War Department / National Archives · Archive.org item BattleOfBritain
-  https://archive.org/details/BattleOfBritain
 - Naval Photographic Center film 16555 (British carrier, 1940) · Dominio público (U.S. Navy / National Archives; Public Domain Mark 1.0)
   Fuente: U.S. Naval Photographic Center / National Archives · Archive.org item NPC-16555
   https://archive.org/details/NPC-16555
+- Why We Fight: The Battle of Britain (1943) · Dominio público (US War Department; licenseurl publicdomain en Archive.org)
+  Fuente: U.S. War Department / National Archives · Archive.org item BattleOfBritain
+  https://archive.org/details/BattleOfBritain
+- Why We Fight: The Battle of Britain (1943) · Dominio público (US War Department; licenseurl publicdomain en Archive.org)
+  Fuente: U.S. War Department / National Archives · Archive.org item BattleOfBritain
+  https://archive.org/details/BattleOfBritain
 
 === ILUSTRACIONES GENERADAS CON IA (rotuladas en pantalla) ===
 Modelo FLUX.1 [schnell] vía fal.ai. Son ilustraciones de ambientación, no fotografías de época.

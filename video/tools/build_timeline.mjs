@@ -10,12 +10,13 @@ const images = JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'images.json')
 // Ilustraciones IA (data/ai.json): cada una se asigna a un único capítulo para no repetir
 const AI_CH = {hendaye_tren: 0, hambre_cola: 1, gibraltar_roca: 2, mesa_mapas: 3, bloqueo_mar: 4, tren_roto: 8, pirineos_columna: 7, stukas_estrecho: 7, flota_puerto: 10, granero_vacio: 11,
   ruinas_aldea: 1, mula_arado: 1, mujeres_fuente: 1, kiosco_propaganda: 6, despacho_balcon: 6, plaza_banderas: 6, balanza_trigo_canones: 11, puerto_inactivo: 11, vagones_frontera: 11, convoy_escolta: 4, manos_libro_cuentas: 4, telegrafista: 8, trenes_este: 9, voluntarios_estacion: 12, submarinos_puerto: 12, oficiales_prismaticos: 3, fortaleza_estrecho: 3, transportes_atlantico: 10};
-const DROP = /(Le_Chesne|Panzer_II|Sprz|Zniszczony|Niemiecka_piechota|Heinkel|Messerschmitt|Tweede_Wereldoorlog_SFA0228040|Ponferrada|Teleki|Junkers_Ju_87|Een_met_bommen|Sturzkampf)/i;
+const AI_TAG = {hendaye_tren: 'frontera', hambre_cola: 'hambre', gibraltar_roca: 'gibraltar', stukas_estrecho: 'wehrmacht', tren_roto: 'hambre', flota_puerto: 'naval', bloqueo_mar: 'naval', granero_vacio: 'hambre', mesa_mapas: 'mapas', pirineos_columna: 'frontera', ruinas_aldea: 'guerra', mula_arado: 'hambre', mujeres_fuente: 'hambre', kiosco_propaganda: 'regimen', despacho_balcon: 'regimen', plaza_banderas: 'regimen', balanza_trigo_canones: 'hambre', puerto_inactivo: 'hambre', vagones_frontera: 'frontera', convoy_escolta: 'naval', manos_libro_cuentas: 'dinero', telegrafista: 'mapas', trenes_este: 'barbarroja', voluntarios_estacion: 'azul', submarinos_puerto: 'naval', oficiales_prismaticos: 'gibraltar', fortaleza_estrecho: 'gibraltar', transportes_atlantico: 'atlantico'};
+const DROP = /(Molotov|Flossenb|Keitel_signature|Wilhelm_Keitel_signature|JONAS|instrument_of_surrender|Marsalkka|Arch_of_Triumph|Mar_chal_a_dit|Milice|1944_11_11|Funeral_services|Italian_Embassy|Jozef_Tiso|Een_Britse|Charles_Maurras|Le_Chesne|Panzer_II|Sprz|Zniszczony|Niemiecka_piechota|Heinkel|Messerschmitt|Tweede_Wereldoorlog_SFA0228040|Ponferrada|Teleki|Junkers_Ju_87|Een_met_bommen|Sturzkampf)/i;
 for (let i = images.length - 1; i >= 0; i--) if (DROP.test(images[i].file)) images.splice(i, 1);
 if (fs.existsSync(path.join(ROOT, 'data', 'ai.json'))) {
   for (const x of JSON.parse(fs.readFileSync(path.join(ROOT, 'data', 'ai.json'), 'utf8'))) {
     if (AI_CH[x.id] === undefined) continue;
-    images.push({chapter: AI_CH[x.id], tag: 'ia', file: x.file, title: 'IA ' + x.id, license: 'Ilustración generada con IA (FLUX schnell / fal.ai)', artist: '', credit: '', description: x.prompt, date: '', page: '', width: 1024, height: 576, ai: true});
+    images.push({chapter: AI_CH[x.id], tag: (typeof AI_TAG !== 'undefined' && AI_TAG[x.id]) || 'ia', aiId: x.id, file: x.file, title: 'IA ' + x.id, license: 'Ilustración generada con IA (FLUX schnell / fal.ai)', artist: '', credit: '', description: x.prompt, date: '', page: '', width: 1024, height: 576, ai: true});
   }
 }
 const f = (t) => Math.round(t * FPS);
@@ -169,27 +170,44 @@ const bgOf = (file) => {
   return name;
 };
 
-// Encuadres de foto que se alternan: marco centrado / pantalla completa / marco ladeado con año y fuente al lado
-const LAYOUTS = ['center', 'tiltR', 'full', 'tiltL', 'center', 'full', 'tiltL', 'tiltR', 'full', 'center'];
-let photoCount = 0;
-const layoutFor = (im) => {
-  let l = LAYOUTS[photoCount++ % LAYOUTS.length];
+// Rótulos de nombre y cargo (solo si el título/descripción de la foto menciona a la persona)
+const NAMES = {
+  hitler: ['Adolf Hitler', 'Canciller de Alemania', /hitler/i],
+  franco: ['Francisco Franco', 'Jefe del Estado español', /franco/i],
+  canaris: ['Wilhelm Canaris', 'Jefe de la Abwehr', /canaris/i],
+  serrano: ['Ramón Serrano Súñer', 'Cuñado de Franco', /(serrano|su[ñn]er)/i],
+  ribbentrop: ['Joachim von Ribbentrop', 'Ministro de Exteriores alemán', /ribbentrop/i],
+  mussolini: ['Benito Mussolini', 'Líder de Italia', /mussolini/i],
+  petain: ['Philippe Pétain', 'Jefe del régimen de Vichy', /p[eé]tain/i],
+  churchill: ['Winston Churchill', 'Primer ministro británico', /churchill/i],
+  hoare: ['Samuel Hoare', 'Embajador británico en Madrid', /hoare/i],
+  keitel: ['Wilhelm Keitel', 'Jefe del OKW', /keitel/i],
+  jodl: ['Alfred Jodl', 'Jefe de operaciones del OKW', /jodl/i],
+};
+// Encuadres de foto que se alternan
+const LAY_PLAIN = ['center', 'tiltR', 'full', 'tiltL', 'center', 'full', 'tiltL', 'tiltR', 'full', 'center'];
+const LAY_NAMED = ['lower', 'split', 'tiltL', 'lower', 'center', 'split', 'tiltR', 'lower'];
+let photoCount = 0, namedCount = 0;
+const layoutFor = (im, cap) => {
   const ar = im.width / im.height;
+  if (cap && cap.name) {
+    let l = LAY_NAMED[namedCount++ % LAY_NAMED.length];
+    if ((l === 'lower') && (ar < 1.15 || im.width < 1100)) l = 'split';
+    return l;
+  }
+  let l = LAY_PLAIN[photoCount++ % LAY_PLAIN.length];
   if (l === 'full' && (ar < 1.15 || im.width < 1300)) l = photoCount % 2 ? 'tiltL' : 'tiltR';
   if ((l === 'tiltL' || l === 'tiltR') && ar > 2.2) l = 'center';
   return l;
 };
 const captionFor = (im) => {
-  if (im.ai) return {credit: 'Ilustración generada con IA'};
-  const y = ((im.date || '').match(/(19[3-5]\d)/) || (im.title || '').match(/(19[3-5]\d)/) || [])[1];
-  const raw = `${im.artist || ''} ${im.credit || ''}`;
-  let credit = 'Wikimedia Commons';
-  if (/signal corps|nara|national archives|u.s. army|us army/i.test(raw)) credit = 'US Army Signal Corps · NARA';
-  else if (/library of congress|loc./i.test(raw)) credit = 'Library of Congress';
-  else if (/bundesarchiv/i.test(raw)) credit = 'Bundesarchiv';
-  else if (/u.s. navy|us navy|naval/i.test(raw)) credit = 'US Navy · NARA';
-  else if (im.artist && im.artist.length >= 5 && im.artist.length < 40 && !/unknown/i.test(im.artist)) credit = im.artist;
-  return {year: y, credit};
+  if (im.ai) return {};
+  const y = ((im.date || '').match(/(19[3-5]d)/) || (im.title || '').match(/(19[3-5]d)/) || [])[1];
+  const cap = {year: y};
+  const nm = NAMES[im.tag];
+  const others = Object.entries(NAMES).some(([k, v]) => k !== im.tag && v[2].test(`${im.title} ${im.description}`));
+  if (nm && nm[2].test(`${im.title} ${im.description}`) && !others) { cap.name = nm[0]; cap.role = nm[1]; }
+  return cap;
 };
 const baked = (file) => file.replace(/^img\//, 'img_b/');
 const FOCI = [[0.5, 0.38], [0.28, 0.4], [0.72, 0.4], [0.5, 0.62], [0.35, 0.3], [0.65, 0.55]];
@@ -288,23 +306,31 @@ for (const n of chapters) {
   }
   // Relleno: mezcla continua de fotos y clips de vídeo de archivo (sin repetir ninguno); planos de 4-6,5 s.
   const clipPrefs = (tt) => {
+    const et0 = entTag(tt);
+    if (et0 && CLIPENT[et0]) return CLIPENT[et0].concat(CHCLIP[n] || []);
     let cur = CHCLIP[n] || ['victory'];
     for (const [t0, tags2] of clipCues) if (t0 <= tt + 0.01) cur = tags2;
     return cur;
   };
   const clipCues = (CLIPCUE[n] || []).map(([m, tg]) => { const ss = sentIn(n, m); return ss ? [ss.start, [tg, ...(CHCLIP[n] || [])]] : null; }).filter(Boolean).sort((p, q) => p[0] - q[0]);
   const pickClip = (tt) => { for (const tg of clipPrefs(tt)) { const c = (CLIPBY[tg] || []).find((x) => !clipUsed.has(x.id)); if (c) return c; } return null; };
+  // Qué se está diciendo en cada momento → qué imagen toca
+  const ENT = [[/hitler|f[uü]hrer/i, 'hitler'], [/canaris|abwehr/i, 'canaris'], [/serrano/i, 'serrano'], [/ribbentrop/i, 'ribbentrop'], [/mussolini/i, 'mussolini'], [/p[eé]tain|vichy/i, 'petain'], [/churchill/i, 'churchill'], [/hoare/i, 'hoare'], [/keitel/i, 'keitel'], [/jodl/i, 'jodl'], [/franco|caudillo/i, 'franco'], [/gibraltar|pe[ñn][oó]n|estrecho/i, 'gibraltar'], [/hambre|pan|trigo|grano|raci[oó]n|inanici[oó]n|hambruna|alimentos|cosecha/i, 'hambre'], [/submarino|flota|marina|barcos|buques|naval|bloqueo|convoy/i, 'naval'], [/barbarroja|uni[oó]n sovi|moscú|rusia|frente oriental/i, 'barbarroja'], [/guerra civil|devastaci|ruinas|1936/i, 'guerra'], [/canarias|azores|madeira|atl[aá]ntico/i, 'atlantico'], [/pirineos|frontera|hendaya/i, 'frontera'], [/soborno|millones de d[oó]lares|dinero|cr[eé]ditos/i, 'dinero'], [/divisi[oó]n azul|voluntarios/i, 'azul'], [/tropas|ej[eé]rcito|alemanes|wehrmacht|cuerpos?/i, 'wehrmacht']];
+  const sentAt = (tt) => sentences.find((q) => q.chapter === n && q.start - 0.05 <= tt && tt < q.end + 0.3) || null;
+  const entTag = (tt) => { const qs = sentences.filter((q) => q.chapter === n && q.end > tt && q.start < tt + 4.2); for (const q of qs) for (const [re, tg] of ENT) if (re.test(q.text)) return tg; return null; };
+  const unusedTag = (tg) => images.filter((p) => p.tag === tg && !usage.has(p.file) && !p.ai).sort((a, b) => Math.abs(a.chapter - n) - Math.abs(b.chapter - n)).concat(images.filter((p) => p.tag === tg && !usage.has(p.file) && p.ai).sort((a, b) => Math.abs(a.chapter - n) - Math.abs(b.chapter - n)));
   const pickPhoto = (tt) => {
+    const et = entTag(tt);
+    if (et) { const c0 = unusedTag(et); if (c0.length) return c0[0]; }
     const tag = tagAt(tt);
-    const unusedOf = (arr) => arr.filter((p) => !usage.has(p.file));
-    const own = pool.filter((p) => p.tag === tag);
-    const extras = pool.filter((p) => /^[xy][0-9]/.test(p.tag));
-    let c1 = unusedOf(own);
-    if (!c1.length) c1 = unusedOf(extras);
-    if (!c1.length) c1 = unusedOf(pool);
-    return c1[0] || null;
+    const own = pool.filter((p) => p.tag === tag && !p.ai && !usage.has(p.file));
+    if (own.length) return own[0];
+    const ai = (byChapter[n] || []).filter((p) => p.ai && !usage.has(p.file));
+    return ai[0] || null;
   };
+  const CLIPENT = {hambre: ['guerracivil'], guerra: ['guerracivil'], franco: ['guerracivil'], regimen: ['guerracivil'], frontera: ['guerracivil', 'f1940'], naval: ['rn', 'guerra1940'], atlantico: ['rn', 'guerra1940']};
   let pat = 0;
+  let photoRun = 0;
   for (const [a, b] of freeSegs) {
     let t = a;
     let first = true;
@@ -315,7 +341,9 @@ for (const n of chapters) {
         if (prev) { prev.dur += f(b) - f(t); break; }
       }
       const forceV = (FORCE_VIDEO[n] || []).some((mm) => { const ss = sentIn(n, mm); return ss && t >= ss.start - 0.3 && t <= ss.end + 0.2; });
-      const wantVideo = forceV || [1, 3].includes(pat % 5);
+      const et1 = entTag(t);
+      const hasEnt = !!(et1 && unusedTag(et1).length);
+      const wantVideo = photoRun >= 2 || (!hasEnt && (forceV || [1, 3].includes(pat % 5)));
       pat++;
       let unit = null;
       let dur = 0;
@@ -332,10 +360,11 @@ for (const n of chapters) {
         warn.push(`REPETIDA forzada ch${n} en ${t.toFixed(0)}s`);
       }
       if (remain - dur < 2.0 && unit.photo) dur = remain <= 7 ? remain : remain / 2;
+      photoRun = unit.photo ? photoRun + 1 : 0;
       if (unit.photo) {
         const u = usage.get(unit.photo.file) || 0;
         usage.set(unit.photo.file, u + 1);
-        { const sh = makePhotoShot(unit.photo, t, t + dur, u); sh.layout = layoutFor(unit.photo); sh.caption = captionFor(unit.photo); chapterShots.push(sh); }
+        { const sh = makePhotoShot(unit.photo, t, t + dur, u); sh.caption = captionFor(unit.photo); sh.layout = layoutFor(unit.photo, sh.caption); chapterShots.push(sh); }
       } else {
         clipUsed.add(unit.clip.id);
         chapterShots.push({kind: 'video', from: f(t), dur: Math.max(1, f(t + dur) - f(t)), src: unit.clip.file, bg: unit.clip.bg, clip: unit.clip.id});
